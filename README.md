@@ -1,4 +1,4 @@
-# awesome-embodied-vla/va [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-embodied-vla/va/vln [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Vision Language Action (VLA) Models
 
@@ -6,7 +6,7 @@
 ### 2025 
 
 - [2025] EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation [[paper](https://arxiv.org/pdf/2501.01895)]
-  
+- [2025] Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing [[paper](https://arxiv.org/pdf/2501.06919)]
 
 
 ### 2024
