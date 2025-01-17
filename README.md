@@ -36,6 +36,15 @@
 - [2023] RT-1: Robotics Transformer for Real-World Control at Scale [[paper](https://arxiv.org/pdf/2212.06817)]
 - [2023] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [[paper](https://arxiv.org/pdf/2307.15818)]
 
+
+## Vision Language Navigation (VLN) Models
+
+### 2024
+
+- [2024] Navid: Video-based vlm plans the next step for vision-andlanguage navigation [[paper](https://arxiv.org/pdf/2402.15852)]
+- [2024] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[paper](https://arxiv.org/pdf/2412.04453)]
+- [2024] The One RING: a Robotic Indoor Navigation Generalist [[paper](https://arxiv.org/pdf/2412.14401)]
+
 ## Vision Action (VA) Models
 
 ### 2024
