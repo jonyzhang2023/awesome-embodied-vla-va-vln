@@ -28,6 +28,8 @@
 - [2024] Bi-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations [[paper](https://arxiv.org/pdf/2405.06039)]
 - [2024] An Embodied Generalist Agent in 3D World [[paper](https://arxiv.org/pdf/2311.12871)]
 - [2024] RoboMM: All-in-One Multimodal Large Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2412.07215)]
+- [2024] SpatialBot: Precise Spatial Understanding with Vision Language Models [[paper](https://arxiv.org/pdf/2406.13642)]
+- [2024] Depth Helps: Improving Pre-trained RGB-based Policy with Depth Information Injection [[paper](https://arxiv.org/pdf/2408.05107v1)]
 
 
 ### 2023 
