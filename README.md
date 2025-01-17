@@ -1,4 +1,4 @@
-# awesome-embodied-vla/va [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-embodied-vla/va/vln [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Vision Language Action (VLA) Models
 
