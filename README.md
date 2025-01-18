@@ -8,6 +8,7 @@
 - [2025] EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation [[paper](https://arxiv.org/pdf/2501.01895)]
 - [2025] Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing [[paper](https://arxiv.org/pdf/2501.06919)]
 - [2025] Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding [[paper](https://arxiv.org/pdf/2501.04693)]
+- [2025] FAST: Efficient Action Tokenization for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2501.09747)]
 
 ### 2024
 
