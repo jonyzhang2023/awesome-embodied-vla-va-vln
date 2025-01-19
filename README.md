@@ -57,6 +57,7 @@
 - [2024] Diffusion Policy Policy Optimization [[paper](https://arxiv.org/pdf/2409.00588)]
 - [2024] Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation [[paper](https://arxiv.org/pdf/2407.00451)]
 - [2024] EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning [[paper](https://arxiv.org/pdf/2407.01479)]
+- [2024] Equivariant Diffusion Policy [[paper](https://arxiv.org/pdf/2407.01812)]
 - [2024] Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models [[paper](https://arxiv.org/pdf/2409.07163)]
 - [2024] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[paper](https://arxiv.org/pdf/2410.10803)]
 - [2024] Motion Before Action: Diffusing Object Motion as Manipulation Condition [[paper](https://arxiv.org/pdf/2411.09658)]
@@ -74,6 +75,11 @@
 - [2024] Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Hierarchical_Diffusion_Policy_for_Kinematics-Aware_Multi-Task_Robotic_Manipulation_CVPR_2024_paper.pdf)]
 - [2024] Equivariant diffusion policy [[paper](https://arxiv.org/pdf/2407.01812)]
 - [2024] Learning universal policies via text-guided video generation [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1d5b9233ad716a43be5c0d3023cb82d0-Paper-Conference.pdf)]
+- [2024] Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning [[paper](https://arxiv.org/pdf/2307.01849)]
+- [2024] 3D Diffuser Actor: Policy Diffusion with 3D Scene Representations [[paper](https://arxiv.org/pdf/2402.10885)]
+- [2024] Act3D: 3D Feature Field Transformers for Multi-Task Robotic Manipulation [[paper](https://arxiv.org/pdf/2306.17817)]
+- [2024] GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy [[paper](https://arxiv.org/pdf/2410.17488)]
+- [2024] Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation [[paper](https://arxiv.org/pdf/2411.18623)]
 
 
 
