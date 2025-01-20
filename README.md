@@ -31,7 +31,7 @@
 - [2024] RoboMM: All-in-One Multimodal Large Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2412.07215)]
 - [2024] SpatialBot: Precise Spatial Understanding with Vision Language Models [[paper](https://arxiv.org/pdf/2406.13642)]
 - [2024] Depth Helps: Improving Pre-trained RGB-based Policy with Depth Information Injection [[paper](https://arxiv.org/pdf/2408.05107v1)]
-
+- [2024] A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
 
 ### 2023 
 - [2023] RT-1: Robotics Transformer for Real-World Control at Scale [[paper](https://arxiv.org/pdf/2212.06817)]
