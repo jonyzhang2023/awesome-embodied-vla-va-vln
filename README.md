@@ -1,7 +1,13 @@
 # awesome-embodied-vla/va/vln [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Vision Language Action (VLA) Models
 
+### Survey
+- [2024] A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
+- [2024] A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
+- [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
+
+
+## Vision Language Action (VLA) Models
 
 ### 2025 
 
@@ -9,6 +15,8 @@
 - [2025] Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing [[paper](https://arxiv.org/pdf/2501.06919)]
 - [2025] Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding [[paper](https://arxiv.org/pdf/2501.04693)]
 - [2025] FAST: Efficient Action Tokenization for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2501.09747)]
+- [2025] GeoManip: Geometric Constraints as General Interfaces for Robot Manipulation [[paper](https://arxiv.org/pdf/2501.09783)]
+- [2025] Universal Actions for Enhanced Embodied Foundation Models [[paper](https://arxiv.org/pdf/2501.10105)]
 
 ### 2024
 
@@ -31,7 +39,7 @@
 - [2024] RoboMM: All-in-One Multimodal Large Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2412.07215)]
 - [2024] SpatialBot: Precise Spatial Understanding with Vision Language Models [[paper](https://arxiv.org/pdf/2406.13642)]
 - [2024] Depth Helps: Improving Pre-trained RGB-based Policy with Depth Information Injection [[paper](https://arxiv.org/pdf/2408.05107v1)]
-- [2024] A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
+
 
 ### 2023 
 - [2023] RT-1: Robotics Transformer for Real-World Control at Scale [[paper](https://arxiv.org/pdf/2212.06817)]
@@ -47,6 +55,11 @@
 - [2024] The One RING: a Robotic Indoor Navigation Generalist [[paper](https://arxiv.org/pdf/2412.14401)]
 
 ## Vision Action (VA) Models
+
+### 2025
+
+- [2025] Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [[paper](https://arxiv.org/pdf/2501.10100)]
+
 
 ### 2024
 
