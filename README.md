@@ -51,6 +51,11 @@
 
 ## Vision Language Navigation (VLN) Models
 
+### 2025
+
+- [2025] Semantic Mapping in Indoor Embodied AI – A Comprehensive Survey and Future Directions [[paper](https://arxiv.org/pdf/2501.05750)]
+
+
 ### 2024
 
 - [2024] Navid: Video-based vlm plans the next step for vision-andlanguage navigation [[paper](https://arxiv.org/pdf/2402.15852)]
