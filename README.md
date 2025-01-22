@@ -39,6 +39,9 @@
 - [2024] RoboMM: All-in-One Multimodal Large Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2412.07215)]
 - [2024] SpatialBot: Precise Spatial Understanding with Vision Language Models [[paper](https://arxiv.org/pdf/2406.13642)]
 - [2024] Depth Helps: Improving Pre-trained RGB-based Policy with Depth Information Injection [[paper](https://arxiv.org/pdf/2408.05107v1)]
+- [2024] HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers [[paper](https://arxiv.org/pdf/2410.05273)]
+
+
 
 
 ### 2023 
@@ -93,7 +96,8 @@
 - [2024] Act3D: 3D Feature Field Transformers for Multi-Task Robotic Manipulation [[paper](https://arxiv.org/pdf/2306.17817)]
 - [2024] GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy [[paper](https://arxiv.org/pdf/2410.17488)]
 - [2024] Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation [[paper](https://arxiv.org/pdf/2411.18623)]
-
+- [2024] Prediction with Action: Visual Policy Learning via Joint Denoising Process [[paper](https://arxiv.org/pdf/2411.18179)]
+- [2024] Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations [[paper](https://arxiv.org/pdf/2412.14803)]
 
 
 
