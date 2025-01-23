@@ -45,6 +45,7 @@
 
 
 ### 2023 
+
 - [2023] RT-1: Robotics Transformer for Real-World Control at Scale [[paper](https://arxiv.org/pdf/2212.06817)]
 - [2023] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [[paper](https://arxiv.org/pdf/2307.15818)]
 
