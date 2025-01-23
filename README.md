@@ -110,3 +110,7 @@
 ### 2023
 
 - [2023] Diffusion policy: Visuomotor policy learning via action diffusion [[paper](https://arxiv.org/pdf/2303.04137)]
+
+
+## Ralated Works
+- Awesome-Generalist-Agents [[repo](https://github.com/cheryyunl/awesome-generalist-agents)]
