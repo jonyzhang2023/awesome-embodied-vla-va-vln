@@ -72,6 +72,8 @@
 
 ### 2024
 
+- [2024] Learning Robotic Manipulation Policies from Point Clouds with Conditional Flow Matching [[paper](https://arxiv.org/pdf/2409.07343)]
+
 - [2024] 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)]
 - [2024] Sparse diffusion policy: A sparse, reusable, and flexible policy for robot learning [[paper](https://arxiv.org/pdf/2407.01531)]
 - [2024] ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2406.01586)]
