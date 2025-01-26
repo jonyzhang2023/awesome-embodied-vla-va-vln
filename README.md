@@ -51,6 +51,7 @@
 - [2024] TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [[paper](https://arxiv.org/pdf/2412.10345)]
 
 ### 2023 
+
 - [2023] RT-1: Robotics Transformer for Real-World Control at Scale [[paper](https://arxiv.org/pdf/2212.06817)]
 - [2023] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [[paper](https://arxiv.org/pdf/2307.15818)]
 - [2023] PaLM-E: An Embodied Multimodal Language Model: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [[paper](https://arxiv.org/pdf/2303.03378)]
@@ -58,6 +59,11 @@
 - [2023] Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation [[paper](https://arxiv.org/pdf/2312.13139)]
 
 ## Vision Language Navigation (VLN) Models
+
+### 2025
+
+- [2025] Semantic Mapping in Indoor Embodied AI – A Comprehensive Survey and Future Directions [[paper](https://arxiv.org/pdf/2501.05750)]
+
 
 ### 2024
 
@@ -73,6 +79,8 @@
 
 
 ### 2024
+
+- [2024] Learning Robotic Manipulation Policies from Point Clouds with Conditional Flow Matching [[paper](https://arxiv.org/pdf/2409.07343)]
 
 - [2024] 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)]
 - [2024] Sparse diffusion policy: A sparse, reusable, and flexible policy for robot learning [[paper](https://arxiv.org/pdf/2407.01531)]
@@ -112,3 +120,7 @@
 ### 2023
 
 - [2023] Diffusion policy: Visuomotor policy learning via action diffusion [[paper](https://arxiv.org/pdf/2303.04137)]
+
+
+## Ralated Works
+- Awesome-Generalist-Agents [[repo](https://github.com/cheryyunl/awesome-generalist-agents)]
