@@ -40,14 +40,22 @@
 - [2024] SpatialBot: Precise Spatial Understanding with Vision Language Models [[paper](https://arxiv.org/pdf/2406.13642)]
 - [2024] Depth Helps: Improving Pre-trained RGB-based Policy with Depth Information Injection [[paper](https://arxiv.org/pdf/2408.05107v1)]
 - [2024] HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers [[paper](https://arxiv.org/pdf/2410.05273)]
-
-
-
+- [2024] LLaRA: Supercharging Robot Learning Data for Vision-Language Policy [[paper](https://arxiv.org/pdf/2406.20095)]
+- [2024] RoboUniView: Visual-Language Model with Unified View Representation for Robotic Manipulation [[paper](https://arxiv.org/pdf/2406.18977)]
+- [2024] Robotic Control via Embodied Chain-of-Thought Reasoning [[paper](https://arxiv.org/pdf/2407.08693)]
+- [2024] GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation [[paper](https://arxiv.org/pdf/2410.06158)]
+- [2024] Latent Action Pretraining from Videos [[paper](https://arxiv.org/pdf/2410.11758)]
+- [2024] DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution [[paper](https://arxiv.org/pdf/2411.02359)]
+- [2024] RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation [[paper](https://arxiv.org/pdf/2411.02704)]
+- [2024] Moto: Latent Motion Token as the Bridging Language for Robot Manipulation [[paper](https://arxiv.org/pdf/2412.04445)]
+- [2024] TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [[paper](https://arxiv.org/pdf/2412.10345)]
 
 ### 2023 
 - [2023] RT-1: Robotics Transformer for Real-World Control at Scale [[paper](https://arxiv.org/pdf/2212.06817)]
 - [2023] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [[paper](https://arxiv.org/pdf/2307.15818)]
-
+- [2023] PaLM-E: An Embodied Multimodal Language Model: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [[paper](https://arxiv.org/pdf/2303.03378)]
+- [2023] Vision-Language Foundation Models as Effective Robot Imitators [[paper](https://arxiv.org/pdf/2311.01378)]
+- [2023] Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation [[paper](https://arxiv.org/pdf/2312.13139)]
 
 ## Vision Language Navigation (VLN) Models
 
