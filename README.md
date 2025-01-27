@@ -78,6 +78,7 @@
 ### 2025
 
 - [2025] Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [[paper](https://arxiv.org/pdf/2501.10100)]
+- [2025] You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations [[paper](https://arxiv.org/pdf/2501.14208)]
 
 
 ### 2024
