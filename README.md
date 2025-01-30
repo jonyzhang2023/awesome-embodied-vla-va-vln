@@ -17,6 +17,8 @@
 - [2025] FAST: Efficient Action Tokenization for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2501.09747)]
 - [2025] GeoManip: Geometric Constraints as General Interfaces for Robot Manipulation [[paper](https://arxiv.org/pdf/2501.09783)]
 - [2025] Universal Actions for Enhanced Embodied Foundation Models [[paper](https://arxiv.org/pdf/2501.10105)]
+- [2025] SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model [[paper](https://arxiv.org/pdf/2501.15830)]
+- [2025] RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation [[paper](https://arxiv.org/pdf/2501.06605)]
 
 ### 2024
 
