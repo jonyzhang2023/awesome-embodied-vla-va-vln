@@ -21,6 +21,9 @@
 - [2025] RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation [[paper](https://arxiv.org/pdf/2501.06605)]
 - [2025] SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation [[paper](https://arxiv.org/pdf/2501.18564)]
 - [2025] Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper](https://arxiv.org/pdf/2501.16664)]
+- [2025] Integrating LMM Planners and 3D Skill Policies for Generalizable Manipulation [[paper](https://arxiv.org/pdf/2501.18733)]
+
+
 
 ### 2024
 
@@ -122,7 +125,7 @@
 - [2024] Prediction with Action: Visual Policy Learning via Joint Denoising Process [[paper](https://arxiv.org/pdf/2411.18179)]
 - [2024] Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations [[paper](https://arxiv.org/pdf/2412.14803)]
 - [2024] Bidirectional Decoding: Improving Action Chunking via Closed-Loop Resampling [[paper](https://arxiv.org/pdf/2408.17355)]
-
+- [2024] Streaming Diffusion Policy: Fast Policy Synthesis with Variable Noise Diffusion Models [[paper](https://arxiv.org/pdf/2406.04806)]
 
 ### 2023
 
