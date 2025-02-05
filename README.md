@@ -27,6 +27,8 @@
 
 ### 2024
 
+- [2024] VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Task [[paper](https://arxiv.org/pdf/2412.18194)]
+
 - [2024] π0: A Vision-Language-Action Flow Model for General Robot Control [[paper](https://www.physicalintelligence.company/download/pi0.pdf)]
 - [2024] RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[paper](https://arxiv.org/pdf/2410.07864)]
 - [2024] OpenVLA: An Open-Source Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2406.09246)]
