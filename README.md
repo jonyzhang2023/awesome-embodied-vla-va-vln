@@ -22,7 +22,8 @@
 - [2025] SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation [[paper](https://arxiv.org/pdf/2501.18564)]
 - [2025] Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper](https://arxiv.org/pdf/2501.16664)]
 - [2025] Integrating LMM Planners and 3D Skill Policies for Generalizable Manipulation [[paper](https://arxiv.org/pdf/2501.18733)]
-
+- [2025] VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation [[paper](https://arxiv.org/pdf/2502.02175)]
+- [2025] From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment [[paper](https://arxiv.org/pdf/2502.01828)]
 
 
 ### 2024
@@ -88,7 +89,9 @@
 
 - [2025] Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [[paper](https://arxiv.org/pdf/2501.10100)]
 - [2025] You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations [[paper](https://arxiv.org/pdf/2501.14208)]
-
+- [2025] ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills [[paper](https://arxiv.org/pdf/2502.01143)]
+- [2025] VILP: Imitation Learning with Latent Video Planning [[paper](https://arxiv.org/pdf/2502.01784)]
+- [2025] Learning the RoPEs: Better 2D and 3D Position Encodings with STRING [[paper](https://arxiv.org/pdf/2502.02562)]
 
 ### 2024
 
