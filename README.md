@@ -139,4 +139,5 @@
 
 ## Ralated Works
 - Awesome-Generalist-Agents [[repo](https://github.com/cheryyunl/awesome-generalist-agents)]
+- Awesome-LLM-Robotics [[repo](https://github.com/GT-RIPL/Awesome-LLM-Robotics)]
 - Awesome World Models for Robotics [[repo](https://github.com/leofan90/Awesome-World-Models)]
