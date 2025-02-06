@@ -6,6 +6,9 @@
 - [2024] A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
 - [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
 
+### Benchmark
+- [2024] EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models [[paper](https://arxiv.org/abs/2406.05756)]
+- [2024] VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Task [[paper](https://arxiv.org/pdf/2412.18194)]
 
 ## Vision Language Action (VLA) Models
 
@@ -26,8 +29,6 @@
 
 
 ### 2024
-
-- [2024] VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Task [[paper](https://arxiv.org/pdf/2412.18194)]
 
 - [2024] π0: A Vision-Language-Action Flow Model for General Robot Control [[paper](https://www.physicalintelligence.company/download/pi0.pdf)]
 - [2024] RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[paper](https://arxiv.org/pdf/2410.07864)]
