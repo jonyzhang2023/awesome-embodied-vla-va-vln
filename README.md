@@ -6,7 +6,7 @@
 - [2024] A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
 - [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
 
-### Benchmark
+## Benchmark
 - [2024] EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models [[paper](https://arxiv.org/abs/2406.05756)]
 - [2024] VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Task [[paper](https://arxiv.org/pdf/2412.18194)]
 
@@ -93,6 +93,8 @@
 - [2025] ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills [[paper](https://arxiv.org/pdf/2502.01143)]
 - [2025] VILP: Imitation Learning with Latent Video Planning [[paper](https://arxiv.org/pdf/2502.01784)]
 - [2025] Learning the RoPEs: Better 2D and 3D Position Encodings with STRING [[paper](https://arxiv.org/pdf/2502.02562)]
+- [2025] When Pre-trained Visual Representations Fall Short: Limitations in Visuo-Motor Robot Learning [[paper](https://arxiv.org/pdf/2502.03270)]
+- [2025] RoboGrasp: A Universal Grasping Policy for Robust Robotic Control [[paper](https://arxiv.org/pdf/2502.03072)]
 
 ### 2024
 
@@ -132,6 +134,8 @@
 - [2024] Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations [[paper](https://arxiv.org/pdf/2412.14803)]
 - [2024] Bidirectional Decoding: Improving Action Chunking via Closed-Loop Resampling [[paper](https://arxiv.org/pdf/2408.17355)]
 - [2024] Streaming Diffusion Policy: Fast Policy Synthesis with Variable Noise Diffusion Models [[paper](https://arxiv.org/pdf/2406.04806)]
+- [2024] CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction [[paper](https://arxiv.org/pdf/2412.06782)]
+
 
 ### 2023
 
