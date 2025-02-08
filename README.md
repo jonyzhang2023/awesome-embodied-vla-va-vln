@@ -142,6 +142,20 @@
 - [2023] Diffusion policy: Visuomotor policy learning via action diffusion [[paper](https://arxiv.org/pdf/2303.04137)]
 
 
+## Other Multimodal Large Language Model (MLLM)-based Policy
+
+
+### 2025
+
+- [2025] RoboGrasp: A Universal Grasping Policy for Robust Robotic Control [[paper](https://arxiv.org/pdf/2502.03072)]
+
+### 2024
+- [2024] AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation [[paper](https://arxiv.org/pdf/2406.11548)]
+- [2024] OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [[paper](https://arxiv.org/pdf/2501.03841)]
+- [2024] Grasp What You Want: Embodied Dexterous Grasping System Driven by Your Voice [[paper](https://arxiv.org/pdf/2412.10694)]
+- [2024] Towards Open-World Grasping with Large Vision-Language Models [[paper](https://arxiv.org/pdf/2406.18722v4)]
+- [2024] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[paper](https://arxiv.org/pdf/2407.11298v1)]
+
 ## Ralated Works
 - Awesome-Generalist-Agents [[repo](https://github.com/cheryyunl/awesome-generalist-agents)]
 - Awesome-LLM-Robotics [[repo](https://github.com/GT-RIPL/Awesome-LLM-Robotics)]
