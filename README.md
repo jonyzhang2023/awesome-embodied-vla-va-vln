@@ -27,7 +27,7 @@
 - [2025] Integrating LMM Planners and 3D Skill Policies for Generalizable Manipulation [[paper](https://arxiv.org/pdf/2501.18733)]
 - [2025] VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation [[paper](https://arxiv.org/pdf/2502.02175)]
 - [2025] From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment [[paper](https://arxiv.org/pdf/2502.01828)]
-
+- [2025] GRAPE: Generalizing Robot Policy via Preference Alignment [[paper](https://arxiv.org/pdf/2411.19309)]
 
 ### 2024
 
@@ -61,7 +61,7 @@
 - [2024] Moto: Latent Motion Token as the Bridging Language for Robot Manipulation [[paper](https://arxiv.org/pdf/2412.04445)]
 - [2024] TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [[paper](https://arxiv.org/pdf/2412.10345)]
 - [2024] Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments [[paper](https://arxiv.org/pdf/2409.05865)]
-
+- [2024] Moto: Latent Motion Token as the Bridging Language for Robot Manipulation [[paper](https://arxiv.org/pdf/2412.04445)]
 
 ### 2023 
 
