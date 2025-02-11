@@ -28,6 +28,9 @@
 - [2025] VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation [[paper](https://arxiv.org/pdf/2502.02175)]
 - [2025] From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment [[paper](https://arxiv.org/pdf/2502.01828)]
 - [2025] GRAPE: Generalizing Robot Policy via Preference Alignment [[paper](https://arxiv.org/pdf/2411.19309)]
+- [2025] DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control [[paper](https://arxiv.org/pdf/2502.05855)]
+- [2025] HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation [[paper](https://arxiv.org/pdf/2502.05485)]
+- [2025] Temporal Representation Alignment: Successor Features Enable Emergent Compositionality in Robot Instruction Following Temporal Representation Alignment [[paper](https://arxiv.org/pdf/2502.05454)]
 
 ### 2024
 
@@ -76,7 +79,7 @@
 ### 2025
 
 - [2025] Semantic Mapping in Indoor Embodied AI – A Comprehensive Survey and Future Directions [[paper](https://arxiv.org/pdf/2501.05750)]
-
+- [2025] VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning [[paper](https://arxiv.org/pdf/2502.00931)]
 
 ### 2024
 
@@ -122,6 +125,7 @@
 - [2024] Imagination Policy: Using Generative Point Cloud Models for Learning Manipulation Policies [[paper](https://arxiv.org/pdf/2406.11740)]
 - [2024] Equivariant diffusion policy [[paper](https://arxiv.org/pdf/2407.01812)]
 - [2024] Scaling diffusion policy in transformer to 1 billion parameters for robotic manipulation [[paper](https://arxiv.org/pdf/2409.14411)]
+- [2024] Data Scaling Laws in Imitation Learning for Robotic Manipulation [[paper](https://arxiv.org/pdf/2410.18647)]
 - [2024] Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Hierarchical_Diffusion_Policy_for_Kinematics-Aware_Multi-Task_Robotic_Manipulation_CVPR_2024_paper.pdf)]
 - [2024] Equivariant diffusion policy [[paper](https://arxiv.org/pdf/2407.01812)]
 - [2024] Learning universal policies via text-guided video generation [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1d5b9233ad716a43be5c0d3023cb82d0-Paper-Conference.pdf)]
