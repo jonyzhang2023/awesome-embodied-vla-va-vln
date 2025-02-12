@@ -31,6 +31,8 @@
 - [2025] DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control [[paper](https://arxiv.org/pdf/2502.05855)]
 - [2025] HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation [[paper](https://arxiv.org/pdf/2502.05485)]
 - [2025] Temporal Representation Alignment: Successor Features Enable Emergent Compositionality in Robot Instruction Following Temporal Representation Alignment [[paper](https://arxiv.org/pdf/2502.05454)]
+- [2025] ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/pdf/2502.05450)]
+
 
 ### 2024
 
@@ -65,6 +67,9 @@
 - [2024] TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [[paper](https://arxiv.org/pdf/2412.10345)]
 - [2024] Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments [[paper](https://arxiv.org/pdf/2409.05865)]
 - [2024] Moto: Latent Motion Token as the Bridging Language for Robot Manipulation [[paper](https://arxiv.org/pdf/2412.04445)]
+- [2024] RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics [[paper](https://arxiv.org/pdf/2406.10721)]
+
+
 
 ### 2023 
 
