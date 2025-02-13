@@ -33,6 +33,7 @@
 - [2025] Temporal Representation Alignment: Successor Features Enable Emergent Compositionality in Robot Instruction Following Temporal Representation Alignment [[paper](https://arxiv.org/pdf/2502.05454)]
 - [2025] ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/pdf/2502.05450)]
 - [2025] RoboBERT: An End-to-end Multimodal Robotic Manipulation Model [[paper](https://arxiv.org/pdf/2502.07837)]
+- [2025] Diffusion Transformer Policy: Scaling Diffusion Transformer for Generalist Visual-Language-Action Learning [[paper](https://arxiv.org/pdf/2410.15959)]
 
 ### 2024
 
