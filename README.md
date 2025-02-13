@@ -32,7 +32,7 @@
 - [2025] HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation [[paper](https://arxiv.org/pdf/2502.05485)]
 - [2025] Temporal Representation Alignment: Successor Features Enable Emergent Compositionality in Robot Instruction Following Temporal Representation Alignment [[paper](https://arxiv.org/pdf/2502.05454)]
 - [2025] ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/pdf/2502.05450)]
-
+- [2025] RoboBERT: An End-to-end Multimodal Robotic Manipulation Model [[paper](https://arxiv.org/pdf/2502.07837)]
 
 ### 2024
 
@@ -85,6 +85,8 @@
 
 - [2025] Semantic Mapping in Indoor Embodied AI – A Comprehensive Survey and Future Directions [[paper](https://arxiv.org/pdf/2501.05750)]
 - [2025] VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning [[paper](https://arxiv.org/pdf/2502.00931)]
+- [2025] TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2502.07306)]
+
 
 ### 2024
 
@@ -103,6 +105,13 @@
 - [2025] Learning the RoPEs: Better 2D and 3D Position Encodings with STRING [[paper](https://arxiv.org/pdf/2502.02562)]
 - [2025] When Pre-trained Visual Representations Fall Short: Limitations in Visuo-Motor Robot Learning [[paper](https://arxiv.org/pdf/2502.03270)]
 - [2025] RoboGrasp: A Universal Grasping Policy for Robust Robotic Control [[paper](https://arxiv.org/pdf/2502.03072)]
+- [2025] CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World [[paper](https://arxiv.org/pdf/2502.08449)]
+- [2025] Learning to Group and Grasp Multiple Objects [[paper](https://arxiv.org/pdf/2502.08452)]
+- [2025] Beyond Behavior Cloning: Robustness through Interactive Imitation and Contrastive Learning [[paper](https://arxiv.org/pdf/2502.07645)]
+- [2025] COMBO-Grasp: Learning Constraint-Based Manipulation for Bimanual Occluded Grasping [[paper](https://arxiv.org/pdf/2502.08054)]
+
+
+
 
 ### 2024
 
@@ -164,6 +173,15 @@
 - [2024] Grasp What You Want: Embodied Dexterous Grasping System Driven by Your Voice [[paper](https://arxiv.org/pdf/2412.10694)]
 - [2024] Towards Open-World Grasping with Large Vision-Language Models [[paper](https://arxiv.org/pdf/2406.18722v4)]
 - [2024] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[paper](https://arxiv.org/pdf/2407.11298v1)]
+
+
+## Sim-to-Real Transfer
+
+### 2025
+- [2025] RE3SIM: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation [[paper](https://arxiv.org/pdf/2502.08645)]
+- [2024] A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards [[paper](https://arxiv.org/pdf/2502.08643)]
+
+
 
 ## Ralated Works
 - Awesome-Generalist-Agents [[repo](https://github.com/cheryyunl/awesome-generalist-agents)]
