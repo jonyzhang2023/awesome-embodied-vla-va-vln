@@ -7,8 +7,13 @@
 - [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
 
 ## Benchmark
+- [2025] OpenBench: A New Benchmark and Baseline for Semantic Navigation in Smart Logistics [[paper](https://arxiv.org/pdf/2502.09238)]
 - [2024] EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models [[paper](https://arxiv.org/abs/2406.05756)]
 - [2024] VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Task [[paper](https://arxiv.org/pdf/2412.18194)]
+
+## Simulator
+- [2025] MuJoCo Playground [[paper](https://arxiv.org/pdf/2502.08844)]
+
 
 ## Vision Language Action (VLA) Models
 
@@ -34,6 +39,7 @@
 - [2025] ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/pdf/2502.05450)]
 - [2025] RoboBERT: An End-to-end Multimodal Robotic Manipulation Model [[paper](https://arxiv.org/pdf/2502.07837)]
 - [2025] Diffusion Transformer Policy: Scaling Diffusion Transformer for Generalist Visual-Language-Action Learning [[paper](https://arxiv.org/pdf/2410.15959)]
+- [2025] GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation [[paper](https://arxiv.org/pdf/2502.09268)]
 
 ### 2024
 
@@ -79,6 +85,11 @@
 - [2023] PaLM-E: An Embodied Multimodal Language Model: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [[paper](https://arxiv.org/pdf/2303.03378)]
 - [2023] Vision-Language Foundation Models as Effective Robot Imitators [[paper](https://arxiv.org/pdf/2311.01378)]
 - [2023] Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation [[paper](https://arxiv.org/pdf/2312.13139)]
+- [2023] Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models [[paper](https://arxiv.org/pdf/2310.10639)]
+- [2023] Learning Universal Policies via Text-Guided Video Generation [[paper](https://arxiv.org/pdf/2302.00111)]
+- [2023] Learning to Act from Actionless Videos through Dense Correspondences [[paper](https://arxiv.org/pdf/2310.08576)]
+- [2023] Compositional Foundation Models for Hierarchical Planning [[paper](https://arxiv.org/pdf/2309.08587)]
+
 
 ## Vision Language Navigation (VLN) Models
 
@@ -110,8 +121,9 @@
 - [2025] Learning to Group and Grasp Multiple Objects [[paper](https://arxiv.org/pdf/2502.08452)]
 - [2025] Beyond Behavior Cloning: Robustness through Interactive Imitation and Contrastive Learning [[paper](https://arxiv.org/pdf/2502.07645)]
 - [2025] COMBO-Grasp: Learning Constraint-Based Manipulation for Bimanual Occluded Grasping [[paper](https://arxiv.org/pdf/2502.08054)]
-
-
+- [2025] DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References [[paper](https://arxiv.org/pdf/2502.09614)]
+- [2025] S2-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation [[paper](https://arxiv.org/pdf/2502.09389)]
+- [2025] MTDP: Modulated Transformer Diffusion Policy Model [[paper](https://arxiv.org/pdf/2502.09029)]
 
 
 ### 2024
