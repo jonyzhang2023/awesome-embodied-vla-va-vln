@@ -90,6 +90,8 @@
 - [2023] Learning Universal Policies via Text-Guided Video Generation [[paper](https://arxiv.org/pdf/2302.00111)]
 - [2023] Learning to Act from Actionless Videos through Dense Correspondences [[paper](https://arxiv.org/pdf/2310.08576)]
 - [2023] Compositional Foundation Models for Hierarchical Planning [[paper](https://arxiv.org/pdf/2309.08587)]
+- [2023] VIMA: General Robot Manipulation with Multimodal Prompts [[paper](https://vimalabs.github.io./assets/vima_paper.pdf)]
+- [2023] Prompt a Robot to Walk with Large Language Models [[paper](https://arxiv.org/pdf/2309.09969)]
 
 
 ## Vision Language Navigation (VLN) Models
@@ -181,7 +183,6 @@
 
 ## Other Multimodal Large Language Model (MLLM)-based Embodied Agent
 
-
 ### 2025
 
 - [2025] RoboGrasp: A Universal Grasping Policy for Robust Robotic Control [[paper](https://arxiv.org/pdf/2502.03072)]
@@ -193,9 +194,16 @@
 - [2024] Towards Open-World Grasping with Large Vision-Language Models [[paper](https://arxiv.org/pdf/2406.18722v4)]
 - [2024] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[paper](https://arxiv.org/pdf/2407.11298v1)]
 - [2024] MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World [[paper](https://arxiv.org/pdf/2401.08577)]
+- [2024] Physically Grounded Vision-Language Models for Robotic Manipulation [[paper](https://arxiv.org/pdf/2309.02561)]
+- [2024] Eureka: Human-Level Reward Design via Coding Large Language Models [[paper](https://arxiv.org/pdf/2310.12931)]
 
 ### 2023
 - [2023] LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models [[paper](https://arxiv.org/pdf/2212.04088)]
+- [2023] LLM+P: Empowering Large Language Models with Optimal Planning Proficiency [[paper](https://arxiv.org/pdf/2304.11477)]
+- [2023] Code as Policies: Language Model Programs for Embodied Control [[paper](https://arxiv.org/pdf/2209.07753)]
+
+### 2022
+- [2022] Inner Monologue: Embodied Reasoning through Planning with Language Models [[paper](https://arxiv.org/pdf/2207.05608)]
 
 ## Sim-to-Real Transfer
 
