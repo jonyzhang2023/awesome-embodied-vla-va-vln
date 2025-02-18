@@ -2,6 +2,7 @@
 
 
 ## Survey
+- [2025] Development Report of Embodied Intelligence (Chinese) [[paper](https://www.caict.ac.cn/kxyj/qwfb/bps/202408/P020240830312499650772.pdf)]
 - [2024] A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
 - [2024] A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
 - [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
@@ -106,6 +107,11 @@
 - [2024] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[paper](https://arxiv.org/pdf/2412.04453)]
 - [2024] The One RING: a Robotic Indoor Navigation Generalist [[paper](https://arxiv.org/pdf/2412.14401)]
 
+### 2023
+
+- [2023] Bridging Zero-shot Object Navigation and Foundation Models through Pixel-Guided Navigation Skill [[paper](https://arxiv.org/pdf/2309.10309)]
+
+
 ## Vision Action (VA) Models
 
 ### 2025
@@ -171,9 +177,9 @@
 ### 2023
 
 - [2023] Diffusion policy: Visuomotor policy learning via action diffusion [[paper](https://arxiv.org/pdf/2303.04137)]
+- [2023] Exploring Visual Pre-training for Robot Manipulation: Datasets, Models and Methods [[paper](https://arxiv.org/pdf/2308.03620)]
 
-
-## Other Multimodal Large Language Model (MLLM)-based Policy
+## Other Multimodal Large Language Model (MLLM)-based Embodied Agent
 
 
 ### 2025
@@ -186,7 +192,10 @@
 - [2024] Grasp What You Want: Embodied Dexterous Grasping System Driven by Your Voice [[paper](https://arxiv.org/pdf/2412.10694)]
 - [2024] Towards Open-World Grasping with Large Vision-Language Models [[paper](https://arxiv.org/pdf/2406.18722v4)]
 - [2024] ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[paper](https://arxiv.org/pdf/2407.11298v1)]
+- [2024] MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World [[paper](https://arxiv.org/pdf/2401.08577)]
 
+### 2023
+- [2023] LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models [[paper](https://arxiv.org/pdf/2212.04088)]
 
 ## Sim-to-Real Transfer
 
