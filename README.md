@@ -14,7 +14,10 @@
 
 ## Simulator
 - [2025] MuJoCo Playground [[paper](https://arxiv.org/pdf/2502.08844)]
-
+- [2024] Genesis: A Generative and Universal Physics Engine for Robotics and Beyond [[paper](https://genesis-embodied-ai.github.io/)]
+- [2024] Maniskill V1-V3 [[v1](https://arxiv.org/pdf/2107.14483)] [[v2](https://arxiv.org/pdf/2302.04659)] [[v3](https://arxiv.org/pdf/2410.00425)]
+- [2024] Nvidia Isaac [[Isaac Lab](https://github.com/isaac-sim/IsaacLab)] [[Isaac Sim](https://docs.isaacsim.omniverse.nvidia.com/latest/index.html)] [[Isaac Gym](https://developer.nvidia.com/isaac-gym)]
+- [2022] Mojoco [[document](https://mujoco.readthedocs.io/en/stable/overview.html)]
 
 ## Vision Language Action (VLA) Models
 
@@ -76,6 +79,7 @@
 - [2024] Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments [[paper](https://arxiv.org/pdf/2409.05865)]
 - [2024] Moto: Latent Motion Token as the Bridging Language for Robot Manipulation [[paper](https://arxiv.org/pdf/2412.04445)]
 - [2024] RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics [[paper](https://arxiv.org/pdf/2406.10721)]
+- [2024] Yell At Your Robot: Improving On-the-Fly from Language Corrections [[paper](https://arxiv.org/pdf/2403.12910)]
 
 
 
@@ -196,6 +200,9 @@
 - [2024] MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World [[paper](https://arxiv.org/pdf/2401.08577)]
 - [2024] Physically Grounded Vision-Language Models for Robotic Manipulation [[paper](https://arxiv.org/pdf/2309.02561)]
 - [2024] Eureka: Human-Level Reward Design via Coding Large Language Models [[paper](https://arxiv.org/pdf/2310.12931)]
+- [2024] Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration [[paper](https://arxiv.org/pdf/2405.14314)]
+- [2024] Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[paper](https://say-can.github.io/assets/palm_saycan.pdf)]
+
 
 ### 2023
 - [2023] LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models [[paper](https://arxiv.org/pdf/2212.04088)]
