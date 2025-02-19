@@ -136,7 +136,7 @@
 - [2025] DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References [[paper](https://arxiv.org/pdf/2502.09614)]
 - [2025] S2-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation [[paper](https://arxiv.org/pdf/2502.09389)]
 - [2025] MTDP: Modulated Transformer Diffusion Policy Model [[paper](https://arxiv.org/pdf/2502.09029)]
-
+- [2025] FUNCTO: Function-Centric One-Shot Imitation Learning for Tool Manipulation [[paper](https://arxiv.org/pdf/2502.11744)]
 
 ### 2024
 
@@ -185,11 +185,13 @@
 - [2023] Diffusion policy: Visuomotor policy learning via action diffusion [[paper](https://arxiv.org/pdf/2303.04137)]
 - [2023] Exploring Visual Pre-training for Robot Manipulation: Datasets, Models and Methods [[paper](https://arxiv.org/pdf/2308.03620)]
 
-## Other Multimodal Large Language Model (MLLM)-based Embodied Agent
+## Other Multimodal Large Language Model (MLLM)-based/related Embodied Learning
 
 ### 2025
 
 - [2025] RoboGrasp: A Universal Grasping Policy for Robust Robotic Control [[paper](https://arxiv.org/pdf/2502.03072)]
+- [2025] VLP: Vision-Language Preference Learning for Embodied Manipulation [[paper](https://arxiv.org/pdf/2502.11918)]
+
 
 ### 2024
 - [2024] AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation [[paper](https://arxiv.org/pdf/2406.11548)]
