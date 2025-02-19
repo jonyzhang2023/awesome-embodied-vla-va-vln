@@ -105,7 +105,7 @@
 - [2025] Semantic Mapping in Indoor Embodied AI – A Comprehensive Survey and Future Directions [[paper](https://arxiv.org/pdf/2501.05750)]
 - [2025] VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning [[paper](https://arxiv.org/pdf/2502.00931)]
 - [2025] TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2502.07306)]
-
+- [2025] VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion [[paper](https://arxiv.org/pdf/2502.01536)]
 
 ### 2024
 
@@ -218,6 +218,7 @@
 
 ### 2025
 - [2025] RE3SIM: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation [[paper](https://arxiv.org/pdf/2502.08645)]
+- [2025] VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion [[paper](https://arxiv.org/pdf/2502.01536)]
 - [2024] A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards [[paper](https://arxiv.org/pdf/2502.08643)]
 
 
