@@ -44,6 +44,11 @@
 - [2025] RoboBERT: An End-to-end Multimodal Robotic Manipulation Model [[paper](https://arxiv.org/pdf/2502.07837)]
 - [2025] Diffusion Transformer Policy: Scaling Diffusion Transformer for Generalist Visual-Language-Action Learning [[paper](https://arxiv.org/pdf/2410.15959)]
 - [2025] GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation [[paper](https://arxiv.org/pdf/2502.09268)]
+- [2025] SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation [[paper](https://arxiv.org/pdf/2502.09268)]
+- [2025] Pre-training Auto-regressive Robotic Models with 4D Representations [[paper](https://arxiv.org/pdf/2502.13142)]
+- [2025] Magma: A Foundation Model for Multimodal AI Agents [[paper](https://arxiv.org/pdf/2502.13130)]
+- [2025] An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation [[paper](https://arxiv.org/pdf/2501.15068)]
+
 
 ### 2024
 
@@ -80,6 +85,13 @@
 - [2024] Moto: Latent Motion Token as the Bridging Language for Robot Manipulation [[paper](https://arxiv.org/pdf/2412.04445)]
 - [2024] RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics [[paper](https://arxiv.org/pdf/2406.10721)]
 - [2024] Yell At Your Robot: Improving On-the-Fly from Language Corrections [[paper](https://arxiv.org/pdf/2403.12910)]
+- [2024] Any-point Trajectory Modeling for Policy Learning [[paper](https://arxiv.org/pdf/2401.00025)]
+- [2024] Run-time Observation Interventions Make Vision-Language-Action Models More Visually Robust [[paper](https://arxiv.org/pdf/2410.01971)]
+- [2024] RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2409.19590)]
+- [2024] Actra: Optimized Transformer Architecture for Vision-Language-Action Models in Robot Learning [[paper](https://arxiv.org/pdf/2408.01147)]
+- [2024] QUAR-VLA: Vision-Language-Action Model for Quadruped Robots [[paper](https://arxiv.org/pdf/2312.14457)]
+- [2024] RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2409.19590)]
+
 
 
 
@@ -96,6 +108,7 @@
 - [2023] Compositional Foundation Models for Hierarchical Planning [[paper](https://arxiv.org/pdf/2309.08587)]
 - [2023] VIMA: General Robot Manipulation with Multimodal Prompts [[paper](https://vimalabs.github.io./assets/vima_paper.pdf)]
 - [2023] Prompt a Robot to Walk with Large Language Models [[paper](https://arxiv.org/pdf/2309.09969)]
+- [2023] Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning [[paper](https://arxiv.org/pdf/2311.17842)]
 
 
 ## Vision Language Navigation (VLN) Models
@@ -112,6 +125,7 @@
 - [2024] Navid: Video-based vlm plans the next step for vision-andlanguage navigation [[paper](https://arxiv.org/pdf/2402.15852)]
 - [2024] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[paper](https://arxiv.org/pdf/2412.04453)]
 - [2024] The One RING: a Robotic Indoor Navigation Generalist [[paper](https://arxiv.org/pdf/2412.14401)]
+- [2024] Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs [[paper](https://arxiv.org/pdf/2407.07775)]
 
 ### 2023
 
@@ -137,6 +151,12 @@
 - [2025] S2-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation [[paper](https://arxiv.org/pdf/2502.09389)]
 - [2025] MTDP: Modulated Transformer Diffusion Policy Model [[paper](https://arxiv.org/pdf/2502.09029)]
 - [2025] FUNCTO: Function-Centric One-Shot Imitation Learning for Tool Manipulation [[paper](https://arxiv.org/pdf/2502.11744)]
+- [2025] RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations [[paper](https://arxiv.org/pdf/2502.13134)]
+- [2025] Responsive Noise-Relaying Diffusion Policy: Responsive and Efficient Visuomotor Control [[paper](https://arxiv.org/pdf/2502.12724)]
+- [2025] Learning a High-quality Robotic Wiping Policy Using Systematic Reward Analysis and Visual-Language Model Based Curriculum [[paper](https://arxiv.org/pdf/2502.12599)]
+- [2025] IMLE Policy: Fast and Sample Efficient Visuomotor Policy Learning via Implicit Maximum Likelihood Estimation [[paper](https://arxiv.org/pdf/2502.12371)]
+- [2025] X-IL: Exploring the Design Space of Imitation Learning Policies [[paper](https://arxiv.org/pdf/2502.12330)]
+- [2025] Towards Fusing Point Cloud and Visual Representations for Imitation Learning [[paper](https://arxiv.org/pdf/2502.12320)]
 
 ### 2024
 
