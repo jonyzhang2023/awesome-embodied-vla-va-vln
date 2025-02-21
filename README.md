@@ -50,6 +50,8 @@
 - [2025] Magma: A Foundation Model for Multimodal AI Agents [[paper](https://arxiv.org/pdf/2502.13130)]
 - [2025] An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation [[paper](https://arxiv.org/pdf/2501.15068)]
 - [2025] VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation [[paper](https://arxiv.org/pdf/2502.13508v1)]
+- [2025] Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration [[paper](https://arxiv.org/pdf/2502.14795)]
+- [2025] ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2502.14420)]
 
 
 ### 2024
