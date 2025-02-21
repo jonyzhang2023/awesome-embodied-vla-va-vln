@@ -250,3 +250,8 @@
 - Awesome-Generalist-Agents [[repo](https://github.com/cheryyunl/awesome-generalist-agents)]
 - Awesome-LLM-Robotics [[repo](https://github.com/GT-RIPL/Awesome-LLM-Robotics)]
 - Awesome World Models for Robotics [[repo](https://github.com/leofan90/Awesome-World-Models)]
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jonyzhang2023/awesome-embodied-vla-va-vln&type=Date)](https://star-history.com/#jonyzhang2023/awesome-embodied-vla-va-vln&Date)
