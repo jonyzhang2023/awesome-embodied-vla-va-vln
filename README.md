@@ -93,7 +93,7 @@
 - [2024] Actra: Optimized Transformer Architecture for Vision-Language-Action Models in Robot Learning [[paper](https://arxiv.org/pdf/2408.01147)]
 - [2024] QUAR-VLA: Vision-Language-Action Model for Quadruped Robots [[paper](https://arxiv.org/pdf/2312.14457)]
 - [2024] RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2409.19590)]
-
+- [2024] DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution [[paper](https://arxiv.org/pdf/2411.02359)]
 
 
 
