@@ -23,6 +23,7 @@
 
 ### 2025 
 
+- [2025] Helix: A Vision-Language-Action Model for Generalist Humanoid Control [[report](https://www.figure.ai/news/helix)]
 - [2025] EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation [[paper](https://arxiv.org/pdf/2501.01895)]
 - [2025] Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing [[paper](https://arxiv.org/pdf/2501.06919)]
 - [2025] Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding [[paper](https://arxiv.org/pdf/2501.04693)]
@@ -48,6 +49,7 @@
 - [2025] Pre-training Auto-regressive Robotic Models with 4D Representations [[paper](https://arxiv.org/pdf/2502.13142)]
 - [2025] Magma: A Foundation Model for Multimodal AI Agents [[paper](https://arxiv.org/pdf/2502.13130)]
 - [2025] An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation [[paper](https://arxiv.org/pdf/2501.15068)]
+- [2025] VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation [[paper](https://arxiv.org/pdf/2502.13508v1)]
 
 
 ### 2024
@@ -115,10 +117,11 @@
 
 ### 2025
 
-- [2025] Semantic Mapping in Indoor Embodied AI – A Comprehensive Survey and Future Directions [[paper](https://arxiv.org/pdf/2501.05750)]
+- [2025] Semantic Mapping in Indoor Embodied AI - A Comprehensive Survey and Future Directions [[paper](https://arxiv.org/pdf/2501.05750)]
 - [2025] VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning [[paper](https://arxiv.org/pdf/2502.00931)]
 - [2025] TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2502.07306)]
 - [2025] VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion [[paper](https://arxiv.org/pdf/2502.01536)]
+- [2025] NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants [[paper](https://arxiv.org/pdf/2502.13894)]
 
 ### 2024
 
