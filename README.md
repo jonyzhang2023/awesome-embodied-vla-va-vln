@@ -9,18 +9,6 @@
 - [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
 - [2024] Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
 
-## Benchmark
-- [2025] OpenBench: A New Benchmark and Baseline for Semantic Navigation in Smart Logistics [[paper](https://arxiv.org/pdf/2502.09238)]
-- [2024] EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models [[paper](https://arxiv.org/abs/2406.05756)]
-- [2024] VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Task [[paper](https://arxiv.org/pdf/2412.18194)]
-
-## Simulator
-- [2025] MuJoCo Playground [[paper](https://arxiv.org/pdf/2502.08844)]
-- [2024] Genesis: A Generative and Universal Physics Engine for Robotics and Beyond [[paper](https://genesis-embodied-ai.github.io/)]
-- [2024] Maniskill V1-V3 [[v1](https://arxiv.org/pdf/2107.14483)] [[v2](https://arxiv.org/pdf/2302.04659)] [[v3](https://arxiv.org/pdf/2410.00425)]
-- [2024] Nvidia Isaac [[Isaac Lab](https://github.com/isaac-sim/IsaacLab)] [[Isaac Sim](https://docs.isaacsim.omniverse.nvidia.com/latest/index.html)] [[Isaac Gym](https://developer.nvidia.com/isaac-gym)]
-- [2022] Mojoco [[document](https://mujoco.readthedocs.io/en/stable/overview.html)]
-
 ## Vision Language Action (VLA) Models
 
 ### 2025 
@@ -246,8 +234,20 @@
 ### 2025
 - [2025] RE3SIM: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation [[paper](https://arxiv.org/pdf/2502.08645)]
 - [2025] VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion [[paper](https://arxiv.org/pdf/2502.01536)]
-- [2024] A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards [[paper](https://arxiv.org/pdf/2502.08643)]
+- [2025] A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards [[paper](https://arxiv.org/pdf/2502.08643)]
 
+
+## Benchmark
+- [2025] OpenBench: A New Benchmark and Baseline for Semantic Navigation in Smart Logistics [[paper](https://arxiv.org/pdf/2502.09238)]
+- [2024] EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models [[paper](https://arxiv.org/abs/2406.05756)]
+- [2024] VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Task [[paper](https://arxiv.org/pdf/2412.18194)]
+
+## Simulator
+- [2025] MuJoCo Playground [[paper](https://arxiv.org/pdf/2502.08844)]
+- [2024] Genesis: A Generative and Universal Physics Engine for Robotics and Beyond [[paper](https://genesis-embodied-ai.github.io/)]
+- [2024] Maniskill V1-V3 [[v1](https://arxiv.org/pdf/2107.14483)] [[v2](https://arxiv.org/pdf/2302.04659)] [[v3](https://arxiv.org/pdf/2410.00425)]
+- [2024] Nvidia Isaac [[Isaac Lab](https://github.com/isaac-sim/IsaacLab)] [[Isaac Sim](https://docs.isaacsim.omniverse.nvidia.com/latest/index.html)] [[Isaac Gym](https://developer.nvidia.com/isaac-gym)]
+- [2022] Mojoco [[document](https://mujoco.readthedocs.io/en/stable/overview.html)]
 
 
 ## Ralated Works
