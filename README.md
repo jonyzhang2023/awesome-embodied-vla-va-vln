@@ -4,6 +4,7 @@
 ## Survey
 - [2025] Development Report of Embodied Intelligence (Chinese) [[paper](https://www.caict.ac.cn/kxyj/qwfb/bps/202408/P020240830312499650772.pdf)]
 - [2025] Survey on Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2502.06851)]
+- [2024] Embodied-AI with large models: research and challenges [[paper](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0076)]
 - [2024] A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
 - [2024] A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
 - [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
