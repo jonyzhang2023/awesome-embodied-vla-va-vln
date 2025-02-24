@@ -116,6 +116,7 @@
 - [2025] TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2502.07306)]
 - [2025] VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion [[paper](https://arxiv.org/pdf/2502.01536)]
 - [2025] NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants [[paper](https://arxiv.org/pdf/2502.13894)]
+- [2025] MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2502.13451)]
 
 ### 2024
 
