@@ -4,6 +4,7 @@
 ## Survey
 - [2025] Development Report of Embodied Intelligence (Chinese) [[paper](https://www.caict.ac.cn/kxyj/qwfb/bps/202408/P020240830312499650772.pdf)]
 - [2025] Survey on Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2502.06851)]
+- [2025] Exploring Embodied Multimodal Large Models: Development, Datasets, and Future Directions [[paper](https://arxiv.org/pdf/2502.15336)]
 - [2024] Embodied-AI with large models: research and challenges [[paper](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0076)]
 - [2024] A Survey on Vision-Language-Action Models for Embodied AI [[paper](https://arxiv.org/abs/2405.14093)]
 - [2024] A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[paper](https://arxiv.org/pdf/2408.11537)]
@@ -153,6 +154,7 @@
 - [2025] IMLE Policy: Fast and Sample Efficient Visuomotor Policy Learning via Implicit Maximum Likelihood Estimation [[paper](https://arxiv.org/pdf/2502.12371)]
 - [2025] X-IL: Exploring the Design Space of Imitation Learning Policies [[paper](https://arxiv.org/pdf/2502.12330)]
 - [2025] Towards Fusing Point Cloud and Visual Representations for Imitation Learning [[paper](https://arxiv.org/pdf/2502.12320)]
+- [2025] Pick-and-place Manipulation Across Grippers Without Retraining: A Learning-optimization Diffusion Policy Approach [[paper](https://arxiv.org/pdf/2502.15613)]
 
 ### 2024
 
@@ -239,9 +241,11 @@
 
 
 ## Benchmark
+- [2025] BOSS: Benchmark for Observation Space Shift in Long-Horizon Task [[paper](http://arxiv.org/pdf/2502.15679)]
 - [2025] OpenBench: A New Benchmark and Baseline for Semantic Navigation in Smart Logistics [[paper](https://arxiv.org/pdf/2502.09238)]
 - [2024] EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models [[paper](https://arxiv.org/abs/2406.05756)]
 - [2024] VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Task [[paper](https://arxiv.org/pdf/2412.18194)]
+- [2024] Towards Diverse Behaviors: A Benchmark for Imitation Learning with Human Demonstrations [[paper](https://arxiv.org/pdf/2402.14606)]
 
 ## Simulator
 - [2025] MuJoCo Playground [[paper](https://arxiv.org/pdf/2502.08844)]
