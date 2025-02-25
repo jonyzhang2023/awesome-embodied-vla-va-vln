@@ -207,7 +207,7 @@
 ## Other Multimodal Large Language Model (MLLM)-based/related Embodied Learning
 
 ### 2025
-
+- [2025] Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation [[paper](https://arxiv.org/pdf/2502.16707v1)]
 - [2025] RoboGrasp: A Universal Grasping Policy for Robust Robotic Control [[paper](https://arxiv.org/pdf/2502.03072)]
 - [2025] VLP: Vision-Language Preference Learning for Embodied Manipulation [[paper](https://arxiv.org/pdf/2502.11918)]
 
