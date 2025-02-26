@@ -156,6 +156,11 @@
 - [2025] X-IL: Exploring the Design Space of Imitation Learning Policies [[paper](https://arxiv.org/pdf/2502.12330)]
 - [2025] Towards Fusing Point Cloud and Visual Representations for Imitation Learning [[paper](https://arxiv.org/pdf/2502.12320)]
 - [2025] Pick-and-place Manipulation Across Grippers Without Retraining: A Learning-optimization Diffusion Policy Approach [[paper](https://arxiv.org/pdf/2502.15613)]
+- [2025] FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning [[paper](https://arxiv.org/pdf/2502.17432)]
+- [2025] DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [[paper](https://arxiv.org/pdf/2502.16932)]
+- [2025] Human2Robot: Learning Robot Actions from Paired Human-Robot Videos [[paper](https://arxiv.org/pdf/2502.16587)]
+- [2025] AnyDexGrasp: General Dexterous Grasping for Different Hands with Human-level Learning Efficiency [[paper](https://arxiv.org/pdf/2502.16420)]
+- [2025] COMPASS: Cross-embOdiment Mobility Policy via ResiduAl RL and Skill Synthesis [[paper](https://arxiv.org/pdf/2502.16372)]
 
 ### 2024
 
