@@ -117,6 +117,7 @@
 - [2025] VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion [[paper](https://arxiv.org/pdf/2502.01536)]
 - [2025] NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants [[paper](https://arxiv.org/pdf/2502.13894)]
 - [2025] MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2502.13451)]
+- [2025] OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation [[paper](https://arxiv.org/pdf/2502.18041)]
 
 ### 2024
 
@@ -161,6 +162,10 @@
 - [2025] Human2Robot: Learning Robot Actions from Paired Human-Robot Videos [[paper](https://arxiv.org/pdf/2502.16587)]
 - [2025] AnyDexGrasp: General Dexterous Grasping for Different Hands with Human-level Learning Efficiency [[paper](https://arxiv.org/pdf/2502.16420)]
 - [2025] COMPASS: Cross-embOdiment Mobility Policy via ResiduAl RL and Skill Synthesis [[paper](https://arxiv.org/pdf/2502.16372)]
+- [2025] Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand [[paper](https://arxiv.org/pdf/2502.18423)]
+- [2025] From planning to policy: distilling Skill-RRT for long-horizon prehensile and non-prehensile manipulation [[paper](https://arxiv.org/pdf/2502.18015)]
+- [2025] FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real [[paper](https://arxiv.org/pdf/2502.17894)]
+
 
 ### 2024
 
@@ -247,6 +252,7 @@
 
 
 ## Benchmark
+- [2025] OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation [[paper](https://arxiv.org/pdf/2502.18041)]
 - [2025] BOSS: Benchmark for Observation Space Shift in Long-Horizon Task [[paper](http://arxiv.org/pdf/2502.15679)]
 - [2025] OpenBench: A New Benchmark and Baseline for Semantic Navigation in Smart Logistics [[paper](https://arxiv.org/pdf/2502.09238)]
 - [2024] EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models [[paper](https://arxiv.org/abs/2406.05756)]
