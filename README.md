@@ -15,6 +15,9 @@
 
 ### 2025 
 
+
+
+- [2025] Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2502.19417)] [[project](https://www.pi.website/research/hirobot)] 
 - [2025] Helix: A Vision-Language-Action Model for Generalist Humanoid Control [[report](https://www.figure.ai/news/helix)]
 - [2025] EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation [[paper](https://arxiv.org/pdf/2501.01895)]
 - [2025] Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing [[paper](https://arxiv.org/pdf/2501.06919)]
@@ -44,6 +47,7 @@
 - [2025] VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation [[paper](https://arxiv.org/pdf/2502.13508v1)]
 - [2025] Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration [[paper](https://arxiv.org/pdf/2502.14795)]
 - [2025] ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2502.14420)]
+- [2025] ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration [[paper](https://arxiv.org/pdf/2502.19250)] [[project](https://objectvla.github.io/)] 
 
 
 ### 2024
@@ -118,6 +122,8 @@
 - [2025] NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants [[paper](https://arxiv.org/pdf/2502.13894)]
 - [2025] MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2502.13451)]
 - [2025] OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation [[paper](https://arxiv.org/pdf/2502.18041)]
+- [2025] Ground-level Viewpoint Vision-and-Language Navigation in Continuous Environments [[paper](https://arxiv.org/pdf/2502.19024)]
+
 
 ### 2024
 
@@ -243,12 +249,16 @@
 ### 2022
 - [2022] Inner Monologue: Embodied Reasoning through Planning with Language Models [[paper](https://arxiv.org/pdf/2207.05608)]
 
+
+## Physics-aware Policy
+- [2025] Surface-Based Manipulation [[paper](https://arxiv.org/pdf/2502.19389)]
+
 ## Sim-to-Real Transfer
 
-### 2025
 - [2025] RE3SIM: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation [[paper](https://arxiv.org/pdf/2502.08645)]
 - [2025] VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion [[paper](https://arxiv.org/pdf/2502.01536)]
 - [2025] A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards [[paper](https://arxiv.org/pdf/2502.08643)]
+- [2025] A Distributional Treatment of Real2Sim2Real for Vision-Driven Deformable Linear Object Manipulation [[paper](https://arxiv.org/pdf/2502.18615)]
 
 
 ## Benchmark
