@@ -171,7 +171,9 @@
 - [2025] Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand [[paper](https://arxiv.org/pdf/2502.18423)]
 - [2025] From planning to policy: distilling Skill-RRT for long-horizon prehensile and non-prehensile manipulation [[paper](https://arxiv.org/pdf/2502.18015)]
 - [2025] FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real [[paper](https://arxiv.org/pdf/2502.17894)]
-
+- [2025] Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation [[paper](https://arxiv.org/pdf/2502.20391)] [[project](https://www.pi.website/research/hirobot)] 
+- [2025] FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real [[paper](https://arxiv.org/pdf/2502.17894)]
+- [2025] FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real [[paper](https://arxiv.org/pdf/2502.17894)]
 
 ### 2024
 
@@ -259,7 +261,7 @@
 - [2025] VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion [[paper](https://arxiv.org/pdf/2502.01536)]
 - [2025] A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards [[paper](https://arxiv.org/pdf/2502.08643)]
 - [2025] A Distributional Treatment of Real2Sim2Real for Vision-Driven Deformable Linear Object Manipulation [[paper](https://arxiv.org/pdf/2502.18615)]
-
+- [2025] Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids [[paper](https://arxiv.org/pdf/2502.20396)] [[paper](https://toruowo.github.io/recipe/)]
 
 ## Benchmark
 - [2025] OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation [[paper](https://arxiv.org/pdf/2502.18041)]
