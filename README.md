@@ -16,7 +16,7 @@
 ### 2025 
 
 
-
+- [2025] Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success [[paper](https://arxiv.org/pdf/2502.19645)] [[project](https://openvla-oft.github.io/)] 
 - [2025] Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2502.19417)] [[project](https://www.pi.website/research/hirobot)] 
 - [2025] Helix: A Vision-Language-Action Model for Generalist Humanoid Control [[report](https://www.figure.ai/news/helix)]
 - [2025] EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation [[paper](https://arxiv.org/pdf/2501.01895)]
@@ -172,8 +172,11 @@
 - [2025] From planning to policy: distilling Skill-RRT for long-horizon prehensile and non-prehensile manipulation [[paper](https://arxiv.org/pdf/2502.18015)]
 - [2025] FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real [[paper](https://arxiv.org/pdf/2502.17894)]
 - [2025] Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation [[paper](https://arxiv.org/pdf/2502.20391)] [[project](https://www.pi.website/research/hirobot)] 
-- [2025] FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real [[paper](https://arxiv.org/pdf/2502.17894)]
-- [2025] FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real [[paper](https://arxiv.org/pdf/2502.17894)]
+- [2025] FuseGrasp: Radar-Camera Fusion for Robotic Grasping of Transparent Objects [[paper](https://arxiv.org/pdf/2502.20037)]
+- [2025] Sensor-Invariant Tactile Representation [[paper](https://arxiv.org/pdf/2502.19638)]
+- [2025] Generalist World Model Pre-Training for Efficient Reinforcement Learning [[paper](https://arxiv.org/pdf/2502.19544)]
+
+
 
 ### 2024
 
@@ -228,6 +231,7 @@
 - [2025] Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation [[paper](https://arxiv.org/pdf/2502.16707v1)]
 - [2025] RoboGrasp: A Universal Grasping Policy for Robust Robotic Control [[paper](https://arxiv.org/pdf/2502.03072)]
 - [2025] VLP: Vision-Language Preference Learning for Embodied Manipulation [[paper](https://arxiv.org/pdf/2502.11918)]
+- [2025] 3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds [[paper](https://arxiv.org/pdf/2502.20041)]
 
 
 ### 2024
