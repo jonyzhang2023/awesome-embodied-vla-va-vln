@@ -1,5 +1,13 @@
 # awesome-embodied-vla/va/vln [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+As more and more outstanding vision-language-based policies emerge, this repository aims to organize and showcase the state-of-the-art technologies in robot learning, including vision-language-action (VLA) models, vision-language-navigation (VLN) models, vision-action (VA) models and other MLLM-based embodied learning. We hope that in the near future, robotics will experience its own 'LLM moment.'
+
+This repository will be continuously updated, and we warmly invite contributions from the community. If you have any papers, projects, or resources that are not yet included, please feel free to submit them via a pull request or open an issue for discussion. 
+
+Let’s build a comprehensive resource for the robotics and AI community!
+
+*Jony and Sage*
+
 
 ## Survey
 - [2025] Development Report of Embodied Intelligence (Chinese) [[paper](https://www.caict.ac.cn/kxyj/qwfb/bps/202408/P020240830312499650772.pdf)]
