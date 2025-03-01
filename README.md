@@ -131,6 +131,7 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2502.13451)]
 - [2025] OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation [[paper](https://arxiv.org/pdf/2502.18041)]
 - [2025] Ground-level Viewpoint Vision-and-Language Navigation in Continuous Environments [[paper](https://arxiv.org/pdf/2502.19024)]
+- [2025] UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation [[paper](https://arxiv.org/pdf/2501.05014)]
 
 
 ### 2024
