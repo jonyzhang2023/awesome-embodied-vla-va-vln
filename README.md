@@ -23,14 +23,14 @@ Let’s build a comprehensive resource for the robotics and AI community!
 
 ### 2025 
 
-
+- [2025] [**PsiBot**] DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping [[paper](https://arxiv.org/pdf/2502.20900)] [[project](https://dexgraspvla.github.io/)] 
 - [2025] Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success [[paper](https://arxiv.org/pdf/2502.19645)] [[project](https://openvla-oft.github.io/)] 
-- [2025] Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2502.19417)] [[project](https://www.pi.website/research/hirobot)] 
-- [2025] Helix: A Vision-Language-Action Model for Generalist Humanoid Control [[report](https://www.figure.ai/news/helix)]
-- [2025] EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation [[paper](https://arxiv.org/pdf/2501.01895)]
+- [2025] [**Physical Intelligence**] Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2502.19417)] [[project](https://www.pi.website/research/hirobot)] 
+- [2025] [**Figure**] Helix: A Vision-Language-Action Model for Generalist Humanoid Control [[report](https://www.figure.ai/news/helix)]
+- [2025] [**AgiBot**] EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation [[paper](https://arxiv.org/pdf/2501.01895)]
 - [2025] Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing [[paper](https://arxiv.org/pdf/2501.06919)]
 - [2025] Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding [[paper](https://arxiv.org/pdf/2501.04693)]
-- [2025] FAST: Efficient Action Tokenization for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2501.09747)]
+- [2025] [**Physical Intelligence**] FAST: Efficient Action Tokenization for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2501.09747)]
 - [2025] GeoManip: Geometric Constraints as General Interfaces for Robot Manipulation [[paper](https://arxiv.org/pdf/2501.09783)]
 - [2025] Universal Actions for Enhanced Embodied Foundation Models [[paper](https://arxiv.org/pdf/2501.10105)]
 - [2025] SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model [[paper](https://arxiv.org/pdf/2501.15830)]
@@ -56,11 +56,13 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration [[paper](https://arxiv.org/pdf/2502.14795)]
 - [2025] ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2502.14420)]
 - [2025] ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration [[paper](https://arxiv.org/pdf/2502.19250)] [[project](https://objectvla.github.io/)] 
+- [2025] RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete [[paper](https://arxiv.org/pdf/2502.21257)] [[project](https://superrobobrain.github.io/)] 
+- [2025] SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning [[project](https://sites.google.com/view/pku-safevla)] 
 
 
 ### 2024
 
-- [2024] π0: A Vision-Language-Action Flow Model for General Robot Control [[paper](https://www.physicalintelligence.company/download/pi0.pdf)]
+- [2024] [**Physical Intelligence**] π0: A Vision-Language-Action Flow Model for General Robot Control [[paper](https://www.physicalintelligence.company/download/pi0.pdf)]
 - [2024] RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[paper](https://arxiv.org/pdf/2410.07864)]
 - [2024] OpenVLA: An Open-Source Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2406.09246)]
 - [2024] Octo: An Open-Source Generalist Robot Policy [[paper](https://arxiv.org/pdf/2405.12213)]
