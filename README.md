@@ -58,7 +58,7 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration [[paper](https://arxiv.org/pdf/2502.19250)] [[project](https://objectvla.github.io/)] 
 - [2025] RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete [[paper](https://arxiv.org/pdf/2502.21257)] [[project](https://superrobobrain.github.io/)] 
 - [2025] SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning [[project](https://sites.google.com/view/pku-safevla)] 
-
+- [2025] Unified Video Action Model [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)] 
 
 ### 2024
 
@@ -186,6 +186,9 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] FuseGrasp: Radar-Camera Fusion for Robotic Grasping of Transparent Objects [[paper](https://arxiv.org/pdf/2502.20037)]
 - [2025] Sensor-Invariant Tactile Representation [[paper](https://arxiv.org/pdf/2502.19638)]
 - [2025] Generalist World Model Pre-Training for Efficient Reinforcement Learning [[paper](https://arxiv.org/pdf/2502.19544)]
+- [2025] ProDapt: Proprioceptive Adaptation using Long-term Memory Diffusion [[paper](https://arxiv.org/pdf/2503.00193)] [[project](https://github.com/Federico-PizarroBejarano/prodapt)] 
+- [2025] Falcon: Fast Visuomotor Policies via Partial Denoising [[paper](https://arxiv.org/pdf/2503.00339)]
+- [2025] HGDiffuser: Efficient Task-Oriented Grasp Generation via Human-Guided Grasp Diffusion Models [[paper](https://arxiv.org/pdf/2503.00508)] [[project](https://sites.google.com/view/hgdiffuser)] 
 
 
 
