@@ -59,6 +59,9 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete [[paper](https://arxiv.org/pdf/2502.21257)] [[project](https://superrobobrain.github.io/)] 
 - [2025] SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning [[project](https://sites.google.com/view/pku-safevla)] 
 - [2025] Unified Video Action Model [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)] 
+- [2025] CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs [[paper](https://arxiv.org/pdf/2503.01378)] [[project](https://cognitivedrone.github.io/)] 
+
+
 
 ### 2024
 
@@ -189,7 +192,11 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] ProDapt: Proprioceptive Adaptation using Long-term Memory Diffusion [[paper](https://arxiv.org/pdf/2503.00193)] [[project](https://github.com/Federico-PizarroBejarano/prodapt)] 
 - [2025] Falcon: Fast Visuomotor Policies via Partial Denoising [[paper](https://arxiv.org/pdf/2503.00339)]
 - [2025] HGDiffuser: Efficient Task-Oriented Grasp Generation via Human-Guided Grasp Diffusion Models [[paper](https://arxiv.org/pdf/2503.00508)] [[project](https://sites.google.com/view/hgdiffuser)] 
-
+- [2025] SHADOW: Leveraging Segmentation Masks for Cross-Embodiment Policy Transfer [[paper](https://arxiv.org/pdf/2503.00774)] [[project](https://shadow-cross-embodiment.github.io/)] 
+- [2025] Phantom: Training Robots Without Robots Using Only Human Videos [[paper](https://arxiv.org/pdf/2503.00779)] [[project](https://phantom-human-videos.github.io/)] 
+- [2025] General Force Sensation for Tactile Robot [[paper](https://arxiv.org/pdf/2503.01058)]
+- [2025] Action Tokenizer Matters in In-Context Imitation Learning [[paper](https://arxiv.org/pdf/2503.01206)]
+- [2025] AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization [[paper](https://arxiv.org/pdf/2503.01439)] [[project](https://avr-robot.github.io/)]
 
 
 ### 2024
@@ -242,11 +249,15 @@ Let’s build a comprehensive resource for the robotics and AI community!
 ## Other Multimodal Large Language Model (MLLM)-based/related Embodied Learning
 
 ### 2025
+- [2025] RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation [[paper](https://arxiv.org/pdf/2503.01616)] [[project](https://henryhcliu.github.io/robodexvlm/)] 
 - [2025] Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation [[paper](https://arxiv.org/pdf/2502.16707v1)]
 - [2025] RoboGrasp: A Universal Grasping Policy for Robust Robotic Control [[paper](https://arxiv.org/pdf/2502.03072)]
 - [2025] VLP: Vision-Language Preference Learning for Embodied Manipulation [[paper](https://arxiv.org/pdf/2502.11918)]
 - [2025] 3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds [[paper](https://arxiv.org/pdf/2502.20041)]
-
+- [2025] CLEA: Closed-Loop Embodied Agent for Enhancing Task Execution in Dynamic Environments [[paper](https://arxiv.org/pdf/2503.00729)]
+- [2025] TRACE: A Self-Improving Framework for Robot Behavior Forecasting with Vision-Language Models [[paper](https://arxiv.org/pdf/2503.00761)] [[project](https://trace-robotics.github.io/)]
+- [2025] AffordGrasp: In-Context Affordance Reasoning for Open-Vocabulary Task-Oriented Grasping in Clutter [[paper](https://arxiv.org/pdf/2503.00778)] [[project](https://eqcy.github.io/affordgrasp/)]
+- [2025] Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation [[paper](https://arxiv.org/pdf/2503.01700)] [[project](https://yongchao98.github.io/Code-Symbol-Planner/)]
 
 ### 2024
 - [2024] AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation [[paper](https://arxiv.org/pdf/2406.11548)]
@@ -279,7 +290,10 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion [[paper](https://arxiv.org/pdf/2502.01536)]
 - [2025] A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards [[paper](https://arxiv.org/pdf/2502.08643)]
 - [2025] A Distributional Treatment of Real2Sim2Real for Vision-Driven Deformable Linear Object Manipulation [[paper](https://arxiv.org/pdf/2502.18615)]
-- [2025] Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids [[paper](https://arxiv.org/pdf/2502.20396)] [[paper](https://toruowo.github.io/recipe/)]
+- [2025] Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids [[paper](https://arxiv.org/pdf/2502.20396)] [[project](https://toruowo.github.io/recipe/)]
+- [2025] Impact of Static Friction on Sim2Real in Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2503.01255)]
+- [2025] Few-shot Sim2Real Based on High Fidelity Rendering with Force Feedback Teleop [[paper](https://arxiv.org/pdf/2503.01301)]
+
 
 ## Benchmark
 - [2025] OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation [[paper](https://arxiv.org/pdf/2502.18041)]
