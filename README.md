@@ -60,8 +60,9 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning [[project](https://sites.google.com/view/pku-safevla)] 
 - [2025] Unified Video Action Model [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)] 
 - [2025] CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs [[paper](https://arxiv.org/pdf/2503.01378)] [[project](https://cognitivedrone.github.io/)] 
-
-
+- [2025] UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation [[paper](https://arxiv.org/pdf/2501.05014)]
+- [2025] Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding [[paper](https://arxiv.org/pdf/2503.02310)]
+- [2025] RaceVLA: VLA-based Racing Drone Navigation with Human-like Behaviour [[paper](https://arxiv.org/pdf/2503.02572)] [[project](https://racevla.github.io/)] 
 
 ### 2024
 
@@ -136,7 +137,7 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2502.13451)]
 - [2025] OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation [[paper](https://arxiv.org/pdf/2502.18041)]
 - [2025] Ground-level Viewpoint Vision-and-Language Navigation in Continuous Environments [[paper](https://arxiv.org/pdf/2502.19024)]
-- [2025] UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation [[paper](https://arxiv.org/pdf/2501.05014)]
+- [2025] WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation [[paper](https://arxiv.org/pdf/2503.02247)] [[project](https://b0b8k1ng.github.io/WMNav/)]
 
 
 ### 2024
@@ -155,6 +156,7 @@ Let’s build a comprehensive resource for the robotics and AI community!
 
 ### 2025
 
+- [2025] Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)] 
 - [2025] Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [[paper](https://arxiv.org/pdf/2501.10100)]
 - [2025] You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations [[paper](https://arxiv.org/pdf/2501.14208)]
 - [2025] ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills [[paper](https://arxiv.org/pdf/2502.01143)]
@@ -197,6 +199,10 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] General Force Sensation for Tactile Robot [[paper](https://arxiv.org/pdf/2503.01058)]
 - [2025] Action Tokenizer Matters in In-Context Imitation Learning [[paper](https://arxiv.org/pdf/2503.01206)]
 - [2025] AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization [[paper](https://arxiv.org/pdf/2503.01439)] [[project](https://avr-robot.github.io/)]
+- [2025] FRMD: Fast Robot Motion Diffusion with Consistency-Distilled Movement Primitives for Smooth Action Generation [[paper](https://arxiv.org/pdf/2503.02048)]
+- [2025] Variable-Friction In-Hand Manipulation for Arbitrary Objects via Diffusion-Based Imitation Learning [[paper](https://arxiv.org/pdf/2503.02738)] [[project](https://sites.google.com/view/vf-ihm-il/home)]
+- [2025] Learning Dexterous In-Hand Manipulation with Multifingered Hands via Visuomotor Diffusion [[paper](https://arxiv.org/pdf/2503.02587)] [[project](https://dex-manip.github.io/)]
+- [2025] RGBSQGrasp: Inferring Local Superquadric Primitives from Single RGB Image for Graspability-Aware Bin Picking [[paper](https://arxiv.org/pdf/2503.02387)] [[project](https://ilikesukiyaki.github.io/RGBSQGrasp/)]
 
 
 ### 2024
@@ -258,6 +264,13 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] TRACE: A Self-Improving Framework for Robot Behavior Forecasting with Vision-Language Models [[paper](https://arxiv.org/pdf/2503.00761)] [[project](https://trace-robotics.github.io/)]
 - [2025] AffordGrasp: In-Context Affordance Reasoning for Open-Vocabulary Task-Oriented Grasping in Clutter [[paper](https://arxiv.org/pdf/2503.00778)] [[project](https://eqcy.github.io/affordgrasp/)]
 - [2025] Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation [[paper](https://arxiv.org/pdf/2503.01700)] [[project](https://yongchao98.github.io/Code-Symbol-Planner/)]
+- [2025] Large Language Models as Natural Selector for Embodied Soft Robot Design [[paper](https://arxiv.org/pdf/2503.02249)] [[project](https://github.com/AisenGinn/evogym_data_generation)]
+- [2025] OVAMOS: A Framework for Open-Vocabulary Multi-Object Search in Unknown Environments [[paper](https://arxiv.org/pdf/2503.02106)]
+- [2025] Bridging VLM and KMP: Enabling Fine-grained robotic manipulation via Semantic Keypoints Representation [[paper](https://arxiv.org/pdf/2503.02748)]
+- [2025] FlowPlan: Zero-Shot Task Planning with LLM Flow Engineering for Robotic Instruction Following [[paper](https://arxiv.org/pdf/2503.02698)] [[project](https://instruction-following-project.github.io/)]
+- [2025] UAV-VLRR: Vision-Language Informed NMPC for Rapid Response in UAV Search and Rescue [[paper](https://arxiv.org/pdf/2503.02465)] [[video](https://www.youtube.com/watch?v=KJqQGKKt1xY&feature=youtu.be)]
+- [2025] UAV-VLPA: A Vision-Language-Path-Action System for Optimal Route Generation on a Large Scales [[paper](https://arxiv.org/pdf/2503.02454)]
+
 
 ### 2024
 - [2024] AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation [[paper](https://arxiv.org/pdf/2406.11548)]
@@ -304,6 +317,7 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2024] Towards Diverse Behaviors: A Benchmark for Imitation Learning with Human Demonstrations [[paper](https://arxiv.org/pdf/2402.14606)]
 
 ## Simulator
+- [2025] MuBlE: MuJoCo and Blender simulation Environment and Benchmark for Task Planning in Robot Manipulation [[paper](https://arxiv.org/pdf/2503.02834)] [[project](https://github.com/michaal94/MuBlE)]
 - [2025] MuJoCo Playground [[paper](https://arxiv.org/pdf/2502.08844)]
 - [2024] Genesis: A Generative and Universal Physics Engine for Robotics and Beyond [[paper](https://genesis-embodied-ai.github.io/)]
 - [2024] Maniskill V1-V3 [[v1](https://arxiv.org/pdf/2107.14483)] [[v2](https://arxiv.org/pdf/2302.04659)] [[v3](https://arxiv.org/pdf/2410.00425)]
