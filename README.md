@@ -10,6 +10,7 @@ Let’s build a comprehensive resource for the robotics and AI community!
 
 
 ## Survey
+- [2025] Generative Artificial Intelligence in Robotic Manipulation: A Survey [[paper](https://arxiv.org/pdf/2503.03464)] [[project](https://github.com/GAI4Manipulation/AwesomeGAIManipulation)] 
 - [2025] Development Report of Embodied Intelligence (Chinese) [[paper](https://www.caict.ac.cn/kxyj/qwfb/bps/202408/P020240830312499650772.pdf)]
 - [2025] Survey on Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2502.06851)]
 - [2025] Exploring Embodied Multimodal Large Models: Development, Datasets, and Future Directions [[paper](https://arxiv.org/pdf/2502.15336)]
@@ -57,12 +58,17 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2502.14420)]
 - [2025] ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration [[paper](https://arxiv.org/pdf/2502.19250)] [[project](https://objectvla.github.io/)] 
 - [2025] RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete [[paper](https://arxiv.org/pdf/2502.21257)] [[project](https://superrobobrain.github.io/)] 
-- [2025] SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning [[project](https://sites.google.com/view/pku-safevla)] 
+- [2025] SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning [[paper](https://arxiv.org/pdf/2503.03480)] [[project](https://sites.google.com/view/pku-safevla)] 
 - [2025] Unified Video Action Model [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)] 
 - [2025] CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs [[paper](https://arxiv.org/pdf/2503.01378)] [[project](https://cognitivedrone.github.io/)] 
 - [2025] UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation [[paper](https://arxiv.org/pdf/2501.05014)]
 - [2025] Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding [[paper](https://arxiv.org/pdf/2503.02310)]
 - [2025] RaceVLA: VLA-based Racing Drone Navigation with Human-like Behaviour [[paper](https://arxiv.org/pdf/2503.02572)] [[project](https://racevla.github.io/)] 
+- [2025] OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction [[paper](https://arxiv.org/pdf/2503.03734)] [[project](https://ottervla.github.io/)] 
+- [2025] A Generative System for Robot-to-Human Handovers: from Intent Inference to Spatial Configuration Imagery [[paper](https://arxiv.org/pdf/2503.03579)] [[project](https://i3handover.github.io/)] 
+
+
+
 
 ### 2024
 
@@ -203,6 +209,7 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] Variable-Friction In-Hand Manipulation for Arbitrary Objects via Diffusion-Based Imitation Learning [[paper](https://arxiv.org/pdf/2503.02738)] [[project](https://sites.google.com/view/vf-ihm-il/home)]
 - [2025] Learning Dexterous In-Hand Manipulation with Multifingered Hands via Visuomotor Diffusion [[paper](https://arxiv.org/pdf/2503.02587)] [[project](https://dex-manip.github.io/)]
 - [2025] RGBSQGrasp: Inferring Local Superquadric Primitives from Single RGB Image for Graspability-Aware Bin Picking [[paper](https://arxiv.org/pdf/2503.02387)] [[project](https://ilikesukiyaki.github.io/RGBSQGrasp/)]
+- [2025] ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation [[paper](https://arxiv.org/pdf/2503.03045)] [[project](https://articubot.github.io/)] 
 
 
 ### 2024
@@ -270,7 +277,7 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] FlowPlan: Zero-Shot Task Planning with LLM Flow Engineering for Robotic Instruction Following [[paper](https://arxiv.org/pdf/2503.02698)] [[project](https://instruction-following-project.github.io/)]
 - [2025] UAV-VLRR: Vision-Language Informed NMPC for Rapid Response in UAV Search and Rescue [[paper](https://arxiv.org/pdf/2503.02465)] [[video](https://www.youtube.com/watch?v=KJqQGKKt1xY&feature=youtu.be)]
 - [2025] UAV-VLPA: A Vision-Language-Path-Action System for Optimal Route Generation on a Large Scales [[paper](https://arxiv.org/pdf/2503.02454)]
-
+- [2025] Afford-X: Generalizable and Slim Affordance Reasoning for Task-oriented Manipulation [[paper](https://arxiv.org/pdf/2503.03556)] [[project](https://zhuxmmm.github.io/Afford-X/)] 
 
 ### 2024
 - [2024] AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation [[paper](https://arxiv.org/pdf/2406.11548)]
