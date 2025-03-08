@@ -66,7 +66,7 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] RaceVLA: VLA-based Racing Drone Navigation with Human-like Behaviour [[paper](https://arxiv.org/pdf/2503.02572)] [[project](https://racevla.github.io/)] 
 - [2025] OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction [[paper](https://arxiv.org/pdf/2503.03734)] [[project](https://ottervla.github.io/)] 
 - [2025] A Generative System for Robot-to-Human Handovers: from Intent Inference to Spatial Configuration Imagery [[paper](https://arxiv.org/pdf/2503.03579)] [[project](https://i3handover.github.io/)] 
-
+- [2025] VLA Model-Expert Collaboration for Bi-directional Manipulation Learning [[paper](https://arxiv.org/pdf/2503.04163)] [[project](https://aoqunjin.github.io/Expert-VLA/)]
 
 
 
@@ -210,6 +210,11 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] Learning Dexterous In-Hand Manipulation with Multifingered Hands via Visuomotor Diffusion [[paper](https://arxiv.org/pdf/2503.02587)] [[project](https://dex-manip.github.io/)]
 - [2025] RGBSQGrasp: Inferring Local Superquadric Primitives from Single RGB Image for Graspability-Aware Bin Picking [[paper](https://arxiv.org/pdf/2503.02387)] [[project](https://ilikesukiyaki.github.io/RGBSQGrasp/)]
 - [2025] ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation [[paper](https://arxiv.org/pdf/2503.03045)] [[project](https://articubot.github.io/)] 
+- [2025] SRSA: Skill Retrieval and Adaptation for Robotic Assembly Tasks [[paper](https://arxiv.org/pdf/2503.04538)] [[project](https://srsa2024.github.io/)] 
+- [2025] GAGrasp: Geometric Algebra Diffusion for Dexterous Grasping [[paper](https://arxiv.org/pdf/2503.04123)] [[project](https://gagrasp.github.io/)] 
+- [2025] OPG-Policy: Occluded Push-Grasp Policy Learning with Amodal Segmentation [[paper](https://arxiv.org/pdf/2503.04089)]
+- [2025] RA-DP: Rapid Adaptive Diffusion Policy for Training-Free High-frequency Robotics Replanning [[paper](https://arxiv.org/pdf/2503.04051)]
+- [2025] Robotic Compliant Object Prying Using Diffusion Policy Guided by Vision and Force Observations [[paper](https://arxiv.org/pdf/2503.03998)] [[project](https://rros-lab.github.io/diffusion-with-force.github.io/)] 
 
 
 ### 2024
@@ -278,6 +283,9 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] UAV-VLRR: Vision-Language Informed NMPC for Rapid Response in UAV Search and Rescue [[paper](https://arxiv.org/pdf/2503.02465)] [[video](https://www.youtube.com/watch?v=KJqQGKKt1xY&feature=youtu.be)]
 - [2025] UAV-VLPA: A Vision-Language-Path-Action System for Optimal Route Generation on a Large Scales [[paper](https://arxiv.org/pdf/2503.02454)]
 - [2025] Afford-X: Generalizable and Slim Affordance Reasoning for Task-oriented Manipulation [[paper](https://arxiv.org/pdf/2503.03556)] [[project](https://zhuxmmm.github.io/Afford-X/)] 
+- [2025] Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation with Large Language Models [[paper](https://arxiv.org/pdf/2503.04280)] [[video](https://www.youtube.com/watch?v=kaTxZ4oqD6Y&feature=youtu.be)] 
+- [2025] LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation [[paper](https://arxiv.org/pdf/2503.03890)]
+- [2025] Learning Generalizable Language-Conditioned Cloth Manipulation from Long Demonstrations [[paper](https://arxiv.org/pdf/2503.04557)] [[project](https://sites.google.com/view/gen-cloth)] 
 
 ### 2024
 - [2024] AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation [[paper](https://arxiv.org/pdf/2406.11548)]
