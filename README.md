@@ -162,6 +162,8 @@ Let’s build a comprehensive resource for the robotics and AI community!
 
 ### 2025
 
+- [2025] Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning [[paper](https://arxiv.org/pdf/2503.04877)] [[project](https://www.pair.toronto.edu/Adapt3R/)] 
+- [2025] BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [[paper](https://arxiv.org/pdf/2503.05652)] [[project](https://behavior-robot-suite.github.io/)] 
 - [2025] Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)] 
 - [2025] Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [[paper](https://arxiv.org/pdf/2501.10100)]
 - [2025] You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations [[paper](https://arxiv.org/pdf/2501.14208)]
@@ -215,7 +217,8 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] OPG-Policy: Occluded Push-Grasp Policy Learning with Amodal Segmentation [[paper](https://arxiv.org/pdf/2503.04089)]
 - [2025] RA-DP: Rapid Adaptive Diffusion Policy for Training-Free High-frequency Robotics Replanning [[paper](https://arxiv.org/pdf/2503.04051)]
 - [2025] Robotic Compliant Object Prying Using Diffusion Policy Guided by Vision and Force Observations [[paper](https://arxiv.org/pdf/2503.03998)] [[project](https://rros-lab.github.io/diffusion-with-force.github.io/)] 
-
+- [2025] CoinRobot: Generalized End-to-end Robotic Learning for Physical Intelligence [[paper](https://arxiv.org/pdf/2503.05316)]
+- [2025] Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects [[paper](https://arxiv.org/pdf/2503.05189)] [[project](https://berkeleyautomation.github.io/POGS/)] 
 
 ### 2024
 
@@ -286,6 +289,8 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation with Large Language Models [[paper](https://arxiv.org/pdf/2503.04280)] [[video](https://www.youtube.com/watch?v=kaTxZ4oqD6Y&feature=youtu.be)] 
 - [2025] LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation [[paper](https://arxiv.org/pdf/2503.03890)]
 - [2025] Learning Generalizable Language-Conditioned Cloth Manipulation from Long Demonstrations [[paper](https://arxiv.org/pdf/2503.04557)] [[project](https://sites.google.com/view/gen-cloth)] 
+- [2025] Look Before You Leap: Using Serialized State Machine for Language Conditioned Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.05114)]
+- [2025] Perceiving, Reasoning, Adapting: A Dual-Layer Framework for VLM-Guided Precision Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.05064)] 
 
 ### 2024
 - [2024] AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation [[paper](https://arxiv.org/pdf/2406.11548)]
