@@ -68,7 +68,7 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction [[paper](https://arxiv.org/pdf/2503.03734)] [[project](https://ottervla.github.io/)] 
 - [2025] A Generative System for Robot-to-Human Handovers: from Intent Inference to Spatial Configuration Imagery [[paper](https://arxiv.org/pdf/2503.03579)] [[project](https://i3handover.github.io/)] 
 - [2025] VLA Model-Expert Collaboration for Bi-directional Manipulation Learning [[paper](https://arxiv.org/pdf/2503.04163)] [[project](https://aoqunjin.github.io/Expert-VLA/)]
-
+- [2025] PointVLA: Injecting the 3D World into Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2503.07511)] [[project](https://pointvla.github.io/)]
 
 
 ### 2024
@@ -292,6 +292,7 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] Learning Generalizable Language-Conditioned Cloth Manipulation from Long Demonstrations [[paper](https://arxiv.org/pdf/2503.04557)] [[project](https://sites.google.com/view/gen-cloth)] 
 - [2025] Look Before You Leap: Using Serialized State Machine for Language Conditioned Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.05114)]
 - [2025] Perceiving, Reasoning, Adapting: A Dual-Layer Framework for VLM-Guided Precision Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.05064)] 
+- [2025] AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning [[paper](https://arxiv.org/pdf/2503.07557)] [[project](https://github.com/Yanko96/AutoSpatial)] 
 
 ### 2024
 - [2024] AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation [[paper](https://arxiv.org/pdf/2406.11548)]
