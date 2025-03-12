@@ -4,7 +4,7 @@ As more and more outstanding vision-language-based policies emerge, this reposit
 
 This repository will be continuously updated, and we warmly invite contributions from the community. If you have any papers, projects, or resources that are not yet included, please feel free to submit them via a pull request or open an issue for discussion. 
 
-Let’s build a comprehensive resource for the robotics and AI community!
+Let's build a comprehensive resource for the robotics and AI community!
 
 *Jony and Sage*
 
@@ -69,6 +69,11 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] A Generative System for Robot-to-Human Handovers: from Intent Inference to Spatial Configuration Imagery [[paper](https://arxiv.org/pdf/2503.03579)] [[project](https://i3handover.github.io/)] 
 - [2025] VLA Model-Expert Collaboration for Bi-directional Manipulation Learning [[paper](https://arxiv.org/pdf/2503.04163)] [[project](https://aoqunjin.github.io/Expert-VLA/)]
 - [2025] PointVLA: Injecting the 3D World into Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2503.07511)] [[project](https://pointvla.github.io/)]
+- [2025] Towards Safe Robot Foundation Models [[paper](https://arxiv.org/pdf/2503.07404)] [[project](https://sites.google.com/robot-learning.de/towards-safe-rfm)]
+- [2025] VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.07135)] [[project](https://hanzhic.github.io/vidbot-project/)]
+- [2025] iManip: Skill-Incremental Learning for Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.07087)]
+- [2025] Refined Policy Distillation: From VLA Generalists to RL Experts [[paper](https://arxiv.org/pdf/2503.05833)]
+
 
 
 ### 2024
@@ -113,7 +118,7 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2024] QUAR-VLA: Vision-Language-Action Model for Quadruped Robots [[paper](https://arxiv.org/pdf/2312.14457)]
 - [2024] RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2409.19590)]
 - [2024] DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution [[paper](https://arxiv.org/pdf/2411.02359)]
-
+- [2024] General Flow as Foundation Affordance for Scalable Robot Learning [[paper](https://arxiv.org/pdf/2401.11439)] [[project](https://general-flow.github.io/)]
 
 
 ### 2023 
@@ -145,7 +150,7 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation [[paper](https://arxiv.org/pdf/2502.18041)]
 - [2025] Ground-level Viewpoint Vision-and-Language Navigation in Continuous Environments [[paper](https://arxiv.org/pdf/2502.19024)]
 - [2025] WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation [[paper](https://arxiv.org/pdf/2503.02247)] [[project](https://b0b8k1ng.github.io/WMNav/)]
-
+- [2025] Dynamic Path Navigation for Motion Agents with LLM Reasoning [[paper](https://arxiv.org/pdf/2503.07323)]
 
 ### 2024
 
@@ -220,6 +225,10 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] Robotic Compliant Object Prying Using Diffusion Policy Guided by Vision and Force Observations [[paper](https://arxiv.org/pdf/2503.03998)] [[project](https://rros-lab.github.io/diffusion-with-force.github.io/)] 
 - [2025] CoinRobot: Generalized End-to-end Robotic Learning for Physical Intelligence [[paper](https://arxiv.org/pdf/2503.05316)]
 - [2025] Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects [[paper](https://arxiv.org/pdf/2503.05189)] [[project](https://berkeleyautomation.github.io/POGS/)] 
+- [2025] How to Train Your Robots? The Impact of Demonstration Modality on Imitation Learning [[paper](https://arxiv.org/pdf/2503.07017)] 
+- [2025] One-Shot Dual-Arm Imitation Learning [[paper](https://arxiv.org/pdf/2503.06831)] [[project](https://www.robot-learning.uk/one-shot-dual-arm)] 
+- [2025] GAT-Grasp: Gesture-Driven Affordance Transfer for Task-Aware Robotic Grasping [[paper](https://arxiv.org/pdf/2503.06227)]
+
 
 ### 2024
 
@@ -293,6 +302,17 @@ Let’s build a comprehensive resource for the robotics and AI community!
 - [2025] Look Before You Leap: Using Serialized State Machine for Language Conditioned Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.05114)]
 - [2025] Perceiving, Reasoning, Adapting: A Dual-Layer Framework for VLM-Guided Precision Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.05064)] 
 - [2025] AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning [[paper](https://arxiv.org/pdf/2503.07557)] [[project](https://github.com/Yanko96/AutoSpatial)] 
+- [2025] AffordDexGrasp: Open-set Language-guided Dexterous Grasp with Generalizable-Instructive Affordance [[paper](https://arxiv.org/pdf/2503.07360)] [[project](https://isee-laboratory.github.io/AffordDexGrasp/)]
+- [2025] Self-Corrective Task Planning by Inverse Prompting with Large Language Models [[paper](https://arxiv.org/pdf/2503.07317)]
+- [2025] HELM: Human-Preferred Exploration with Language Models [[paper](https://arxiv.org/pdf/2503.07006)]
+- [2025] SafePlan: Leveraging Formal Logic and Chain-of-Thought Reasoning for Enhanced Safety in LLM-based Robotic Task Planning [[paper](https://arxiv.org/pdf/2503.06892)]
+- [2025] Graphormer-Guided Task Planning: Beyond Static Rules with LLM Safety Perception [[paper](https://arxiv.org/pdf/2503.06866)]
+- [2025] RoboDesign1M: A Large-scale Dataset for Robot Design Understanding [[paper](https://arxiv.org/pdf/2503.06796)]
+- [2025] STAR: A Foundation Model-driven Framework for Robust Task Planning and Failure Recovery in Robotic Systems [[paper](https://arxiv.org/pdf/2503.06060)]
+- [2025] MatchMaker: Automated Asset Generation for Robotic Assembly [[paper](https://arxiv.org/pdf/2503.05887)]
+- [2025] Object-Centric World Model for Language-Guided Manipulation [[paper](https://arxiv.org/pdf/2503.06170)]
+
+
 
 ### 2024
 - [2024] AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation [[paper](https://arxiv.org/pdf/2406.11548)]
