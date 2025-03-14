@@ -10,6 +10,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 
 
 ## Survey
+- [2025] SE(3)-Equivariant Robot Learning and Control: A Tutorial Survey [[paper](https://arxiv.org/pdf/2503.09829)]
 - [2025] Generative Artificial Intelligence in Robotic Manipulation: A Survey [[paper](https://arxiv.org/pdf/2503.03464)] [[project](https://github.com/GAI4Manipulation/AwesomeGAIManipulation)] 
 - [2025] Development Report of Embodied Intelligence (Chinese) [[paper](https://www.caict.ac.cn/kxyj/qwfb/bps/202408/P020240830312499650772.pdf)]
 - [2025] Survey on Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2502.06851)]
@@ -73,8 +74,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.07135)] [[project](https://hanzhic.github.io/vidbot-project/)]
 - [2025] iManip: Skill-Incremental Learning for Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.07087)]
 - [2025] Refined Policy Distillation: From VLA Generalists to RL Experts [[paper](https://arxiv.org/pdf/2503.05833)]
-
-
+- [2025] LUMOS: Language-Conditioned Imitation Learning with World Models [[paper](https://arxiv.org/pdf/2503.10370)] [[project](http://lumos.cs.uni-freiburg.de/)]
+- [2025] HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2503.10631)] [[project](https://hybrid-vla.github.io/)]
 
 ### 2024
 
@@ -151,6 +152,12 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Ground-level Viewpoint Vision-and-Language Navigation in Continuous Environments [[paper](https://arxiv.org/pdf/2502.19024)]
 - [2025] WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation [[paper](https://arxiv.org/pdf/2503.02247)] [[project](https://b0b8k1ng.github.io/WMNav/)]
 - [2025] Dynamic Path Navigation for Motion Agents with LLM Reasoning [[paper](https://arxiv.org/pdf/2503.07323)]
+- [2025] SmartWay: Enhanced Waypoint Prediction and Backtracking for Zero-Shot Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2503.10069)]
+- [2025] Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments [[paper](https://arxiv.org/pdf/2503.09820)]
+- [2025] UniGoal: Towards Universal Zero-shot Goal-oriented Navigation [[paper](https://arxiv.org/pdf/2503.10630)] [[project](https://bagh2178.github.io/UniGoal/)]
+- [2025] PanoGen++: Domain-Adapted Text-Guided Panoramic Environment Generation for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2503.09938)]
+
+
 
 ### 2024
 
@@ -228,7 +235,11 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] How to Train Your Robots? The Impact of Demonstration Modality on Imitation Learning [[paper](https://arxiv.org/pdf/2503.07017)] 
 - [2025] One-Shot Dual-Arm Imitation Learning [[paper](https://arxiv.org/pdf/2503.06831)] [[project](https://www.robot-learning.uk/one-shot-dual-arm)] 
 - [2025] GAT-Grasp: Gesture-Driven Affordance Transfer for Task-Aware Robotic Grasping [[paper](https://arxiv.org/pdf/2503.06227)]
-
+- [2025] Enhanced View Planning for Robotic Harvesting: Tackling Occlusions with Imitation Learning [[paper](https://arxiv.org/pdf/2503.10334)]
+- [2025] ES-Parkour: Advanced Robot Parkour with Bio-inspired Event Camera and Spiking Neural Network [[paper](https://arxiv.org/pdf/2503.09985)]
+- [2025] NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models [[paper](https://arxiv.org/pdf/2503.10626)]
+- [2025] World Modeling Makes a Better Planner: Dual Preference Optimization for Embodied Task Planning [[paper](https://arxiv.org/pdf/2503.10480)]
+- [2025] RILe: Reinforced Imitation Learning [[paper](https://arxiv.org/pdf/2406.08472)]
 
 ### 2024
 
@@ -312,9 +323,13 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] MatchMaker: Automated Asset Generation for Robotic Assembly [[paper](https://arxiv.org/pdf/2503.05887)]
 - [2025] Object-Centric World Model for Language-Guided Manipulation [[paper](https://arxiv.org/pdf/2503.06170)]
 - [2025] KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.10546)] [[project](https://kuda-dynamics.github.io/)]
+- [2025] IMPACT : Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models [[paper](https://arxiv.org/pdf/2503.10110)] [[project](https://impact-planning.github.io/)]
+- [2025] Multi-Agent LLM Actor-Critic Framework for Social Robot Navigation [[paper](https://arxiv.org/pdf/2503.09758)] [[project](https://sites.google.com/view/SAMALM)]
 
 
 ### 2024
+
+- [2024] Building Cooperative Embodied Agents Modularly with Large Language Models [[paper](https://arxiv.org/pdf/2307.02485)] [[project](https://vis-www.cs.umass.edu/Co-LLM-Agents/)]
 - [2024] AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation [[paper](https://arxiv.org/pdf/2406.11548)]
 - [2024] OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints [[paper](https://arxiv.org/pdf/2501.03841)]
 - [2024] Grasp What You Want: Embodied Dexterous Grasping System Driven by Your Voice [[paper](https://arxiv.org/pdf/2412.10694)]
@@ -348,7 +363,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids [[paper](https://arxiv.org/pdf/2502.20396)] [[project](https://toruowo.github.io/recipe/)]
 - [2025] Impact of Static Friction on Sim2Real in Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2503.01255)]
 - [2025] Few-shot Sim2Real Based on High Fidelity Rendering with Force Feedback Teleop [[paper](https://arxiv.org/pdf/2503.01301)]
-
+- [2025] An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation [[paper](https://arxiv.org/pdf/2503.10118)] [[project](https://github.com/sunnyshi0310/RSR-MJX)]
 
 ## Benchmark
 - [2025] OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation [[paper](https://arxiv.org/pdf/2502.18041)]
