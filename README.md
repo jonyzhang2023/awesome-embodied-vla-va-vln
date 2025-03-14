@@ -311,7 +311,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] STAR: A Foundation Model-driven Framework for Robust Task Planning and Failure Recovery in Robotic Systems [[paper](https://arxiv.org/pdf/2503.06060)]
 - [2025] MatchMaker: Automated Asset Generation for Robotic Assembly [[paper](https://arxiv.org/pdf/2503.05887)]
 - [2025] Object-Centric World Model for Language-Guided Manipulation [[paper](https://arxiv.org/pdf/2503.06170)]
-
+- [2025] KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.10546)] [[project](https://kuda-dynamics.github.io/)]
 
 
 ### 2024
