@@ -25,6 +25,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 
 ### 2025 
 
+- [2025] [**Gemini Robotics**] Gemini Robotics: Bringing AI into the Physical World [[report](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf)]
 - [2025] [**AgiBot**] AgiBot World Colosseo: Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[paper](https://agibot-world.com/blog/agibot_go1.pdf)] [[project](https://agibot-world.com/blog/go1)] 
 - [2025] [**PsiBot**] DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping [[paper](https://arxiv.org/pdf/2502.20900)] [[project](https://dexgraspvla.github.io/)] 
 - [2025] Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success [[paper](https://arxiv.org/pdf/2502.19645)] [[project](https://openvla-oft.github.io/)] 
@@ -76,6 +77,10 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Refined Policy Distillation: From VLA Generalists to RL Experts [[paper](https://arxiv.org/pdf/2503.05833)]
 - [2025] LUMOS: Language-Conditioned Imitation Learning with World Models [[paper](https://arxiv.org/pdf/2503.10370)] [[project](http://lumos.cs.uni-freiburg.de/)]
 - [2025] HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2503.10631)] [[project](https://hybrid-vla.github.io/)]
+- [2025] MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2503.08007)]
+- [2025] TLA: Tactile-Language-Action Model for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.08548)] [[project](https://sites.google.com/view/tactile-language-action/)]
+
+
 
 ### 2024
 
@@ -240,6 +245,16 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models [[paper](https://arxiv.org/pdf/2503.10626)]
 - [2025] World Modeling Makes a Better Planner: Dual Preference Optimization for Embodied Task Planning [[paper](https://arxiv.org/pdf/2503.10480)]
 - [2025] RILe: Reinforced Imitation Learning [[paper](https://arxiv.org/pdf/2406.08472)]
+- [2025] HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots [[paper](https://arxiv.org/abs/2503.09010)]
+- [2025] Distillation-PPO: A Novel Two-Stage Reinforcement Learning Framework for Humanoid Robot Perceptive Locomotion [[paper](https://arxiv.org/abs/2503.08299)]
+- [2025] Trinity: A Modular Humanoid Robot AI System [[paper](https://arxiv.org/abs/2503.08338)]
+- [2025] LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures [[paper](https://arxiv.org/abs/2503.08349)]
+- [2025] Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning [[paper](https://arxiv.org/pdf/2503.08029)] [[project](https://elastic-motion-policy.github.io/EMP/)] 
+- [2025] Learning Gentle Grasping Using Vision, Sound, and Touch [[paper](https://arxiv.org/pdf/2503.07926)] [[project](https://lasr.org/research/gentle-grasping)] 
+- [2025] RoboCopilot: Human-in-the-loop Interactive Imitation Learning for Robot Manipulation [[paper](https://arxiv.org/pdf/2503.07771)]
+- [2025] Rethinking Bimanual Robotic Manipulation: Learning with Decoupled Interaction Framework [[paper](https://arxiv.org/pdf/2503.09186)]
+- [2025] MoE-Loco: Mixture of Experts for Multitask Locomotion [[paper](https://arxiv.org/pdf/2503.08564)] [[project](https://moe-loco.github.io/)] 
+
 
 ### 2024
 
@@ -325,6 +340,9 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.10546)] [[project](https://kuda-dynamics.github.io/)]
 - [2025] IMPACT : Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models [[paper](https://arxiv.org/pdf/2503.10110)] [[project](https://impact-planning.github.io/)]
 - [2025] Multi-Agent LLM Actor-Critic Framework for Social Robot Navigation [[paper](https://arxiv.org/pdf/2503.09758)] [[project](https://sites.google.com/view/SAMALM)]
+- [2025] PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability [[paper](https://arxiv.org/pdf/2503.08481)] 
+- [2025] MetaFold: Language-Guided Multi-Category Garment Folding Framework via Trajectory Generation and Foundation Model [[paper](https://arxiv.org/pdf/2503.08372)] 
+- [2025] NVP-HRI: Zero Shot Natural Voice and Posture-based Human-Robot Interaction via Large Language Model [[paper](https://arxiv.org/pdf/2503.09335)] [[project](https://github.com/laiyuzhi/NVP-HRI.git)]
 
 
 ### 2024
