@@ -79,6 +79,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2503.10631)] [[project](https://hybrid-vla.github.io/)]
 - [2025] MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2503.08007)]
 - [2025] TLA: Tactile-Language-Action Model for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.08548)] [[project](https://sites.google.com/view/tactile-language-action/)]
+- [2025] FP3: A 3D Foundation Policy for Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.08950)] [[project](https://3d-foundation-policy.github.io/)]
 
 
 
