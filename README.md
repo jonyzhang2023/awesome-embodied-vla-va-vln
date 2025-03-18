@@ -80,6 +80,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2503.08007)]
 - [2025] TLA: Tactile-Language-Action Model for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.08548)] [[project](https://sites.google.com/view/tactile-language-action/)]
 - [2025] FP3: A 3D Foundation Policy for Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.08950)] [[project](https://3d-foundation-policy.github.io/)]
+- [2025] MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation [[paper](https://arxiv.org/pdf/2503.13446)] [[project](https://gary3410.github.io/momanipVLA/)]
 
 
 
@@ -255,6 +256,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] RoboCopilot: Human-in-the-loop Interactive Imitation Learning for Robot Manipulation [[paper](https://arxiv.org/pdf/2503.07771)]
 - [2025] Rethinking Bimanual Robotic Manipulation: Learning with Decoupled Interaction Framework [[paper](https://arxiv.org/pdf/2503.09186)]
 - [2025] MoE-Loco: Mixture of Experts for Multitask Locomotion [[paper](https://arxiv.org/pdf/2503.08564)] [[project](https://moe-loco.github.io/)] 
+- [2025] Humanoid Policy ~ Human Policy [[paper](https://arxiv.org/pdf/2503.13441)] [[project](https://human-as-robot.github.io/)] 
 
 
 ### 2024
@@ -344,7 +346,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability [[paper](https://arxiv.org/pdf/2503.08481)] 
 - [2025] MetaFold: Language-Guided Multi-Category Garment Folding Framework via Trajectory Generation and Foundation Model [[paper](https://arxiv.org/pdf/2503.08372)] 
 - [2025] NVP-HRI: Zero Shot Natural Voice and Posture-based Human-Robot Interaction via Large Language Model [[paper](https://arxiv.org/pdf/2503.09335)] [[project](https://github.com/laiyuzhi/NVP-HRI.git)]
-
+- [2025] MindEye-OmniAssist: A Gaze-Driven LLM-Enhanced Assistive Robot System for Implicit Intention Recognition and Task Execution [[paper](https://arxiv.org/pdf/2503.13250)]
 
 ### 2024
 
