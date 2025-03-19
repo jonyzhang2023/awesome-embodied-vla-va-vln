@@ -310,6 +310,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 ## Other Multimodal Large Language Model (MLLM)-based/related Embodied Learning
 
 ### 2025
+- [2025] EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks [[paper](https://arxiv.org/pdf/2503.11089)]
 - [2025] RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation [[paper](https://arxiv.org/pdf/2503.01616)] [[project](https://henryhcliu.github.io/robodexvlm/)] 
 - [2025] Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation [[paper](https://arxiv.org/pdf/2502.16707v1)]
 - [2025] RoboGrasp: A Universal Grasping Policy for Robust Robotic Control [[paper](https://arxiv.org/pdf/2502.03072)]
