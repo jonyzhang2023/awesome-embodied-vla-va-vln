@@ -352,7 +352,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Free-form language-based robotic reasoning and grasping [[paper](https://arxiv.org/pdf/2503.13082)] [[project](https://tev-fbk.github.io/FreeGrasp/)]
 - [2025] Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning [[paper](https://arxiv.org/pdf/2503.13055)]
 - [2025] VISO-Grasp: Vision-Language Informed Spatial Object-centric 6-DoF Active View Planning and Grasping in Clutter and Invisibility [[paper](https://arxiv.org/pdf/2503.12609)]
-
+- [2025] Diffusion Dynamics Models with Generative State Estimation for Cloth Manipulation [[paper](https://arxiv.org/pdf/2503.11999)]
 
 
 
