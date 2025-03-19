@@ -182,6 +182,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 
 ### 2025
 
+- [2025] Modality-Composable Diffusion Policy via Inference-Time Distribution-level Composition [[paper](https://arxiv.org/pdf/2503.12466)] [[project](https://github.com/AndyCao1125/MCDP)] 
 - [2025] Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning [[paper](https://arxiv.org/pdf/2503.04877)] [[project](https://www.pair.toronto.edu/Adapt3R/)] 
 - [2025] BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [[paper](https://arxiv.org/pdf/2503.05652)] [[project](https://behavior-robot-suite.github.io/)] 
 - [2025] Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)] 
@@ -257,7 +258,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Rethinking Bimanual Robotic Manipulation: Learning with Decoupled Interaction Framework [[paper](https://arxiv.org/pdf/2503.09186)]
 - [2025] MoE-Loco: Mixture of Experts for Multitask Locomotion [[paper](https://arxiv.org/pdf/2503.08564)] [[project](https://moe-loco.github.io/)] 
 - [2025] Humanoid Policy ~ Human Policy [[paper](https://arxiv.org/pdf/2503.13441)] [[project](https://human-as-robot.github.io/)] 
-
+- [2025] Dense Policy: Bidirectional Autoregressive Learning of Actions [[paper](https://arxiv.org/pdf/2503.13217)] [[project](https://selen-suyue.github.io/DspNet/)] 
 
 ### 2024
 
@@ -347,6 +348,13 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] MetaFold: Language-Guided Multi-Category Garment Folding Framework via Trajectory Generation and Foundation Model [[paper](https://arxiv.org/pdf/2503.08372)] 
 - [2025] NVP-HRI: Zero Shot Natural Voice and Posture-based Human-Robot Interaction via Large Language Model [[paper](https://arxiv.org/pdf/2503.09335)] [[project](https://github.com/laiyuzhi/NVP-HRI.git)]
 - [2025] MindEye-OmniAssist: A Gaze-Driven LLM-Enhanced Assistive Robot System for Implicit Intention Recognition and Task Execution [[paper](https://arxiv.org/pdf/2503.13250)]
+- [2025] HybridGen: VLM-Guided Hybrid Planning for Scalable Data Generation of Imitation Learning [[paper](https://arxiv.org/pdf/2503.13171)]
+- [2025] Free-form language-based robotic reasoning and grasping [[paper](https://arxiv.org/pdf/2503.13082)] [[project](https://tev-fbk.github.io/FreeGrasp/)]
+- [2025] Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning [[paper](https://arxiv.org/pdf/2503.13055)]
+- [2025] VISO-Grasp: Vision-Language Informed Spatial Object-centric 6-DoF Active View Planning and Grasping in Clutter and Invisibility [[paper](https://arxiv.org/pdf/2503.12609)]
+
+
+
 
 ### 2024
 
