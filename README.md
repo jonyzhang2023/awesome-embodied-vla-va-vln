@@ -81,8 +81,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] TLA: Tactile-Language-Action Model for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.08548)] [[project](https://sites.google.com/view/tactile-language-action/)]
 - [2025] FP3: A 3D Foundation Policy for Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.08950)] [[project](https://3d-foundation-policy.github.io/)]
 - [2025] MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation [[paper](https://arxiv.org/pdf/2503.13446)] [[project](https://gary3410.github.io/momanipVLA/)]
-
-
+- [2025] Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy [[paper](https://arxiv.org/pdf/2410.15959v4)] [[project](https://robodita.github.io/)]
 
 ### 2024
 
@@ -164,6 +163,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] UniGoal: Towards Universal Zero-shot Goal-oriented Navigation [[paper](https://arxiv.org/pdf/2503.10630)] [[project](https://bagh2178.github.io/UniGoal/)]
 - [2025] PanoGen++: Domain-Adapted Text-Guided Panoramic Environment Generation for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2503.09938)]
 - [2025] Do Visual Imaginations Improve Vision-and-Language Navigation Agents? [[paper](https://arxiv.org/pdf/2503.16394)] [[project](https://www.akhilperincherry.com/VLN-Imagine-website/)]
+- [2025] HA-VLN: A Benchmark for Human-Aware Navigation in Discrete-Continuous Environments with Dynamic Multi-Human Interactions, Real-World Validation, and an Open Leaderboard [[paper](https://arxiv.org/pdf/2503.14229)] [[project](https://ha-vln-project.vercel.app/)]
+- [2025] FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks [[paper](https://arxiv.org/pdf/2503.13966)]
 
 
 ### 2024
@@ -259,6 +260,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] MoE-Loco: Mixture of Experts for Multitask Locomotion [[paper](https://arxiv.org/pdf/2503.08564)] [[project](https://moe-loco.github.io/)] 
 - [2025] Humanoid Policy ~ Human Policy [[paper](https://arxiv.org/pdf/2503.13441)] [[project](https://human-as-robot.github.io/)] 
 - [2025] Dense Policy: Bidirectional Autoregressive Learning of Actions [[paper](https://arxiv.org/pdf/2503.13217)] [[project](https://selen-suyue.github.io/DspNet/)] 
+- [2025] Learning to Play Piano in the Real World [[paper](https://arxiv.org/pdf/2503.15481)] [[project](https://lasr.org/research/learning-to-play-piano)] 
+- [2025] CCDP: Composition of Conditional Diffusion Policies with Guided Sampling [[paper](https://arxiv.org/pdf/2503.15386)] [[project](https://hri-eu.github.io/ccdp/)] 
 
 ### 2024
 
