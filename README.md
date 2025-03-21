@@ -163,7 +163,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments [[paper](https://arxiv.org/pdf/2503.09820)]
 - [2025] UniGoal: Towards Universal Zero-shot Goal-oriented Navigation [[paper](https://arxiv.org/pdf/2503.10630)] [[project](https://bagh2178.github.io/UniGoal/)]
 - [2025] PanoGen++: Domain-Adapted Text-Guided Panoramic Environment Generation for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2503.09938)]
-
+- [2025] Do Visual Imaginations Improve Vision-and-Language Navigation Agents? [[paper](https://arxiv.org/pdf/2503.16394)] [[project](https://www.akhilperincherry.com/VLN-Imagine-website/)]
 
 
 ### 2024
@@ -310,6 +310,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 ## Other Multimodal Large Language Model (MLLM)-based/related Embodied Learning
 
 ### 2025
+- [2025] [**NVIDIA**] Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning [[paper](https://arxiv.org/pdf/2503.15558)] [[project](https://github.com/nvidia-cosmos/cosmos-reason1)] 
 - [2025] EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks [[paper](https://arxiv.org/pdf/2503.11089)]
 - [2025] RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation [[paper](https://arxiv.org/pdf/2503.01616)] [[project](https://henryhcliu.github.io/robodexvlm/)] 
 - [2025] Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation [[paper](https://arxiv.org/pdf/2502.16707v1)]
@@ -354,8 +355,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning [[paper](https://arxiv.org/pdf/2503.13055)]
 - [2025] VISO-Grasp: Vision-Language Informed Spatial Object-centric 6-DoF Active View Planning and Grasping in Clutter and Invisibility [[paper](https://arxiv.org/pdf/2503.12609)]
 - [2025] Diffusion Dynamics Models with Generative State Estimation for Cloth Manipulation [[paper](https://arxiv.org/pdf/2503.11999)]
-
-
+- [2025] GraspCoT: Integrating Physical Property Reasoning for 6-DoF Grasping under Flexible Language Instructions [[paper](https://arxiv.org/pdf/2503.16013)]
+- [2025] Safety Aware Task Planning via Large Language Models in Robotics [[paper](https://arxiv.org/pdf/2503.15707)]
 
 ### 2024
 
@@ -396,6 +397,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation [[paper](https://arxiv.org/pdf/2503.10118)] [[project](https://github.com/sunnyshi0310/RSR-MJX)]
 
 ## Benchmark
+- [2025] RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints [[paper](https://arxiv.org/pdf/2503.16408)] [[project](https://iranqin.github.io/robofactory/)]
 - [2025] OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation [[paper](https://arxiv.org/pdf/2502.18041)]
 - [2025] BOSS: Benchmark for Observation Space Shift in Long-Horizon Task [[paper](http://arxiv.org/pdf/2502.15679)]
 - [2025] OpenBench: A New Benchmark and Baseline for Semantic Navigation in Smart Logistics [[paper](https://arxiv.org/pdf/2502.09238)]
