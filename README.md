@@ -82,6 +82,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] FP3: A 3D Foundation Policy for Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.08950)] [[project](https://3d-foundation-policy.github.io/)]
 - [2025] MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation [[paper](https://arxiv.org/pdf/2503.13446)] [[project](https://gary3410.github.io/momanipVLA/)]
 - [2025] Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy [[paper](https://arxiv.org/pdf/2410.15959v4)] [[project](https://robodita.github.io/)]
+- [2025] Think Small, Act Big: Primitive-level Skill Prompt Learning for Lifelong Robot Manipulation [[paper](https://openreview.net/pdf?id=tpUEqmjZiS)]
+
 
 ### 2024
 
