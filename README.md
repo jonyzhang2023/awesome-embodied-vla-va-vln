@@ -264,6 +264,9 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Dense Policy: Bidirectional Autoregressive Learning of Actions [[paper](https://arxiv.org/pdf/2503.13217)] [[project](https://selen-suyue.github.io/DspNet/)] 
 - [2025] Learning to Play Piano in the Real World [[paper](https://arxiv.org/pdf/2503.15481)] [[project](https://lasr.org/research/learning-to-play-piano)] 
 - [2025] CCDP: Composition of Conditional Diffusion Policies with Guided Sampling [[paper](https://arxiv.org/pdf/2503.15386)] [[project](https://hri-eu.github.io/ccdp/)] 
+- [2025] DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation [[paper](https://arxiv.org/pdf/2503.16806)] [[project](https://pku-epic.github.io/DyWA/)] 
+
+
 
 ### 2024
 
@@ -362,6 +365,11 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Diffusion Dynamics Models with Generative State Estimation for Cloth Manipulation [[paper](https://arxiv.org/pdf/2503.11999)]
 - [2025] GraspCoT: Integrating Physical Property Reasoning for 6-DoF Grasping under Flexible Language Instructions [[paper](https://arxiv.org/pdf/2503.16013)]
 - [2025] Safety Aware Task Planning via Large Language Models in Robotics [[paper](https://arxiv.org/pdf/2503.15707)]
+- [2025] LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language [[paper](https://arxiv.org/pdf/2503.17309)] [[project](https://github.com/Kchu/LLM-MAP)] 
+- [2025] Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning [[paper](https://arxiv.org/pdf/2503.17125)] [[project](https://lamour-rl.github.io/)] 
+
+
+
 
 ### 2024
 
