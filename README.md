@@ -83,7 +83,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation [[paper](https://arxiv.org/pdf/2503.13446)] [[project](https://gary3410.github.io/momanipVLA/)]
 - [2025] Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy [[paper](https://arxiv.org/pdf/2410.15959v4)] [[project](https://robodita.github.io/)]
 - [2025] Think Small, Act Big: Primitive-level Skill Prompt Learning for Lifelong Robot Manipulation [[paper](https://openreview.net/pdf?id=tpUEqmjZiS)]
-
+- [2025] JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse [[paper](https://arxiv.org/pdf/2503.16365)] [[project](https://craftjarvis.github.io/JarvisVLA/)]
 
 ### 2024
 
