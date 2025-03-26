@@ -84,6 +84,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy [[paper](https://arxiv.org/pdf/2410.15959v4)] [[project](https://robodita.github.io/)]
 - [2025] Think Small, Act Big: Primitive-level Skill Prompt Learning for Lifelong Robot Manipulation [[paper](https://openreview.net/pdf?id=tpUEqmjZiS)]
 - [2025] JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse [[paper](https://arxiv.org/pdf/2503.16365)] [[project](https://craftjarvis.github.io/JarvisVLA/)]
+- [2025] RoboFlamingo-Plus: Fusion of Depth and RGB Perception with Vision-Language Models for Enhanced Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.19510)]
+- [2025] CubeRobot: Grounding Language in Rubik's Cube Manipulation via Vision-Language Model [[paper](https://arxiv.org/pdf/2503.19225)]
 
 ### 2024
 
@@ -269,7 +271,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] CCDP: Composition of Conditional Diffusion Policies with Guided Sampling [[paper](https://arxiv.org/pdf/2503.15386)] [[project](https://hri-eu.github.io/ccdp/)] 
 - [2025] DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation [[paper](https://arxiv.org/pdf/2503.16806)] [[project](https://pku-epic.github.io/DyWA/)] 
 - [2025] AdaWorld: Learning Adaptable World Models with Latent Actions [[paper](https://arxiv.org/pdf/2503.18938)] [[project](https://adaptable-world-model.github.io/)] 
-
+- [2025] Visuo-Tactile Object Pose Estimation for a Multi-Finger Robot Hand with Low-Resolution In-Hand Tactile Sensing [[paper](https://arxiv.org/pdf/2503.19893)]
 
 ### 2024
 
