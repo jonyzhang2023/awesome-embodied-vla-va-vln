@@ -167,6 +167,9 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Do Visual Imaginations Improve Vision-and-Language Navigation Agents? [[paper](https://arxiv.org/pdf/2503.16394)] [[project](https://www.akhilperincherry.com/VLN-Imagine-website/)]
 - [2025] HA-VLN: A Benchmark for Human-Aware Navigation in Discrete-Continuous Environments with Dynamic Multi-Human Interactions, Real-World Validation, and an Open Leaderboard [[paper](https://arxiv.org/pdf/2503.14229)] [[project](https://ha-vln-project.vercel.app/)]
 - [2025] FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks [[paper](https://arxiv.org/pdf/2503.13966)]
+- [2025] P3Nav: A Unified Framework for Embodied Navigation Integrating Perception, Planning, and Prediction [[paper](https://arxiv.org/pdf/2503.18525)]
+- [2025] Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation [[paper](https://arxiv.org/pdf/2503.18065)] [[project](https://github.com/SaDil13/VLN-RAM)]
+
 
 
 ### 2024
@@ -265,7 +268,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Learning to Play Piano in the Real World [[paper](https://arxiv.org/pdf/2503.15481)] [[project](https://lasr.org/research/learning-to-play-piano)] 
 - [2025] CCDP: Composition of Conditional Diffusion Policies with Guided Sampling [[paper](https://arxiv.org/pdf/2503.15386)] [[project](https://hri-eu.github.io/ccdp/)] 
 - [2025] DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation [[paper](https://arxiv.org/pdf/2503.16806)] [[project](https://pku-epic.github.io/DyWA/)] 
-
+- [2025] AdaWorld: Learning Adaptable World Models with Latent Actions [[paper](https://arxiv.org/pdf/2503.18938)] [[project](https://adaptable-world-model.github.io/)] 
 
 
 ### 2024
@@ -367,8 +370,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Safety Aware Task Planning via Large Language Models in Robotics [[paper](https://arxiv.org/pdf/2503.15707)]
 - [2025] LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language [[paper](https://arxiv.org/pdf/2503.17309)] [[project](https://github.com/Kchu/LLM-MAP)] 
 - [2025] Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning [[paper](https://arxiv.org/pdf/2503.17125)] [[project](https://lamour-rl.github.io/)] 
-
-
+- [2025] RoboEngine: Plug-and-Play Robot Data Augmentation with Semantic Robot Segmentation and Background Generation [[paper](https://arxiv.org/pdf/2503.18738)] [[project](https://roboengine.github.io/)] 
+- [2025] IRef-VLA: A Benchmark for Interactive Referential Grounding with Imperfect Language in 3D Scenes [[paper](https://arxiv.org/pdf/2503.17406)]
 
 
 ### 2024
