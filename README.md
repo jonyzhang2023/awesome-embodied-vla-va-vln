@@ -86,6 +86,9 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse [[paper](https://arxiv.org/pdf/2503.16365)] [[project](https://craftjarvis.github.io/JarvisVLA/)]
 - [2025] RoboFlamingo-Plus: Fusion of Depth and RGB Perception with Vision-Language Models for Enhanced Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.19510)]
 - [2025] CubeRobot: Grounding Language in Rubik's Cube Manipulation via Vision-Language Model [[paper](https://arxiv.org/pdf/2503.19225)]
+- [2025] MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation [[paper](https://arxiv.org/pdf/2503.20384)] [[project](https://sites.google.com/view/mole-vla)]
+
+
 
 ### 2024
 
