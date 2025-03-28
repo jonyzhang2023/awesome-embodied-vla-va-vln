@@ -87,7 +87,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] RoboFlamingo-Plus: Fusion of Depth and RGB Perception with Vision-Language Models for Enhanced Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.19510)]
 - [2025] CubeRobot: Grounding Language in Rubik's Cube Manipulation via Vision-Language Model [[paper](https://arxiv.org/pdf/2503.19225)]
 - [2025] MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation [[paper](https://arxiv.org/pdf/2503.20384)] [[project](https://sites.google.com/view/mole-vla)]
-
+- [2025] ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/abs/2502.05450)] [[project](https://cccedric.github.io/conrft/)]
 
 
 ### 2024
@@ -377,6 +377,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning [[paper](https://arxiv.org/pdf/2503.17125)] [[project](https://lamour-rl.github.io/)] 
 - [2025] RoboEngine: Plug-and-Play Robot Data Augmentation with Semantic Robot Segmentation and Background Generation [[paper](https://arxiv.org/pdf/2503.18738)] [[project](https://roboengine.github.io/)] 
 - [2025] IRef-VLA: A Benchmark for Interactive Referential Grounding with Imperfect Language in 3D Scenes [[paper](https://arxiv.org/pdf/2503.17406)]
+- [2025] Cooking Task Planning using LLM and Verified by Graph Network [[paper](https://arxiv.org/pdf/2503.21564)]
+
 
 
 ### 2024
