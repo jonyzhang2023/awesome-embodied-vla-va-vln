@@ -88,7 +88,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] CubeRobot: Grounding Language in Rubik's Cube Manipulation via Vision-Language Model [[paper](https://arxiv.org/pdf/2503.19225)]
 - [2025] MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation [[paper](https://arxiv.org/pdf/2503.20384)] [[project](https://sites.google.com/view/mole-vla)]
 - [2025] ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/abs/2502.05450)] [[project](https://cccedric.github.io/conrft/)]
-
+- [2025] CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2503.22020)] [[project](https://cot-vla.github.io/)]
 
 ### 2024
 
@@ -275,6 +275,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation [[paper](https://arxiv.org/pdf/2503.16806)] [[project](https://pku-epic.github.io/DyWA/)] 
 - [2025] AdaWorld: Learning Adaptable World Models with Latent Actions [[paper](https://arxiv.org/pdf/2503.18938)] [[project](https://adaptable-world-model.github.io/)] 
 - [2025] Visuo-Tactile Object Pose Estimation for a Multi-Finger Robot Hand with Low-Resolution In-Hand Tactile Sensing [[paper](https://arxiv.org/pdf/2503.19893)]
+- [2025] Empirical Analysis of Sim-and-Real Cotraining Of Diffusion Policies For Planar Pushing from Pixels [[paper](https://arxiv.org/pdf/2503.22634)]
+
 
 ### 2024
 
