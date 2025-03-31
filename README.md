@@ -276,7 +276,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] AdaWorld: Learning Adaptable World Models with Latent Actions [[paper](https://arxiv.org/pdf/2503.18938)] [[project](https://adaptable-world-model.github.io/)] 
 - [2025] Visuo-Tactile Object Pose Estimation for a Multi-Finger Robot Hand with Low-Resolution In-Hand Tactile Sensing [[paper](https://arxiv.org/pdf/2503.19893)]
 - [2025] Empirical Analysis of Sim-and-Real Cotraining Of Diffusion Policies For Planar Pushing from Pixels [[paper](https://arxiv.org/pdf/2503.22634)]
-
+- [2025] ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning [[paper](https://arxiv.org/pdf/2503.21860)] [[project](https://maniptrans.github.io/)] 
 
 ### 2024
 
