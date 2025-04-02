@@ -174,7 +174,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks [[paper](https://arxiv.org/pdf/2503.13966)]
 - [2025] P3Nav: A Unified Framework for Embodied Navigation Integrating Perception, Planning, and Prediction [[paper](https://arxiv.org/pdf/2503.18525)]
 - [2025] Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation [[paper](https://arxiv.org/pdf/2503.18065)] [[project](https://github.com/SaDil13/VLN-RAM)]
-
+- [2025] COSMO: Combination of Selective Memorization for Low-cost Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2503.24065)]
 
 
 ### 2024
@@ -277,6 +277,12 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Visuo-Tactile Object Pose Estimation for a Multi-Finger Robot Hand with Low-Resolution In-Hand Tactile Sensing [[paper](https://arxiv.org/pdf/2503.19893)]
 - [2025] Empirical Analysis of Sim-and-Real Cotraining Of Diffusion Policies For Planar Pushing from Pixels [[paper](https://arxiv.org/pdf/2503.22634)]
 - [2025] ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning [[paper](https://arxiv.org/pdf/2503.21860)] [[project](https://maniptrans.github.io/)] 
+- [2025] Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation [[paper](https://arxiv.org/pdf/2503.24361)] [[project](https://co-training.github.io/)] 
+- [2025] HACTS: a Human-As-Copilot Teleoperation System for Robot Learning [[paper](https://arxiv.org/pdf/2503.24070)] 
+- [2025] ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos [[paper](https://arxiv.org/pdf/2503.23877)] [[project](https://zeromimic.github.io/)] 
+- [2025] Learning Coordinated Bimanual Manipulation Policies using State Diffusion and Inverse Dynamics Models [[paper](https://arxiv.org/pdf/2503.23271)]
+
+
 
 ### 2024
 
@@ -380,6 +386,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] RoboEngine: Plug-and-Play Robot Data Augmentation with Semantic Robot Segmentation and Background Generation [[paper](https://arxiv.org/pdf/2503.18738)] [[project](https://roboengine.github.io/)] 
 - [2025] IRef-VLA: A Benchmark for Interactive Referential Grounding with Imperfect Language in 3D Scenes [[paper](https://arxiv.org/pdf/2503.17406)]
 - [2025] Cooking Task Planning using LLM and Verified by Graph Network [[paper](https://arxiv.org/pdf/2503.21564)]
+- [2025] Context-Aware Human Behavior Prediction Using Multimodal Large Language Models: Challenges and Insights [[paper](https://arxiv.org/pdf/2504.00839)]
+- [2025] Visual Environment-Interactive Planning for Embodied Complex-Question Answering [[paper](https://arxiv.org/pdf/2504.00775)]
 
 
 
@@ -422,6 +430,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation [[paper](https://arxiv.org/pdf/2503.10118)] [[project](https://github.com/sunnyshi0310/RSR-MJX)]
 
 ## Benchmark
+- [2025] AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World [[paper](https://arxiv.org/pdf/2503.24278)] [[project](https://auto-eval.github.io/)]
 - [2025] RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints [[paper](https://arxiv.org/pdf/2503.16408)] [[project](https://iranqin.github.io/robofactory/)]
 - [2025] OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation [[paper](https://arxiv.org/pdf/2502.18041)]
 - [2025] BOSS: Benchmark for Observation Space Shift in Long-Horizon Task [[paper](http://arxiv.org/pdf/2502.15679)]
