@@ -25,6 +25,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 
 ### 2025 
 
+- [2025] [**Nvidia**] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] 
 - [2025] [**Gemini Robotics**] Gemini Robotics: Bringing AI into the Physical World [[report](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf)]
 - [2025] [**AgiBot**] AgiBot World Colosseo: Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[paper](https://agibot-world.com/blog/agibot_go1.pdf)] [[project](https://agibot-world.com/blog/go1)] 
 - [2025] [**PsiBot**] DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping [[paper](https://arxiv.org/pdf/2502.20900)] [[project](https://dexgraspvla.github.io/)] 
