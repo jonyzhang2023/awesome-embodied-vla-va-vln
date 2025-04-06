@@ -63,7 +63,6 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration [[paper](https://arxiv.org/pdf/2502.19250)] [[project](https://objectvla.github.io/)] 
 - [2025] RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete [[paper](https://arxiv.org/pdf/2502.21257)] [[project](https://superrobobrain.github.io/)] 
 - [2025] SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning [[paper](https://arxiv.org/pdf/2503.03480)] [[project](https://sites.google.com/view/pku-safevla)] 
-- [2025] Unified Video Action Model [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)] 
 - [2025] CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs [[paper](https://arxiv.org/pdf/2503.01378)] [[project](https://cognitivedrone.github.io/)] 
 - [2025] UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation [[paper](https://arxiv.org/pdf/2501.05014)]
 - [2025] Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding [[paper](https://arxiv.org/pdf/2503.02310)]
@@ -90,6 +89,9 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation [[paper](https://arxiv.org/pdf/2503.20384)] [[project](https://sites.google.com/view/mole-vla)]
 - [2025] ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/abs/2502.05450)] [[project](https://cccedric.github.io/conrft/)]
 - [2025] CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2503.22020)] [[project](https://cot-vla.github.io/)]
+
+
+
 
 ### 2024
 
@@ -282,8 +284,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] HACTS: a Human-As-Copilot Teleoperation System for Robot Learning [[paper](https://arxiv.org/pdf/2503.24070)] 
 - [2025] ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos [[paper](https://arxiv.org/pdf/2503.23877)] [[project](https://zeromimic.github.io/)] 
 - [2025] Learning Coordinated Bimanual Manipulation Policies using State Diffusion and Inverse Dynamics Models [[paper](https://arxiv.org/pdf/2503.23271)]
-
-
+- [2025] Unified Video Action Model [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)] 
+- [2025] Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets [[paper](https://arxiv.org/pdf/2504.02792)] [[project](https://weirdlabuw.github.io/uwm/)]
 
 ### 2024
 
