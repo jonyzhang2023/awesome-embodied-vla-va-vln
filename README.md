@@ -10,6 +10,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 
 
 ## Survey
+- [2025] Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision [[paper](https://arxiv.org/pdf/2504.02477)] [[project](https://github.com/Xiaofeng-Han-Res/MF-RV)] 
 - [2025] SE(3)-Equivariant Robot Learning and Control: A Tutorial Survey [[paper](https://arxiv.org/pdf/2503.09829)]
 - [2025] Generative Artificial Intelligence in Robotic Manipulation: A Survey [[paper](https://arxiv.org/pdf/2503.03464)] [[project](https://github.com/GAI4Manipulation/AwesomeGAIManipulation)] 
 - [2025] Development Report of Embodied Intelligence (Chinese) [[paper](https://www.caict.ac.cn/kxyj/qwfb/bps/202408/P020240830312499650772.pdf)]
@@ -286,6 +287,9 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Learning Coordinated Bimanual Manipulation Policies using State Diffusion and Inverse Dynamics Models [[paper](https://arxiv.org/pdf/2503.23271)]
 - [2025] Unified Video Action Model [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)] 
 - [2025] Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets [[paper](https://arxiv.org/pdf/2504.02792)] [[project](https://weirdlabuw.github.io/uwm/)]
+- [2025] RoboAct-CLIP: Video-Driven Pre-training of Atomic Action Understanding for Robotics [[paper](https://arxiv.org/pdf/2504.02069)]
+- [2025] Slot-Level Robotic Placement via Visual Imitation from Single Human Video [[paper](https://arxiv.org/pdf/2504.01959)] [[project](https://ddshan.github.io/slerp/)]
+
 
 ### 2024
 
