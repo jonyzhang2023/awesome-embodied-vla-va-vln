@@ -437,6 +437,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation [[paper](https://arxiv.org/pdf/2503.10118)] [[project](https://github.com/sunnyshi0310/RSR-MJX)]
 
 ## Benchmark
+- [2025] RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning [[paper](https://roboverseorg.github.io/static/pdfs/paper_supp_20250405_1820.pdf)] [[project](https://github.com/RoboVerseOrg/RoboVerse)]
 - [2025] AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World [[paper](https://arxiv.org/pdf/2503.24278)] [[project](https://auto-eval.github.io/)]
 - [2025] RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints [[paper](https://arxiv.org/pdf/2503.16408)] [[project](https://iranqin.github.io/robofactory/)]
 - [2025] OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation [[paper](https://arxiv.org/pdf/2502.18041)]
