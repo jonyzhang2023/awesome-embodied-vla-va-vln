@@ -90,7 +90,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation [[paper](https://arxiv.org/pdf/2503.20384)] [[project](https://sites.google.com/view/mole-vla)]
 - [2025] ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/abs/2502.05450)] [[project](https://cccedric.github.io/conrft/)]
 - [2025] CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2503.22020)] [[project](https://cot-vla.github.io/)]
-
+- [2025] DexTOG: Learning Task-Oriented Dexterous Grasp with Language Condition [[paper](https://arxiv.org/pdf/2504.04573)] [[project](https://sites.google.com/view/dextog)]
 
 
 
@@ -289,7 +289,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets [[paper](https://arxiv.org/pdf/2504.02792)] [[project](https://weirdlabuw.github.io/uwm/)]
 - [2025] RoboAct-CLIP: Video-Driven Pre-training of Atomic Action Understanding for Robotics [[paper](https://arxiv.org/pdf/2504.02069)]
 - [2025] Slot-Level Robotic Placement via Visual Imitation from Single Human Video [[paper](https://arxiv.org/pdf/2504.01959)] [[project](https://ddshan.github.io/slerp/)]
-
+- [2025] Robust Dexterous Grasping of General Objects from Single-view Perception [[paper](https://arxiv.org/pdf/2504.05287)] [[project](https://zdchan.github.io/Robust_DexGrasp/)]
 
 ### 2024
 
