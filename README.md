@@ -10,6 +10,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 
 
 ## Survey
+
+- [2025] Dexterous Manipulation through Imitation Learning: A Survey [[paper](https://arxiv.org/pdf/2504.03515)]
 - [2025] Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision [[paper](https://arxiv.org/pdf/2504.02477)] [[project](https://github.com/Xiaofeng-Han-Res/MF-RV)] 
 - [2025] SE(3)-Equivariant Robot Learning and Control: A Tutorial Survey [[paper](https://arxiv.org/pdf/2503.09829)]
 - [2025] Generative Artificial Intelligence in Robotic Manipulation: A Survey [[paper](https://arxiv.org/pdf/2503.03464)] [[project](https://github.com/GAI4Manipulation/AwesomeGAIManipulation)] 
@@ -395,7 +397,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Cooking Task Planning using LLM and Verified by Graph Network [[paper](https://arxiv.org/pdf/2503.21564)]
 - [2025] Context-Aware Human Behavior Prediction Using Multimodal Large Language Models: Challenges and Insights [[paper](https://arxiv.org/pdf/2504.00839)]
 - [2025] Visual Environment-Interactive Planning for Embodied Complex-Question Answering [[paper](https://arxiv.org/pdf/2504.00775)]
-
+- [2025] GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill [[paper](https://arxiv.org/pdf/2504.04191)] [[project](https://jiemingcui.github.io/grove/)] 
 
 
 ### 2024
