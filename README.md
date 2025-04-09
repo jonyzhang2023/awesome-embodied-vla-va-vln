@@ -398,7 +398,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Context-Aware Human Behavior Prediction Using Multimodal Large Language Models: Challenges and Insights [[paper](https://arxiv.org/pdf/2504.00839)]
 - [2025] Visual Environment-Interactive Planning for Embodied Complex-Question Answering [[paper](https://arxiv.org/pdf/2504.00775)]
 - [2025] GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill [[paper](https://arxiv.org/pdf/2504.04191)] [[project](https://jiemingcui.github.io/grove/)] 
-
+- [2025] Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[paper](https://arxiv.org/pdf/2503.21696)] [[project](https://embodied-reasoner.github.io/)] 
 
 ### 2024
 
