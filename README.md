@@ -11,6 +11,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 
 ## Survey
 
+- [2025] Diffusion Models for Robotic Manipulation: A Survey [[paper](https://arxiv.org/pdf/2504.08438)]
 - [2025] Dexterous Manipulation through Imitation Learning: A Survey [[paper](https://arxiv.org/pdf/2504.03515)]
 - [2025] Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision [[paper](https://arxiv.org/pdf/2504.02477)] [[project](https://github.com/Xiaofeng-Han-Res/MF-RV)] 
 - [2025] SE(3)-Equivariant Robot Learning and Control: A Tutorial Survey [[paper](https://arxiv.org/pdf/2503.09829)]
