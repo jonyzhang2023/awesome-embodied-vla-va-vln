@@ -404,6 +404,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[paper](https://arxiv.org/pdf/2503.21696)] [[project](https://embodied-reasoner.github.io/)] 
 - [2025] Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning [[paper](https://arxiv.org/pdf/2504.00907)]
 - [2025] EmbodiedAgent: A Scalable Hierarchical Approach to Overcome Practical Challenge in Multi-Robot Control [[paper](https://arxiv.org/pdf/2504.10030v1)]
+- [2025] Trajectory Adaptation Using Large Language Models [[paper](https://arxiv.org/pdf/2504.12755)]
 
 
 ### 2024
