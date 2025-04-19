@@ -296,6 +296,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation [[paper](https://arxiv.org/pdf/2504.06961)] [[project](https://tea-lab.github.io/TwoByTwo/)]
 - [2025] ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping [[paper](https://arxiv.org/pdf/2504.10857)] [[project](https://sh8.io/#/zerograsp)]
 
+
+
 ### 2024
 
 - [2024] Learning Robotic Manipulation Policies from Point Clouds with Conditional Flow Matching [[paper](https://arxiv.org/pdf/2409.07343)]
@@ -336,7 +338,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2024] Bidirectional Decoding: Improving Action Chunking via Closed-Loop Resampling [[paper](https://arxiv.org/pdf/2408.17355)]
 - [2024] Streaming Diffusion Policy: Fast Policy Synthesis with Variable Noise Diffusion Models [[paper](https://arxiv.org/pdf/2406.04806)]
 - [2024] CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction [[paper](https://arxiv.org/pdf/2412.06782)]
-
+- [2024] In-Context Imitation Learning via Next-Token Prediction [[paper](https://arxiv.org/pdf/2408.15980)] [[project](https://icrt.dev/)]
 
 ### 2023
 
