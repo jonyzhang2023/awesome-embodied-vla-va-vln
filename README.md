@@ -295,7 +295,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Robust Dexterous Grasping of General Objects from Single-view Perception [[paper](https://arxiv.org/pdf/2504.05287)] [[project](https://zdchan.github.io/Robust_DexGrasp/)]
 - [2025] Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation [[paper](https://arxiv.org/pdf/2504.06961)] [[project](https://tea-lab.github.io/TwoByTwo/)]
 - [2025] ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping [[paper](https://arxiv.org/pdf/2504.10857)] [[project](https://sh8.io/#/zerograsp)]
-
+- [2025] Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation [[paper](https://arxiv.org/pdf/2504.13175)] [[project](https://yangsizhe.github.io/robosplat/)]
 
 
 ### 2024
