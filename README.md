@@ -296,6 +296,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation [[paper](https://arxiv.org/pdf/2504.06961)] [[project](https://tea-lab.github.io/TwoByTwo/)]
 - [2025] ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping [[paper](https://arxiv.org/pdf/2504.10857)] [[project](https://sh8.io/#/zerograsp)]
 - [2025] Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation [[paper](https://arxiv.org/pdf/2504.13175)] [[project](https://yangsizhe.github.io/robosplat/)]
+- [2025] Grasping Deformable Objects via Reinforcement Learning with Cross-Modal Attention to Visuo-Tactile Inputs [[paper](https://arxiv.org/pdf/2504.15595)]
+- [2025] Few-Shot Vision-Language Action-Incremental Policy Learning [[paper](https://arxiv.org/pdf/2504.15517)] [[project](https://github.com/codeshop715/FSAIL)]
 
 
 ### 2024
@@ -317,7 +319,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2024] Consistency policy: Accelerated visuomotor policies via consistency distillation [[paper](https://arxiv.org/pdf/2405.07503)]
 - [2024] SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation [[paper](https://arxiv.org/pdf/2411.00965)]
 - [2024] RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins [[paper](https://arxiv.org/pdf/2409.02920)]
-- [2024] Few-Shot Task Learning through Inverse Generative Modeling [[paper](https://arxiv.org/pdf/2411.04987?)]
+- [2024] Few-Shot Task Learning through Inverse Generative Modeling [[paper](https://arxiv.org/pdf/2411.04987)]
 - [2024] G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation [[paper](https://arxiv.org/pdf/2411.18369)]
 - [2024] Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation [[paper](https://arxiv.org/pdf/2410.08001)]
 - [2024] Diffusion Policy Attacker: Crafting Adversarial Attacks for Diffusion-based Policies [[paper](https://arxiv.org/pdf/2405.19424)]
