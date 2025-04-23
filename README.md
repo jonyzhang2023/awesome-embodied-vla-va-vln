@@ -11,6 +11,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 
 ## Survey
 
+- [2025] Multimodal Perception for Goal-oriented Navigation: A Survey [[paper](https://arxiv.org/pdf/2504.15643)]
 - [2025] Diffusion Models for Robotic Manipulation: A Survey [[paper](https://arxiv.org/pdf/2504.08438)]
 - [2025] Dexterous Manipulation through Imitation Learning: A Survey [[paper](https://arxiv.org/pdf/2504.03515)]
 - [2025] Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision [[paper](https://arxiv.org/pdf/2504.02477)] [[project](https://github.com/Xiaofeng-Han-Res/MF-RV)] 
@@ -29,6 +30,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 
 ### 2025 
 
+- [2025] [**Physical Intelligence**] π0.5: A Vision-Language-Action Model with Open-World Generalization [[paper](https://arxiv.org/pdf/2504.16054)] [[project](https://www.pi.website/blog/pi05)] 
 - [2025] [**Nvidia**] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://github.com/NVIDIA/Isaac-GR00T)] 
 - [2025] [**Gemini Robotics**] Gemini Robotics: Bringing AI into the Physical World [[report](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf)]
 - [2025] [**AgiBot**] AgiBot World Colosseo: Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[paper](https://agibot-world.com/blog/agibot_go1.pdf)] [[project](https://agibot-world.com/blog/go1)] 
