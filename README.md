@@ -301,6 +301,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Grasping Deformable Objects via Reinforcement Learning with Cross-Modal Attention to Visuo-Tactile Inputs [[paper](https://arxiv.org/pdf/2504.15595)]
 - [2025] Few-Shot Vision-Language Action-Incremental Policy Learning [[paper](https://arxiv.org/pdf/2504.15517)] [[project](https://github.com/codeshop715/FSAIL)]
 - [2025] Latent Diffusion Planning for Imitation Learning [[paper](https://arxiv.org/pdf/2504.16925)] [[project](https://amberxie88.github.io/ldp/)]
+- [2025] Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models [[paper](https://arxiv.org/pdf/2504.16843)]
+
 
 ### 2024
 
