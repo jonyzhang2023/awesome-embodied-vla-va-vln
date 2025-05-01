@@ -98,6 +98,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] DexTOG: Learning Task-Oriented Dexterous Grasp with Language Condition [[paper](https://arxiv.org/pdf/2504.04573)] [[project](https://sites.google.com/view/dextog)]
 - [2025] SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation [[paper](https://arxiv.org/pdf/2504.15561)]
 - [2025] Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation [[paper](https://arxiv.org/pdf/2504.17784)] [[project](https://yuyinyang3y.github.io/PPI/)]
+- [2025] NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks [[paper](https://arxiv.org/pdf/2504.19854)] [[project](https://declare-lab.github.io/nora)]
 
 ### 2024
 
