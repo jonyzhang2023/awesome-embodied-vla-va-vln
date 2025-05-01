@@ -165,6 +165,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 
 ### 2025
 
+
+- [2025] Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation [[paper](https://arxiv.org/pdf/2504.19322)] [[project](https://github.com/leggedrobotics/fdm)]
 - [2025] Semantic Mapping in Indoor Embodied AI - A Comprehensive Survey and Future Directions [[paper](https://arxiv.org/pdf/2501.05750)]
 - [2025] VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning [[paper](https://arxiv.org/pdf/2502.00931)]
 - [2025] TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2502.07306)]
