@@ -414,6 +414,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] EmbodiedAgent: A Scalable Hierarchical Approach to Overcome Practical Challenge in Multi-Robot Control [[paper](https://arxiv.org/pdf/2504.10030v1)]
 - [2025] Trajectory Adaptation Using Large Language Models [[paper](https://arxiv.org/pdf/2504.12755)]
 - [2025] Chain-of-Modality: Learning Manipulation Programs from Multimodal Human Videos with Vision-Language-Models [[paper](https://arxiv.org/pdf/2504.13351)] [[project](https://chain-of-modality.github.io/)] 
+- [2025] SAS-Prompt: Large Language Models as Numerical Optimizers for Robot Self-Improvement [[paper](https://arxiv.org/pdf/2504.20459)] [[project](https://sites.google.com/asu.edu/sas-llm/)] 
+
 
 ### 2024
 
