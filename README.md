@@ -419,6 +419,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Chain-of-Modality: Learning Manipulation Programs from Multimodal Human Videos with Vision-Language-Models [[paper](https://arxiv.org/pdf/2504.13351)] [[project](https://chain-of-modality.github.io/)] 
 - [2025] SAS-Prompt: Large Language Models as Numerical Optimizers for Robot Self-Improvement [[paper](https://arxiv.org/pdf/2504.20459)] [[project](https://sites.google.com/asu.edu/sas-llm/)] 
 - [2025] Identifying Uncertainty in Self-Adaptive Robotics with Large Language Models [[paper](https://arxiv.org/pdf/2504.20684)]
+- [2025] Robotic Visual Instruction [[paper](https://arxiv.org/pdf/2505.00693)]
+
 
 ### 2024
 
