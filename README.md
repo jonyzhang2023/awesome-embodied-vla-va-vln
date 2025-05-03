@@ -99,6 +99,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation [[paper](https://arxiv.org/pdf/2504.15561)]
 - [2025] Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation [[paper](https://arxiv.org/pdf/2504.17784)] [[project](https://yuyinyang3y.github.io/PPI/)]
 - [2025] NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks [[paper](https://arxiv.org/pdf/2504.19854)] [[project](https://declare-lab.github.io/nora)]
+- [2025] RoboGround: Robotic Manipulation with Grounded Vision-Language Priors [[paper](https://arxiv.org/pdf/2504.21530)] [[project](https://robo-ground.github.io/)]
+
 
 ### 2024
 
