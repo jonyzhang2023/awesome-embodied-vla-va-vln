@@ -420,6 +420,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] SAS-Prompt: Large Language Models as Numerical Optimizers for Robot Self-Improvement [[paper](https://arxiv.org/pdf/2504.20459)] [[project](https://sites.google.com/asu.edu/sas-llm/)] 
 - [2025] Identifying Uncertainty in Self-Adaptive Robotics with Large Language Models [[paper](https://arxiv.org/pdf/2504.20684)]
 - [2025] Robotic Visual Instruction [[paper](https://arxiv.org/pdf/2505.00693)]
+- [2025] DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation [[paper](https://arxiv.org/pdf/2505.00527)] [[project](https://deco226.github.io/)] 
 
 
 ### 2024
