@@ -308,6 +308,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Latent Diffusion Planning for Imitation Learning [[paper](https://arxiv.org/pdf/2504.16925)] [[project](https://amberxie88.github.io/ldp/)]
 - [2025] Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models [[paper](https://arxiv.org/pdf/2504.16843)]
 - [2025] PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking [[paper](https://arxiv.org/pdf/2504.20359)]
+- [2025] Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation [[paper](https://arxiv.org/pdf/2502.02853)] [[project](https://baishuanghao.github.io/BC-IB.github.io/)]
 
 ### 2024
 
