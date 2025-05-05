@@ -311,7 +311,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking [[paper](https://arxiv.org/pdf/2504.20359)]
 - [2025] Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation [[paper](https://arxiv.org/pdf/2502.02853)] [[project](https://baishuanghao.github.io/BC-IB.github.io/)]
 - [2025] Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation [[paper](https://arxiv.org/pdf/2412.15109)] [[project](https://nimolty.github.io/Seer/)]
-
+- [2025] Fast Flow-based Visuomotor Policies via Conditional Optimal Transport Couplings [[paper](https://arxiv.org/pdf/2505.01179)] [[project](https://ansocho.github.io/cot-policy/)]
 
 
 ### 2024
@@ -355,6 +355,9 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2024] Streaming Diffusion Policy: Fast Policy Synthesis with Variable Noise Diffusion Models [[paper](https://arxiv.org/pdf/2406.04806)]
 - [2024] CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction [[paper](https://arxiv.org/pdf/2412.06782)]
 - [2024] In-Context Imitation Learning via Next-Token Prediction [[paper](https://arxiv.org/pdf/2408.15980)] [[project](https://icrt.dev/)]
+- [2024] Learning Diffusion Policies from Demonstrations For Compliant Contact-rich Manipulation [[paper](https://arxiv.org/pdf/2410.19235)]
+
+
 
 ### 2023
 
