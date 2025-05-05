@@ -100,7 +100,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation [[paper](https://arxiv.org/pdf/2504.17784)] [[project](https://yuyinyang3y.github.io/PPI/)]
 - [2025] NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks [[paper](https://arxiv.org/pdf/2504.19854)] [[project](https://declare-lab.github.io/nora)]
 - [2025] RoboGround: Robotic Manipulation with Grounded Vision-Language Priors [[paper](https://arxiv.org/pdf/2504.21530)] [[project](https://robo-ground.github.io/)]
-
+- [2025] ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow [[paper](https://arxiv.org/pdf/2505.01288)] [[project](https://visaflow-web.github.io/ViSAFLOW/)]
+- [2025] GR-MG: Leveraging Partially-Annotated Data via Multi-Modal Goal-Conditioned Policy [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10829675&casa_token=uVHehAg1sYQAAAAA:fVqvgN9jERhHO_9EpoYCDMXCVvTqyOCiCbQCZ0k4AjhhDnK-TYyCbTdAIAz4vN2L9kEXn4YVrrkERg&tag=1)] [[project](https://gr-mg.github.io/)]
 
 ### 2024
 
