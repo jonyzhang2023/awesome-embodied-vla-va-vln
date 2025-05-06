@@ -312,7 +312,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation [[paper](https://arxiv.org/pdf/2502.02853)] [[project](https://baishuanghao.github.io/BC-IB.github.io/)]
 - [2025] Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation [[paper](https://arxiv.org/pdf/2412.15109)] [[project](https://nimolty.github.io/Seer/)]
 - [2025] Fast Flow-based Visuomotor Policies via Conditional Optimal Transport Couplings [[paper](https://arxiv.org/pdf/2505.01179)] [[project](https://ansocho.github.io/cot-policy/)]
-
+- [2025] KineDex: Learning Tactile-Informed Visuomotor Policies via Kinesthetic Teaching for Dexterous Manipulation [[paper](https://arxiv.org/pdf/2505.01974)] [[project](https://dinomini00.github.io/KineDex/)]
 
 ### 2024
 
