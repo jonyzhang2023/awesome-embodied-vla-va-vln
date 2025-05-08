@@ -105,6 +105,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] GR-MG: Leveraging Partially-Annotated Data via Multi-Modal Goal-Conditioned Policy [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10829675&casa_token=uVHehAg1sYQAAAAA:fVqvgN9jERhHO_9EpoYCDMXCVvTqyOCiCbQCZ0k4AjhhDnK-TYyCbTdAIAz4vN2L9kEXn4YVrrkERg&tag=1)] [[project](https://gr-mg.github.io/)]
 - [2025] Task Reconstruction and Extrapolation for using Text Latent [[paper](https://arxiv.org/pdf/2505.03500)]
 - [2025] Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions [[paper](https://arxiv.org/pdf/2505.02152)] [[project](https://interleave-vla-anonymous.github.io/Interleave-VLA-Anonymous/)]
+- [2025] OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.03912)] [[project](https://openhelix-robot.github.io/)]
+
 
 ### 2024
 
