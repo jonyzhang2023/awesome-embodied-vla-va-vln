@@ -318,6 +318,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation [[paper](https://arxiv.org/pdf/2412.15109)] [[project](https://nimolty.github.io/Seer/)]
 - [2025] Fast Flow-based Visuomotor Policies via Conditional Optimal Transport Couplings [[paper](https://arxiv.org/pdf/2505.01179)] [[project](https://ansocho.github.io/cot-policy/)]
 - [2025] KineDex: Learning Tactile-Informed Visuomotor Policies via Kinesthetic Teaching for Dexterous Manipulation [[paper](https://arxiv.org/pdf/2505.01974)] [[project](https://dinomini00.github.io/KineDex/)]
+- [2025] CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations [[paper](https://arxiv.org/pdf/2505.04999)] [[project](https://clamrobot.github.io/)]
 
 ### 2024
 
