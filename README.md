@@ -108,6 +108,9 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions [[paper](https://arxiv.org/pdf/2505.02152)] [[project](https://interleave-vla-anonymous.github.io/Interleave-VLA-Anonymous/)]
 - [2025] OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.03912)] [[project](https://openhelix-robot.github.io/)]
 - [2025] CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.02166)]
+- [2025] Learning to Act Anywhere with Task-centric Latent Actions [[paper](https://arxiv.org/pdf/2505.06111)] [[project](https://github.com/OpenDriveLab/UniVLA)]
+
+
 
 ### 2024
 
