@@ -200,6 +200,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation [[paper](https://arxiv.org/pdf/2503.18065)] [[project](https://github.com/SaDil13/VLN-RAM)]
 - [2025] COSMO: Combination of Selective Memorization for Low-cost Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2503.24065)]
 - [2025] ForesightNav: Learning Scene Imagination for Efficient Exploration [[paper](https://arxiv.org/pdf/2504.16062)] [[project](https://github.com/uzh-rpg/foresight-nav)]
+- [2025] CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory [[paper](https://arxiv.org/pdf/2505.05622)] [[project](https://github.com/VinceOuti/CityNavAgent)]
+
 
 ### 2024
 
