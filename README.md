@@ -16,7 +16,7 @@ However, **particularly influential or representative works** may be **highlight
 
 
 
-## Survey
+## 📚 Survey
 
 - [2025] Neural Brain: A Neuroscience-inspired Framework for Embodied Agents [[paper](https://arxiv.org/pdf/2505.07634)] [[project](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)] 
 - [2025] Vision-Language-Action Models: Concepts, Progress, Applications and Challenges [[paper](https://arxiv.org/pdf/2505.04769v1)]
@@ -36,7 +36,7 @@ However, **particularly influential or representative works** may be **highlight
 - [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
 - [2024] Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
 
-## Vision Language Action (VLA) Models
+## 💥 Vision Language Action (VLA) Models
 
 ### 2025 
 - [2025] [**Physical Intelligence**] π0.5: A Vision-Language-Action Model with Open-World Generalization [[paper](https://arxiv.org/pdf/2504.16054)] [[project](https://www.pi.website/blog/pi05)] 
@@ -180,7 +180,7 @@ However, **particularly influential or representative works** may be **highlight
 - [2023] Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning [[paper](https://arxiv.org/pdf/2311.17842)]
 
 
-## Vision Language Navigation (VLN) Models
+## 🚶 Vision Language Navigation (VLN) Models
 
 ### 2025
 
@@ -222,7 +222,7 @@ However, **particularly influential or representative works** may be **highlight
 - [2023] Bridging Zero-shot Object Navigation and Foundation Models through Pixel-Guided Navigation Skill [[paper](https://arxiv.org/pdf/2309.10309)]
 
 
-## Vision Action (VA) Models
+## 🎬 Vision Action (VA) Models
 
 ### 2025
 
@@ -384,7 +384,7 @@ However, **particularly influential or representative works** may be **highlight
 - [2023] Diffusion policy: Visuomotor policy learning via action diffusion [[paper](https://arxiv.org/pdf/2303.04137)]
 - [2023] Exploring Visual Pre-training for Robot Manipulation: Datasets, Models and Methods [[paper](https://arxiv.org/pdf/2308.03620)]
 
-## Other Multimodal Large Language Model (MLLM)-based/related Embodied Learning
+## 🧠 Other Multimodal Large Language Model (MLLM)-based/related Embodied Learning
 
 ### 2025
 - [2025] [**NVIDIA**] Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning [[paper](https://arxiv.org/pdf/2503.15558)] [[project](https://github.com/nvidia-cosmos/cosmos-reason1)] 
