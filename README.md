@@ -2,7 +2,7 @@
 
 As more and more outstanding vision-language-based policies emerge, this repository aims to organize and showcase the state-of-the-art technologies in robot learning, including vision-language-action (VLA) models, vision-language-navigation (VLN) models, vision-action (VA) models and other MLLM-based embodied learning. We hope that in the near future, robotics will experience its own 'LLM moment.'
 
-This repository will be continuously updated, and we warmly invite contributions from the community. If you have any papers, projects, or resources that are not yet included, please feel free to submit them via a pull request or open an issue for discussion. 
+This repository will be continuously updated, and we warmly invite contributions from the community. **If you have any papers, projects, or resources that are not yet included, please feel free to submit them via a pull request or open an issue for discussion.**
 
 Let's build a comprehensive resource for the robotics and AI community!
 
@@ -11,8 +11,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 
 ## 📌 Note on Paper Ordering
 
-Within each year section, papers are generally listed in **reverse chronological order** (newer papers appear lower in the list).  
-However, **particularly influential or representative works** may be **highlighted at the top** of each year's section, regardless of their exact publication date.  
+Within each year section, papers are generally listed in reverse chronological order (newer papers appear lower in the list).  
+However, particularly influential or representative works may be **highlighted** at the top of each year's section, regardless of their exact publication date.  
 
 
 
