@@ -32,7 +32,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 ## Vision Language Action (VLA) Models
 
 ### 2025 
-
+- [**RSS 2025**] CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision [[paper](https://arxiv.org/abs/2411.00508)] [[website](https://clip-rt.github.io/)]
 - [2025] [**Physical Intelligence**] π0.5: A Vision-Language-Action Model with Open-World Generalization [[paper](https://arxiv.org/pdf/2504.16054)] [[project](https://www.pi.website/blog/pi05)] 
 - [2025] [**Nvidia**] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://github.com/NVIDIA/Isaac-GR00T)] 
 - [2025] [**Gemini Robotics**] Gemini Robotics: Bringing AI into the Physical World [[report](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf)]
