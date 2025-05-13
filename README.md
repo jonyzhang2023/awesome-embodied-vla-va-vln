@@ -11,6 +11,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 
 ## Survey
 
+- [2025] Neural Brain: A Neuroscience-inspired Framework for Embodied Agents [[paper](https://arxiv.org/pdf/2505.07634)] [[project](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)] 
 - [2025] Vision-Language-Action Models: Concepts, Progress, Applications and Challenges [[paper](https://arxiv.org/pdf/2505.04769v1)]
 - [2025] A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI [[paper](https://arxiv.org/pdf/2505.01458)]
 - [2025] Multimodal Perception for Goal-oriented Navigation: A Survey [[paper](https://arxiv.org/pdf/2504.15643)]
@@ -109,7 +110,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.03912)] [[project](https://openhelix-robot.github.io/)]
 - [2025] CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.02166)]
 - [2025] Learning to Act Anywhere with Task-centric Latent Actions [[paper](https://arxiv.org/pdf/2505.06111)] [[project](https://github.com/OpenDriveLab/UniVLA)]
-
+- [2025] Pixel Motion as Universal Representation for Robot Control [[paper](https://arxiv.org/pdf/2505.07817)] [[project](https://kahnchana.github.io/LangToMo/)]
 
 
 ### 2024
@@ -325,6 +326,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] Fast Flow-based Visuomotor Policies via Conditional Optimal Transport Couplings [[paper](https://arxiv.org/pdf/2505.01179)] [[project](https://ansocho.github.io/cot-policy/)]
 - [2025] KineDex: Learning Tactile-Informed Visuomotor Policies via Kinesthetic Teaching for Dexterous Manipulation [[paper](https://arxiv.org/pdf/2505.01974)] [[project](https://dinomini00.github.io/KineDex/)]
 - [2025] CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations [[paper](https://arxiv.org/pdf/2505.04999)] [[project](https://clamrobot.github.io/)]
+- [2025] H3DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning [[paper](https://arxiv.org/pdf/2505.07819)] [[project](https://lyy-iiis.github.io/h3dp/)]
 
 ### 2024
 
