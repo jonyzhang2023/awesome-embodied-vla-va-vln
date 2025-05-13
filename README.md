@@ -446,7 +446,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 - [2025] LLM-based Interactive Imitation Learning for Robotic Manipulation [[paper](https://arxiv.org/pdf/2504.21769)] [[project](https://github.com/Tubicor/LLM-iTeach)] 
 - [2025] Dynamic Robot Tool Use with Vision Language Models [[paper](https://arxiv.org/pdf/2505.01399)]
 - [2025] RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.01709)] [[project](https://abliao.github.io/RoBridge/)] 
-
+- [2025] Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning [[paper](https://arxiv.org/pdf/2504.12680)] [[project](https://embodiedcity.github.io/Embodied-R/)] 
 
 ### 2024
 
