@@ -12,7 +12,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 ## 📌 Note on Paper Ordering
 
 Within each year section, papers are generally listed in reverse chronological order (newer papers appear lower in the list).  
-However, particularly influential or representative works may be **highlighted** at the top of each year's section, regardless of their exact publication date.  
+However, particularly influential or representative works may be highlighted at the top of each year's section, regardless of their exact publication date.  
 
 
 
