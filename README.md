@@ -118,6 +118,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] [**RSS**] Learning to Act Anywhere with Task-centric Latent Actions [[paper](https://arxiv.org/pdf/2505.06111)] [[project](https://github.com/OpenDriveLab/UniVLA)]
 - [2025] Pixel Motion as Universal Representation for Robot Control [[paper](https://arxiv.org/pdf/2505.07817)] [[project](https://kahnchana.github.io/LangToMo/)]
 - [2025] [**RSS**] CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision [[paper](https://arxiv.org/abs/2411.00508)] [[project](https://clip-rt.github.io/)]
+- [2025] Training Strategies for Efficient Embodied Reasoning [[paper](https://arxiv.org/pdf/2505.08243)]
 
 ### 2024
 
