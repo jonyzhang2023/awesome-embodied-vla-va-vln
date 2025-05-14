@@ -119,6 +119,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Pixel Motion as Universal Representation for Robot Control [[paper](https://arxiv.org/pdf/2505.07817)] [[project](https://kahnchana.github.io/LangToMo/)]
 - [2025] [**RSS 25**] CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision [[paper](https://arxiv.org/abs/2411.00508)] [[project](https://clip-rt.github.io/)]
 - [2025] Training Strategies for Efficient Embodied Reasoning [[paper](https://arxiv.org/pdf/2505.08243)]
+- [2025] A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation [[paper](https://arxiv.org/pdf/2504.12636)] [[project](https://a-embodied.github.io/A0/)]
+
+
 
 ### 2024
 
