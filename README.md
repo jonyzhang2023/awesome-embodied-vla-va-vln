@@ -208,11 +208,11 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] COSMO: Combination of Selective Memorization for Low-cost Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2503.24065)]
 - [2025] ForesightNav: Learning Scene Imagination for Efficient Exploration [[paper](https://arxiv.org/pdf/2504.16062)] [[project](https://github.com/uzh-rpg/foresight-nav)]
 - [2025] CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory [[paper](https://arxiv.org/pdf/2505.05622)] [[project](https://github.com/VinceOuti/CityNavAgent)]
-
+- [2025] NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance [[paper](https://arxiv.org/pdf/2505.08712)]
 
 ### 2024
 
-- [2024] Navid: Video-based vlm plans the next step for vision-andlanguage navigation [[paper](https://arxiv.org/pdf/2402.15852)]
+- [2024] Navid: Video-based vlm plans the next step for vision-and-language navigation [[paper](https://arxiv.org/pdf/2402.15852)]
 - [2024] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[paper](https://arxiv.org/pdf/2412.04453)]
 - [2024] The One RING: a Robotic Indoor Navigation Generalist [[paper](https://arxiv.org/pdf/2412.14401)]
 - [2024] Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs [[paper](https://arxiv.org/pdf/2407.07775)]
@@ -457,6 +457,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Dynamic Robot Tool Use with Vision Language Models [[paper](https://arxiv.org/pdf/2505.01399)]
 - [2025] RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.01709)] [[project](https://abliao.github.io/RoBridge/)] 
 - [2025] Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning [[paper](https://arxiv.org/pdf/2504.12680)] [[project](https://embodiedcity.github.io/Embodied-R/)] 
+- [2025] From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.08548)] [[project](https://embodied-fsd.github.io/)] 
+
 
 ### 2024
 
