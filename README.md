@@ -333,6 +333,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] KineDex: Learning Tactile-Informed Visuomotor Policies via Kinesthetic Teaching for Dexterous Manipulation [[paper](https://arxiv.org/pdf/2505.01974)] [[project](https://dinomini00.github.io/KineDex/)]
 - [2025] CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations [[paper](https://arxiv.org/pdf/2505.04999)] [[project](https://clamrobot.github.io/)]
 - [2025] H3DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning [[paper](https://arxiv.org/pdf/2505.07819)] [[project](https://lyy-iiis.github.io/h3dp/)]
+- [2025] UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations [[paper](https://arxiv.org/pdf/2505.08787)] [[project](https://kimhanjung.github.io/UniSkill/)]
+
 
 ### 2024
 
