@@ -214,8 +214,8 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2024
 
-- [2024] Navid: Video-based vlm plans the next step for vision-and-language navigation [[paper](https://arxiv.org/pdf/2402.15852)]
-- [2024] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[paper](https://arxiv.org/pdf/2412.04453)]
+- [2024] [**RSS 24**] Navid: Video-based vlm plans the next step for vision-and-language navigation [[paper](https://arxiv.org/pdf/2402.15852)]
+- [2024] [**RSS 24**] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[paper](https://arxiv.org/pdf/2412.04453)]
 - [2024] The One RING: a Robotic Indoor Navigation Generalist [[paper](https://arxiv.org/pdf/2412.14401)]
 - [2024] Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs [[paper](https://arxiv.org/pdf/2407.07775)]
 
