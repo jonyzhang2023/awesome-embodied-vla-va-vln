@@ -210,6 +210,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] ForesightNav: Learning Scene Imagination for Efficient Exploration [[paper](https://arxiv.org/pdf/2504.16062)] [[project](https://github.com/uzh-rpg/foresight-nav)]
 - [2025] CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory [[paper](https://arxiv.org/pdf/2505.05622)] [[project](https://github.com/VinceOuti/CityNavAgent)]
 - [2025] NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance [[paper](https://arxiv.org/pdf/2505.08712)]
+- [2025] VISTA: Generative Visual Imagination for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2505.07868)]
+
 
 ### 2024
 
