@@ -18,6 +18,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ## 📚 Survey
 
+- [2025] Embodied Intelligent Industrial Robotics: Concepts and Techniques [[paper](https://arxiv.org/pdf/2505.09305)] [[project](https://github.com/jackeyzengl/Embodied_Intelligent_Industrial_Robotics_Paper_List)] 
 - [2025] Neural Brain: A Neuroscience-inspired Framework for Embodied Agents [[paper](https://arxiv.org/pdf/2505.07634)] [[project](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)] 
 - [2025] Vision-Language-Action Models: Concepts, Progress, Applications and Challenges [[paper](https://arxiv.org/pdf/2505.04769v1)]
 - [2025] A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI [[paper](https://arxiv.org/pdf/2505.01458)]
@@ -339,7 +340,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations [[paper](https://arxiv.org/pdf/2505.04999)] [[project](https://clamrobot.github.io/)]
 - [2025] H3DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning [[paper](https://arxiv.org/pdf/2505.07819)] [[project](https://lyy-iiis.github.io/h3dp/)]
 - [2025] UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations [[paper](https://arxiv.org/pdf/2505.08787)] [[project](https://kimhanjung.github.io/UniSkill/)]
-
+- [2025] Learning Long-Context Diffusion Policies via Past-Token Prediction [[paper](https://arxiv.org/pdf/2505.09561)] [[project](https://long-context-dp.github.io/)]
 
 ### 2024
 
