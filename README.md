@@ -342,7 +342,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations [[paper](https://arxiv.org/pdf/2505.08787)] [[project](https://kimhanjung.github.io/UniSkill/)]
 - [2025] Learning Long-Context Diffusion Policies via Past-Token Prediction [[paper](https://arxiv.org/pdf/2505.09561)] [[project](https://long-context-dp.github.io/)]
 - [2025] DataMIL: Selecting Data for Robot Imitation Learning with Datamodels [[paper](https://arxiv.org/pdf/2505.09603)] [[project](https://robin-lab.cs.utexas.edu/datamodels4imitation/)]
-
+- [2025] [**ICLR 25**] Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning [[paper](https://arxiv.org/pdf/2412.12953)] [[project](https://mbreuss.github.io/MoDE_Diffusion_Policy/)]
 
 ### 2024
 
