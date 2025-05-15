@@ -121,7 +121,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] [**RSS 25**] CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision [[paper](https://arxiv.org/abs/2411.00508)] [[project](https://clip-rt.github.io/)]
 - [2025] Training Strategies for Efficient Embodied Reasoning [[paper](https://arxiv.org/pdf/2505.08243)]
 - [2025] A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation [[paper](https://arxiv.org/pdf/2504.12636)] [[project](https://a-embodied.github.io/A0/)]
-
+- [2025] VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation [[paper](https://arxiv.org/pdf/2505.09577)] [[project](https://sites.google.com/view/vtla)]
 
 
 ### 2024
@@ -341,6 +341,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] H3DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning [[paper](https://arxiv.org/pdf/2505.07819)] [[project](https://lyy-iiis.github.io/h3dp/)]
 - [2025] UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations [[paper](https://arxiv.org/pdf/2505.08787)] [[project](https://kimhanjung.github.io/UniSkill/)]
 - [2025] Learning Long-Context Diffusion Policies via Past-Token Prediction [[paper](https://arxiv.org/pdf/2505.09561)] [[project](https://long-context-dp.github.io/)]
+- [2025] DataMIL: Selecting Data for Robot Imitation Learning with Datamodels [[paper](https://arxiv.org/pdf/2505.09603)] [[project](https://robin-lab.cs.utexas.edu/datamodels4imitation/)]
+
 
 ### 2024
 
