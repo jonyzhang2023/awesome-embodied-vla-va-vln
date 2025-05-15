@@ -505,6 +505,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Impact of Static Friction on Sim2Real in Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2503.01255)]
 - [2025] Few-shot Sim2Real Based on High Fidelity Rendering with Force Feedback Teleop [[paper](https://arxiv.org/pdf/2503.01301)]
 - [2025] An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation [[paper](https://arxiv.org/pdf/2503.10118)] [[project](https://github.com/sunnyshi0310/RSR-MJX)]
+- [2025] Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware [[paper](https://arxiv.org/pdf/2505.09601)] [[project](https://real2render2real.com/)]
 
 ## Benchmark
 - [2025] LocoMuJoCo [[documentation](https://loco-mujoco.readthedocs.io/en/latest/)] [[project](https://github.com/robfiras/loco-mujoco)]
