@@ -397,6 +397,7 @@ However, particularly influential or representative works may be highlighted at 
 ## 🧠 Other Multimodal Large Language Model (MLLM)-based/related Embodied Learning
 
 ### 2025
+- [2025] [**ICRA 25 Best Paper Finalist**] UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation [[paper](https://unsup-affordance.github.io/uad.pdf)] [[project](https://unsup-affordance.github.io/)] 
 - [2025] [**NVIDIA**] Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning [[paper](https://arxiv.org/pdf/2503.15558)] [[project](https://github.com/nvidia-cosmos/cosmos-reason1)] 
 - [2025] EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks [[paper](https://arxiv.org/pdf/2503.11089)]
 - [2025] RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation [[paper](https://arxiv.org/pdf/2503.01616)] [[project](https://henryhcliu.github.io/robodexvlm/)] 
