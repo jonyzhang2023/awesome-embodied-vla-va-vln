@@ -515,6 +515,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware [[paper](https://arxiv.org/pdf/2505.09601)] [[project](https://real2render2real.com/)]
 
 ## Benchmark
+- [2025] EWMBENCH: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models [[paper](https://arxiv.org/pdf/2505.09694)] [[project](https://github.com/AgibotTech/EWMBench)]
+- [2025] ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation [[paper](https://arxiv.org/pdf/2505.09698)] [[project](https://manipbench.github.io/)]
 - [2025] LocoMuJoCo [[documentation](https://loco-mujoco.readthedocs.io/en/latest/)] [[project](https://github.com/robfiras/loco-mujoco)]
 - [2025] RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning [[paper](https://roboverseorg.github.io/static/pdfs/paper_supp_20250405_1820.pdf)] [[project](https://github.com/RoboVerseOrg/RoboVerse)]
 - [2025] AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World [[paper](https://arxiv.org/pdf/2503.24278)] [[project](https://auto-eval.github.io/)]
