@@ -368,7 +368,6 @@ However, particularly influential or representative works may be highlighted at 
 - [2024] One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation [[paper](https://arxiv.org/pdf/2410.21257)]
 - [2024] Consistency policy: Accelerated visuomotor policies via consistency distillation [[paper](https://arxiv.org/pdf/2405.07503)]
 - [2024] SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation [[paper](https://arxiv.org/pdf/2411.00965)]
-- [2024] RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins [[paper](https://arxiv.org/pdf/2409.02920)]
 - [2024] Few-Shot Task Learning through Inverse Generative Modeling [[paper](https://arxiv.org/pdf/2411.04987)]
 - [2024] G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation [[paper](https://arxiv.org/pdf/2411.18369)]
 - [2024] Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation [[paper](https://arxiv.org/pdf/2410.08001)]
@@ -517,6 +516,7 @@ However, particularly influential or representative works may be highlighted at 
 ## Benchmark
 - [2025] EWMBENCH: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models [[paper](https://arxiv.org/pdf/2505.09694)] [[project](https://github.com/AgibotTech/EWMBench)]
 - [2025] ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation [[paper](https://arxiv.org/pdf/2505.09698)] [[project](https://manipbench.github.io/)]
+- [2025] [**CVPR 25**] RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins [[paper](https://arxiv.org/pdf/2409.02920)] [[project](https://github.com/TianxingChen/RoboTwin)]
 - [2025] LocoMuJoCo [[documentation](https://loco-mujoco.readthedocs.io/en/latest/)] [[project](https://github.com/robfiras/loco-mujoco)]
 - [2025] RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning [[paper](https://roboverseorg.github.io/static/pdfs/paper_supp_20250405_1820.pdf)] [[project](https://github.com/RoboVerseOrg/RoboVerse)]
 - [2025] AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World [[paper](https://arxiv.org/pdf/2503.24278)] [[project](https://auto-eval.github.io/)]
