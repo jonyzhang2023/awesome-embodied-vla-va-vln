@@ -343,6 +343,12 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Learning Long-Context Diffusion Policies via Past-Token Prediction [[paper](https://arxiv.org/pdf/2505.09561)] [[project](https://long-context-dp.github.io/)]
 - [2025] DataMIL: Selecting Data for Robot Imitation Learning with Datamodels [[paper](https://arxiv.org/pdf/2505.09603)] [[project](https://robin-lab.cs.utexas.edu/datamodels4imitation/)]
 - [2025] [**ICLR 25**] Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning [[paper](https://arxiv.org/pdf/2412.12953)] [[project](https://mbreuss.github.io/MoDE_Diffusion_Policy/)]
+- [2025] IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning [[paper](https://arxiv.org/pdf/2505.10442)] [[project](https://github.com/ucd-dare/IN-RIL)]
+- [2025] NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning [[paper](https://arxiv.org/pdf/2505.10359)]
+- [2025] EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation [[paper](https://arxiv.org/pdf/2505.10105)]
+- [2025] FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation [[paper](https://arxiv.org/pdf/2505.10075)] [[project](https://sharinka0715.github.io/FlowDreamer/)]
+
+
 
 ### 2024
 
