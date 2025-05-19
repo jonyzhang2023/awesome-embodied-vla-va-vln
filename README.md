@@ -214,7 +214,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory [[paper](https://arxiv.org/pdf/2505.05622)] [[project](https://github.com/VinceOuti/CityNavAgent)]
 - [2025] NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance [[paper](https://arxiv.org/pdf/2505.08712)]
 - [2025] VISTA: Generative Visual Imagination for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2505.07868)]
-
+- [2025] Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2505.11383)] [[project](https://github.com/MrZihan/Dynam3D)]
 
 ### 2024
 
@@ -347,7 +347,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning [[paper](https://arxiv.org/pdf/2505.10359)]
 - [2025] EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation [[paper](https://arxiv.org/pdf/2505.10105)]
 - [2025] FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation [[paper](https://arxiv.org/pdf/2505.10075)] [[project](https://sharinka0715.github.io/FlowDreamer/)]
-
+- [2025] Conditioning Matters: Training Diffusion Policies is Faster Than You Think [[paper](https://arxiv.org/pdf/2505.11123)]
 
 
 ### 2024
@@ -529,6 +529,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2024] Towards Diverse Behaviors: A Benchmark for Imitation Learning with Human Demonstrations [[paper](https://arxiv.org/pdf/2402.14606)]
 
 ## Simulator
+- [2025] DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy [[paper](https://arxiv.org/pdf/2505.11032)] [[project](https://wayrise.github.io/DexGarmentLab/)]
 - [2025] MuBlE: MuJoCo and Blender simulation Environment and Benchmark for Task Planning in Robot Manipulation [[paper](https://arxiv.org/pdf/2503.02834)] [[project](https://github.com/michaal94/MuBlE)]
 - [2025] MuJoCo Playground [[paper](https://arxiv.org/pdf/2502.08844)]
 - [2024] Genesis: A Generative and Universal Physics Engine for Robotics and Beyond [[paper](https://genesis-embodied-ai.github.io/)]
