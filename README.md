@@ -472,7 +472,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.01709)] [[project](https://abliao.github.io/RoBridge/)] 
 - [2025] Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning [[paper](https://arxiv.org/pdf/2504.12680)] [[project](https://embodiedcity.github.io/Embodied-R/)] 
 - [2025] From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.08548)] [[project](https://embodied-fsd.github.io/)] 
-
+- [2025] Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition [[paper](https://arxiv.org/pdf/2505.11175)]
 
 ### 2024
 
