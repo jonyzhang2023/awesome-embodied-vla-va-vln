@@ -353,6 +353,11 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation [[paper](https://arxiv.org/pdf/2505.10075)] [[project](https://sharinka0715.github.io/FlowDreamer/)]
 - [2025] Conditioning Matters: Training Diffusion Policies is Faster Than You Think [[paper](https://arxiv.org/pdf/2505.11123)]
 - [2025] H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos [[paper](https://arxiv.org/pdf/2505.11920)]
+- [2025] GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.11865)] [[project](https://teleema.github.io/projects/GLOVER++/)]
+- [2025] Zero-Shot Visual Generalization in Robot Manipulation [[paper](https://arxiv.org/pdf/2505.11719)] [[project](https://sites.google.com/view/vis-gen-robotics/home)]
+- [2025] Object-Centric Representations Improve Policy Generalization in Robot Manipulation [[paper](https://arxiv.org/pdf/2505.11563)]
+- [2025] LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation [[paper](https://arxiv.org/pdf/2505.11528)]
+
 
 ### 2024
 
