@@ -348,7 +348,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation [[paper](https://arxiv.org/pdf/2505.10105)]
 - [2025] FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation [[paper](https://arxiv.org/pdf/2505.10075)] [[project](https://sharinka0715.github.io/FlowDreamer/)]
 - [2025] Conditioning Matters: Training Diffusion Policies is Faster Than You Think [[paper](https://arxiv.org/pdf/2505.11123)]
-
+- [2025] H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos [[paper](https://arxiv.org/pdf/2505.11920)]
 
 ### 2024
 
