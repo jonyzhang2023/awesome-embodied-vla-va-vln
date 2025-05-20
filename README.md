@@ -357,6 +357,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Zero-Shot Visual Generalization in Robot Manipulation [[paper](https://arxiv.org/pdf/2505.11719)] [[project](https://sites.google.com/view/vis-gen-robotics/home)]
 - [2025] Object-Centric Representations Improve Policy Generalization in Robot Manipulation [[paper](https://arxiv.org/pdf/2505.11563)]
 - [2025] LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation [[paper](https://arxiv.org/pdf/2505.11528)]
+- [2025] GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation [[paper](https://arxiv.org/pdf/2505.13441)] [[project](https://abhaybd.github.io/GraspMolmo/)]
+- [2025] A Practical Guide for Incorporating Symmetry in Diffusion Policy [[paper](https://arxiv.org/pdf/2505.13431)]
+
 
 
 ### 2024
