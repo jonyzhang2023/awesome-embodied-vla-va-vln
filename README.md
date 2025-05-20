@@ -122,7 +122,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Training Strategies for Efficient Embodied Reasoning [[paper](https://arxiv.org/pdf/2505.08243)]
 - [2025] A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation [[paper](https://arxiv.org/pdf/2504.12636)] [[project](https://a-embodied.github.io/A0/)]
 - [2025] VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation [[paper](https://arxiv.org/pdf/2505.09577)] [[project](https://sites.google.com/view/vtla)]
-
+- [2025] OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning [[paper](https://arxiv.org/pdf/2505.11917)] [[project](https://one-two-vla.github.io/)]
 
 ### 2024
 
@@ -215,6 +215,10 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance [[paper](https://arxiv.org/pdf/2505.08712)]
 - [2025] VISTA: Generative Visual Imagination for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2505.07868)]
 - [2025] Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2505.11383)] [[project](https://github.com/MrZihan/Dynam3D)]
+- [2025] Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation [[paper](https://arxiv.org/pdf/2505.11886)]
+
+
+
 
 ### 2024
 
