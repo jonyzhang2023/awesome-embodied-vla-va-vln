@@ -133,6 +133,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2024] [**Physical Intelligence**] π0: A Vision-Language-Action Flow Model for General Robot Control [[paper](https://www.physicalintelligence.company/download/pi0.pdf)]
 - [2024] [**ICLR 25**] RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[paper](https://arxiv.org/pdf/2410.07864)] [[project](https://rdt-robotics.github.io/rdt-robotics/)]
 - [2024] [**CoRL 24**] OpenVLA: An Open-Source Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2406.09246)] [[project](https://openvla.github.io/)]
+- [2024] MiniVLA: A Better VLA with a Smaller Footprint [[paper](https://ai.stanford.edu/blog/minivla/)] [[project](https://github.com/Stanford-ILIAD/openvla-mini)]
 - [2024] [**RSS 24**] Octo: An Open-Source Generalist Robot Policy [[paper](https://arxiv.org/pdf/2405.12213)] [[project](https://octo-models.github.io/)]
 - [2024] [**ICRA 24 Best Paper**] Open X-Embodiment: Robotic Learning Datasets and RT-X Models [[paper](https://arxiv.org/pdf/2310.08864)] [[project](https://robotics-transformer-x.github.io/)]
 - [2024] RT-H: Action Hierarchies Using Language [[paper](https://arxiv.org/pdf/2403.01823v1)]
