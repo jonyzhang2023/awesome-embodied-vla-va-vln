@@ -18,6 +18,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ## 📚 Survey
 
+- [2025] A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions [[paper](https://doi.org/10.36227/techrxiv.174378343.39356214/v1)] [[project](https://github.com/HITSZ-Robotics/DiffusionPolicy-Robotics)]  
 - [2025] Embodied Intelligent Industrial Robotics: Concepts and Techniques [[paper](https://arxiv.org/pdf/2505.09305)] [[project](https://github.com/jackeyzengl/Embodied_Intelligent_Industrial_Robotics_Paper_List)] 
 - [2025] Neural Brain: A Neuroscience-inspired Framework for Embodied Agents [[paper](https://arxiv.org/pdf/2505.07634)] [[project](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)] 
 - [2025] Vision-Language-Action Models: Concepts, Progress, Applications and Challenges [[paper](https://arxiv.org/pdf/2505.04769v1)]
