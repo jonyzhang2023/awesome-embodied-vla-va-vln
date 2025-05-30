@@ -126,7 +126,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning [[paper](https://arxiv.org/pdf/2505.11917)] [[project](https://one-two-vla.github.io/)]
 - [2025] InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning [[paper](https://arxiv.org/pdf/2505.13888)] [[project](https://koorye.github.io/proj/Inspire/)]
 - [2025] ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation [[paper](https://arxiv.org/pdf/2505.22159)] [[project](https://sites.google.com/view/forcevla2025/)]
-
+- [2025] Hume: Introducing System-2 Thinking in Visual-Language-Action Model [[paper](https://arxiv.org/pdf/2505.21432)] [[project](https://hume-vla.github.io/)]
 
 
 ### 2024
@@ -367,7 +367,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation [[paper](https://arxiv.org/pdf/2505.13441)] [[project](https://abhaybd.github.io/GraspMolmo/)]
 - [2025] A Practical Guide for Incorporating Symmetry in Diffusion Policy [[paper](https://arxiv.org/pdf/2505.13431)]
 - [2025] Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation [[paper](https://arxiv.org/pdf/2505.13982)] [[project](https://adaptac-dex.github.io/)]
-
+- [2025] EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.21351)]
+- [2025] Spatial RoboGrasp: Generalized Robotic Grasping Control Policy [[paper](https://arxiv.org/pdf/2505.20814)]
+- [2025] Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt [[paper](https://arxiv.org/pdf/2505.20795)]
 
 ### 2024
 
