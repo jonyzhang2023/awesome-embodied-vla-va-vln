@@ -41,6 +41,7 @@ However, particularly influential or representative works may be highlighted at 
 ## 💥 Vision Language Action (VLA) Models
 
 ### 2025 
+- [2025] [**Physical Intelligence**] Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better [[paper](https://arxiv.org/pdf/2505.23705)] [[project](https://pi.website/research/knowledge_insulation)]
 - [2025] [**Physical Intelligence**] π0.5: A Vision-Language-Action Model with Open-World Generalization [[paper](https://arxiv.org/pdf/2504.16054)] [[project](https://www.pi.website/blog/pi05)] 
 - [2025] [**Nvidia**] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://github.com/NVIDIA/Isaac-GR00T)] 
 - [2025] [**Gemini Robotics**] Gemini Robotics: Bringing AI into the Physical World [[report](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf)]
@@ -127,6 +128,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning [[paper](https://arxiv.org/pdf/2505.13888)] [[project](https://koorye.github.io/proj/Inspire/)]
 - [2025] ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation [[paper](https://arxiv.org/pdf/2505.22159)] [[project](https://sites.google.com/view/forcevla2025/)]
 - [2025] Hume: Introducing System-2 Thinking in Visual-Language-Action Model [[paper](https://arxiv.org/pdf/2505.21432)] [[project](https://hume-vla.github.io/)]
+- [2025] Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents [[paper](https://arxiv.org/pdf/2505.23450)] [[project](https://dreampolicy.github.io/)]
+- [2025] TrackVLA: Embodied Visual Tracking in the Wild [[paper](https://arxiv.org/pdf/2505.23189)] [[project](https://pku-epic.github.io/TrackVLA-web)]
+
 
 
 ### 2024
