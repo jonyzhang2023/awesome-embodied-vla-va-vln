@@ -125,7 +125,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation [[paper](https://arxiv.org/pdf/2505.09577)] [[project](https://sites.google.com/view/vtla)]
 - [2025] OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning [[paper](https://arxiv.org/pdf/2505.11917)] [[project](https://one-two-vla.github.io/)]
 - [2025] InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning [[paper](https://arxiv.org/pdf/2505.13888)] [[project](https://koorye.github.io/proj/Inspire/)]
-
+- [2025] ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation [[paper](https://arxiv.org/pdf/2505.22159)] [[project](https://sites.google.com/view/forcevla2025/)]
 
 
 
