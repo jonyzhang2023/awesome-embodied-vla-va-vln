@@ -374,6 +374,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.21351)]
 - [2025] Spatial RoboGrasp: Generalized Robotic Grasping Control Policy [[paper](https://arxiv.org/pdf/2505.20814)]
 - [2025] Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt [[paper](https://arxiv.org/pdf/2505.20795)]
+- [2025] [**AAAI 25**] FlowPolicy: Enabling Fast and Robust 3D Flow-Based Policy via Consistency Flow Matching for Robot Manipulation [[paper](https://arxiv.org/abs/2412.04987)] [[project](https://github.com/zql-kk/FlowPolicy)]
+
 
 ### 2024
 
