@@ -232,6 +232,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2024
 
+- [2024] [**arXiv**] DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects [[paper](https://arxiv.org/abs/2410.02730)] [[project](https://zhaowei-wang-nlp.github.io/divscene-project-page/)]
 - [2024] [**RSS 24**] Navid: Video-based vlm plans the next step for vision-and-language navigation [[paper](https://arxiv.org/pdf/2402.15852)]
 - [2024] [**RSS 24**] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[paper](https://arxiv.org/pdf/2412.04453)]
 - [2024] The One RING: a Robotic Indoor Navigation Generalist [[paper](https://arxiv.org/pdf/2412.14401)]
@@ -379,6 +380,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2024
 
+- [2024] [**arXiv**] DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects [[paper](https://arxiv.org/abs/2410.02730)] [[project](https://zhaowei-wang-nlp.github.io/divscene-project-page/)]
 - [2024] Learning Robotic Manipulation Policies from Point Clouds with Conditional Flow Matching [[paper](https://arxiv.org/pdf/2409.07343)]
 - [2024] Point Cloud Matters: Rethinking the Impact of Different Observation Spaces on Robot Learning [[paper](https://arxiv.org/abs/2402.02500)]
 - [2024] 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)]
