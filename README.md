@@ -130,7 +130,10 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Hume: Introducing System-2 Thinking in Visual-Language-Action Model [[paper](https://arxiv.org/pdf/2505.21432)] [[project](https://hume-vla.github.io/)]
 - [2025] Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents [[paper](https://arxiv.org/pdf/2505.23450)] [[project](https://dreampolicy.github.io/)]
 - [2025] TrackVLA: Embodied Visual Tracking in the Wild [[paper](https://arxiv.org/pdf/2505.23189)] [[project](https://pku-epic.github.io/TrackVLA-web)]
-
+- [2025] SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.03574)] [[project](https://switchvla.github.io/)]
+- [2025] OG-VLA: 3D-Aware Vision Language Action Model via Orthographic Image Generation [[paper](https://arxiv.org/pdf/2506.01196)] [[project](https://og-vla.github.io/)]
+- [2025] LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks [[paper](https://arxiv.org/pdf/2506.00411)]
+- [2025] SmolVLA: A vision-language-action model for affordable and efficient robotics [[paper](https://arxiv.org/pdf/2506.01844)] [[project](https://github.com/huggingface/lerobot)]
 
 
 ### 2024
