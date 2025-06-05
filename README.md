@@ -379,6 +379,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt [[paper](https://arxiv.org/pdf/2505.20795)]
 - [2025] [**AAAI 25**] FlowPolicy: Enabling Fast and Robust 3D Flow-Based Policy via Consistency Flow Matching for Robot Manipulation [[paper](https://arxiv.org/abs/2412.04987)] [[project](https://github.com/zql-kk/FlowPolicy)]
 - [2025] Object-centric 3D Motion Field for Robot Learning from Human Videos [[paper](https://arxiv.org/pdf/2506.04227)] [[project](https://zhaohengyin.github.io/3DMF/)]
+- [2025] Evaluating Robot Policies in a World Model [[paper](https://arxiv.org/pdf/2506.00613)] [[project](https://world-model-eval.github.io/)]
+
 
 ### 2024
 
