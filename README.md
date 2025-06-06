@@ -546,6 +546,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware [[paper](https://arxiv.org/pdf/2505.09601)] [[project](https://real2render2real.com/)]
 
 ## Benchmark
+- [2024] DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects [[paper](https://arxiv.org/abs/2410.02730)] [[project](https://zhaowei-wang-nlp.github.io/divscene-project-page/)]
 - [2025] EWMBENCH: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models [[paper](https://arxiv.org/pdf/2505.09694)] [[project](https://github.com/AgibotTech/EWMBench)]
 - [2025] ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation [[paper](https://arxiv.org/pdf/2505.09698)] [[project](https://manipbench.github.io/)]
 - [2025] [**CVPR 25**] RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins [[paper](https://arxiv.org/pdf/2409.02920)] [[project](https://github.com/TianxingChen/RoboTwin)]
