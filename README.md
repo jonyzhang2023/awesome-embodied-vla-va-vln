@@ -134,7 +134,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] OG-VLA: 3D-Aware Vision Language Action Model via Orthographic Image Generation [[paper](https://arxiv.org/pdf/2506.01196)] [[project](https://og-vla.github.io/)]
 - [2025] LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks [[paper](https://arxiv.org/pdf/2506.00411)]
 - [2025] SmolVLA: A vision-language-action model for affordable and efficient robotics [[paper](https://arxiv.org/pdf/2506.01844)] [[project](https://github.com/huggingface/lerobot)]
-
+- [2025] VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.18719)] [[project](https://github.com/GuanxingLu/vlarl)]
+- [2025] Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[project](https://github.com/PRIME-RL/SimpleVLA-RL)]
 
 ### 2024
 
