@@ -506,6 +506,10 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning [[paper](https://arxiv.org/pdf/2504.12680)] [[project](https://embodiedcity.github.io/Embodied-R/)] 
 - [2025] From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.08548)] [[project](https://embodied-fsd.github.io/)] 
 - [2025] Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition [[paper](https://arxiv.org/pdf/2505.11175)]
+- [2025] RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics [[paper](https://arxiv.org/pdf/2506.04308)] [[project](https://zhoues.github.io/RoboRefer/)]
+- [2025] Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces [[paper](https://arxiv.org/pdf/2506.00123)] [[project](https://github.com/OpenGVLab/VeBrain)] 
+
+
 
 ### 2024
 
