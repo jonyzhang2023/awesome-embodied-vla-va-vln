@@ -202,7 +202,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025
 
-
+- [2025] [**IJRR 25**] Multimodal Spatial Language Maps for Robot Navigation and Manipulation [[paper](https://arxiv.org/pdf/2506.06862)] [[project](https://mslmaps.github.io/)]
 - [2025] Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation [[paper](https://arxiv.org/pdf/2504.19322)] [[project](https://github.com/leggedrobotics/fdm)]
 - [2025] Semantic Mapping in Indoor Embodied AI - A Comprehensive Survey and Future Directions [[paper](https://arxiv.org/pdf/2501.05750)]
 - [2025] VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning [[paper](https://arxiv.org/pdf/2502.00931)]
@@ -230,9 +230,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] VISTA: Generative Visual Imagination for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2505.07868)]
 - [2025] Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2505.11383)] [[project](https://github.com/MrZihan/Dynam3D)]
 - [2025] Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation [[paper](https://arxiv.org/pdf/2505.11886)]
-- [2025] [**IJRR 25**] Multimodal Spatial Language Maps for Robot Navigation and Manipulation [[paper](https://arxiv.org/pdf/2506.06862)] [[project](https://mslmaps.github.io/)]
-
-
+- [2025] Active Test-time Vision-Language Navigation [[paper](https://arxiv.org/pdf/2506.06630)]
+- [2025] BeliefMapNav: 3D Voxel-Based Belief Map for Zero-Shot Object Navigation [[paper](https://arxiv.org/pdf/2506.06487)] [[project](https://github.com/ZiboKNOW/BeliefMapNav)]
 
 ### 2024
 
