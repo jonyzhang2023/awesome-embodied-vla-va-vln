@@ -382,6 +382,10 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Object-centric 3D Motion Field for Robot Learning from Human Videos [[paper](https://arxiv.org/pdf/2506.04227)] [[project](https://zhaohengyin.github.io/3DMF/)]
 - [2025] Evaluating Robot Policies in a World Model [[paper](https://arxiv.org/pdf/2506.00613)] [[project](https://world-model-eval.github.io/)]
 - [2025] 3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model [[paper](https://arxiv.org/pdf/2506.06199)] [[project](https://github.com/Hoyyyaard/3DFlowAction/)]
+- [2025] SpikePingpong: High-Frequency Spike Vision-based Robot Learning for Precise Striking in Table Tennis Game [[paper](https://arxiv.org/pdf/2506.06690)]
+- [2025] Real-Time Execution of Action Chunking Flow Policies [[paper](https://arxiv.org/pdf/2506.07339)] [[project](https://www.pi.website/research/real_time_chunking)]
+
+
 
 ### 2024
 
