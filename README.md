@@ -136,6 +136,11 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] SmolVLA: A vision-language-action model for affordable and efficient robotics [[paper](https://arxiv.org/pdf/2506.01844)] [[project](https://github.com/huggingface/lerobot)]
 - [2025] VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.18719)] [[project](https://github.com/GuanxingLu/vlarl)]
 - [2025] Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[project](https://github.com/PRIME-RL/SimpleVLA-RL)]
+- [2025] BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation [[paper](https://arxiv.org/pdf/2506.07530)] [[project](https://github.com/ustcwhy/BitVLA)]
+- [2025] Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse [[paper](https://arxiv.org/pdf/2506.07639)]
+- [2025] BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models [[paper](https://arxiv.org/pdf/2506.07961)] [[project](https://bridgevla.github.io/)]
+
+
 
 ### 2024
 
