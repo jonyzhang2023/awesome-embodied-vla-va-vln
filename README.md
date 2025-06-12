@@ -140,6 +140,11 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation [[paper](https://arxiv.org/pdf/2506.07530)] [[project](https://github.com/ustcwhy/BitVLA)]
 - [2025] Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse [[paper](https://arxiv.org/pdf/2506.07639)]
 - [2025] BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models [[paper](https://arxiv.org/pdf/2506.07961)] [[project](https://bridgevla.github.io/)]
+- [2025] SAFE: Multitask Failure Detection for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.09937)] [[project](https://vla-safe.github.io/)]
+- [2025] From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.09930)] [[project](https://ai4ce.github.io/INT-ACT/)]
+- [2025] Time-Unified Diffusion Policy with Action Discrimination for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.09422)]
+
+
 
 
 
