@@ -133,7 +133,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] TrackVLA: Embodied Visual Tracking in the Wild [[paper](https://arxiv.org/pdf/2505.23189)] [[project](https://pku-epic.github.io/TrackVLA-web)]
 - [2025] SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.03574)] [[project](https://switchvla.github.io/)]
 - [2025] OG-VLA: 3D-Aware Vision Language Action Model via Orthographic Image Generation [[paper](https://arxiv.org/pdf/2506.01196)] [[project](https://og-vla.github.io/)]
-- [2025] LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks [[paper](https://arxiv.org/pdf/2506.00411)]
+- [2025] LoHoVLA: A  Vision-Language-Action Model for Long-Horizon Embodied Tasks [[paper](https://arxiv.org/pdf/2506.00411)]
 - [2025] SmolVLA: A vision-language-action model for affordable and efficient robotics [[paper](https://arxiv.org/pdf/2506.01844)] [[project](https://github.com/huggingface/lerobot)]
 - [2025] VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.18719)] [[project](https://github.com/GuanxingLu/vlarl)]
 - [2025] Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[project](https://github.com/PRIME-RL/SimpleVLA-RL)]
@@ -142,7 +142,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models [[paper](https://arxiv.org/pdf/2506.07961)] [[project](https://bridgevla.github.io/)]
 - [2025] SAFE: Multitask Failure Detection for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.09937)] [[project](https://vla-safe.github.io/)]
 - [2025] From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.09930)] [[project](https://ai4ce.github.io/INT-ACT/)]
-- [2025] Time-Unified Diffusion Policy with Action Discrimination for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.09422)]
+- [2025] Time- Diffusion Policy with Action Discrimination for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.09422)]
 
 
 
@@ -262,7 +262,8 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025
 
-- [2025] [**ByteDance Seed**] Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.09990)] [[project](https://chain-of-action.github.io/)] 
+- [2025] [**ByteDance Seed**] Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.09990)] [[project](https://chain-of-action.github.io/)]
+- [2025] [**RSS 25**] Unified Video Action Model [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)] 
 - [2025] Streaming Flow Policy: Simplifying diffusion/flow-matching policies by treating action trajectories as flow trajectories [[paper](https://arxiv.org/pdf/2505.21851)] [[project](https://siddancha.github.io/streaming-flow-policy/)] 
 - [2025] Modality-Composable Diffusion Policy via Inference-Time Distribution-level Composition [[paper](https://arxiv.org/pdf/2503.12466)] [[project](https://github.com/AndyCao1125/MCDP)] 
 - [2025] Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning [[paper](https://arxiv.org/pdf/2503.04877)] [[project](https://www.pair.toronto.edu/Adapt3R/)] 
@@ -352,7 +353,6 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] HACTS: a Human-As-Copilot Teleoperation System for Robot Learning [[paper](https://arxiv.org/pdf/2503.24070)] 
 - [2025] ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos [[paper](https://arxiv.org/pdf/2503.23877)] [[project](https://zeromimic.github.io/)] 
 - [2025] Learning Coordinated Bimanual Manipulation Policies using State Diffusion and Inverse Dynamics Models [[paper](https://arxiv.org/pdf/2503.23271)]
-- [2025] Unified Video Action Model [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)] 
 - [2025] Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets [[paper](https://arxiv.org/pdf/2504.02792)] [[project](https://weirdlabuw.github.io/uwm/)]
 - [2025] RoboAct-CLIP: Video-Driven Pre-training of Atomic Action Understanding for Robotics [[paper](https://arxiv.org/pdf/2504.02069)]
 - [2025] Slot-Level Robotic Placement via Visual Imitation from Single Human Video [[paper](https://arxiv.org/pdf/2504.01959)] [[project](https://ddshan.github.io/slerp/)]
