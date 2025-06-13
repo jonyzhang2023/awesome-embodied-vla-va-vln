@@ -18,6 +18,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ## 📚 Survey
 
+- [2025] [**IJRR 25**] Foundation Models in Robotics: Applications, Challenges, and the Future [[paper](https://arxiv.org/pdf/2312.07843)] [[project](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]  
 - [2025] A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions [[paper](https://doi.org/10.36227/techrxiv.174378343.39356214/v1)] [[project](https://github.com/HITSZ-Robotics/DiffusionPolicy-Robotics)]  
 - [2025] Embodied Intelligent Industrial Robotics: Concepts and Techniques [[paper](https://arxiv.org/pdf/2505.09305)] [[project](https://github.com/jackeyzengl/Embodied_Intelligent_Industrial_Robotics_Paper_List)] 
 - [2025] Neural Brain: A Neuroscience-inspired Framework for Embodied Agents [[paper](https://arxiv.org/pdf/2505.07634)] [[project](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)] 
@@ -593,7 +594,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2022] Mojoco [[document](https://mujoco.readthedocs.io/en/stable/overview.html)]
 
 
-## Ralated Works
+## Related Works
+- Awesome-VLA-RL [[repo](https://github.com/XiaoWei-i/Awesome-VLA-RL)]
+- Awesome-Robotics-Foundation-Models [[repo](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
 - Awesome VLA for Robotics [[repo](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics)]
 - Awesome-Generalist-Agents [[repo](https://github.com/cheryyunl/awesome-generalist-agents)]
 - Awesome-LLM-Robotics [[repo](https://github.com/GT-RIPL/Awesome-LLM-Robotics)]
