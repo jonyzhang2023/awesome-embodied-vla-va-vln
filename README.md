@@ -244,7 +244,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Active Test-time Vision-Language Navigation [[paper](https://arxiv.org/pdf/2506.06630)]
 - [2025] BeliefMapNav: 3D Voxel-Based Belief Map for Zero-Shot Object Navigation [[paper](https://arxiv.org/pdf/2506.06487)] [[project](https://github.com/ZiboKNOW/BeliefMapNav)]
 - [2025] OctoNav: Towards Generalist Embodied Navigation [[paper](https://arxiv.org/pdf/2506.09839)] [[project](https://buaa-colalab.github.io/OctoNav/)] 
-
+- [2025] Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding [[paper](https://arxiv.org/pdf/2506.09839)] [[project](https://zzzzzyh111.github.io/VLFly/)] 
 
 ### 2024
 
