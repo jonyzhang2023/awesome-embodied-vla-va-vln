@@ -144,9 +144,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] SAFE: Multitask Failure Detection for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.09937)] [[project](https://vla-safe.github.io/)]
 - [2025] From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.09930)] [[project](https://ai4ce.github.io/INT-ACT/)]
 - [2025] Time- Diffusion Policy with Action Discrimination for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.09422)]
-
-
-
+- [2025] RationalVLA: A Rational Vision-Language-Action Model with Dual System [[paper](https://arxiv.org/pdf/2506.10826)] [[project](https://irpn-eai.github.io/rational_vla/)]
+- [2025] Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning [[paper](https://arxiv.org/pdf/2506.01953)] [[project](https://fast-in-slow.github.io/)]
 
 
 ### 2024
