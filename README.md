@@ -146,7 +146,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Time- Diffusion Policy with Action Discrimination for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.09422)]
 - [2025] RationalVLA: A Rational Vision-Language-Action Model with Dual System [[paper](https://arxiv.org/pdf/2506.10826)] [[project](https://irpn-eai.github.io/rational_vla/)]
 - [2025] Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning [[paper](https://arxiv.org/pdf/2506.01953)] [[project](https://fast-in-slow.github.io/)]
-
+- [2025] [**Physical Intelligence**] Real-Time Execution of Action Chunking Flow Policies [[paper](https://arxiv.org/pdf/2506.07339)] [[project](https://www.pi.website/research/real_time_chunking)]
 
 ### 2024
 
@@ -396,7 +396,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Evaluating Robot Policies in a World Model [[paper](https://arxiv.org/pdf/2506.00613)] [[project](https://world-model-eval.github.io/)]
 - [2025] 3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model [[paper](https://arxiv.org/pdf/2506.06199)] [[project](https://github.com/Hoyyyaard/3DFlowAction/)]
 - [2025] SpikePingpong: High-Frequency Spike Vision-based Robot Learning for Precise Striking in Table Tennis Game [[paper](https://arxiv.org/pdf/2506.06690)]
-- [2025] Real-Time Execution of Action Chunking Flow Policies [[paper](https://arxiv.org/pdf/2506.07339)] [[project](https://www.pi.website/research/real_time_chunking)]
+- [2025] SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies [[paper](https://arxiv.org/pdf/2506.11948)] [[project](https://nadunranawaka1.github.io/sail-policy/)]
+- [2025] Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.11261)] [[project](https://cshizhe.github.io/projects/robot_gondola.html)]
 
 
 
