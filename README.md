@@ -147,6 +147,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] RationalVLA: A Rational Vision-Language-Action Model with Dual System [[paper](https://arxiv.org/pdf/2506.10826)] [[project](https://irpn-eai.github.io/rational_vla/)]
 - [2025] Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning [[paper](https://arxiv.org/pdf/2506.01953)] [[project](https://fast-in-slow.github.io/)]
 - [2025] [**Physical Intelligence**] Real-Time Execution of Action Chunking Flow Policies [[paper](https://arxiv.org/pdf/2506.07339)] [[project](https://www.pi.website/research/real_time_chunking)]
+- [2025] LLaVA-VLA: A Simple Yet Powerful Vision-Language-Action Model [[project](https://github.com/OpenHelix-Team/LLaVA-VLA)]
+
+
 
 ### 2024
 
