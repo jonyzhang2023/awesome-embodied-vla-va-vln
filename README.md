@@ -148,8 +148,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning [[paper](https://arxiv.org/pdf/2506.01953)] [[project](https://fast-in-slow.github.io/)]
 - [2025] [**Physical Intelligence**] Real-Time Execution of Action Chunking Flow Policies [[paper](https://arxiv.org/pdf/2506.07339)] [[project](https://www.pi.website/research/real_time_chunking)]
 - [2025] LLaVA-VLA: A Simple Yet Powerful Vision-Language-Action Model [[project](https://github.com/OpenHelix-Team/LLaVA-VLA)]
-
-
+- [2025] LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction [[paper](https://arxiv.org/pdf/2506.13751)]
+- [2025] CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding [[paper](https://arxiv.org/pdf/2506.13725)] [[project](https://irpn-eai.github.io/CEED-VLA/)]
 
 ### 2024
 
@@ -401,8 +401,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] SpikePingpong: High-Frequency Spike Vision-based Robot Learning for Precise Striking in Table Tennis Game [[paper](https://arxiv.org/pdf/2506.06690)]
 - [2025] SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies [[paper](https://arxiv.org/pdf/2506.11948)] [[project](https://nadunranawaka1.github.io/sail-policy/)]
 - [2025] Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.11261)] [[project](https://cshizhe.github.io/projects/robot_gondola.html)]
-
-
+- [2025] Touch begins where vision ends: Generalizable policies for contact-rich manipulation [[paper](https://arxiv.org/pdf/2506.13762)] [[project](https://vitalprecise.github.io/)]
 
 ### 2024
 
