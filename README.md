@@ -405,20 +405,22 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] AMPLIFY: Actionless Motion Priors for Robot Learning from Videos [[paper](https://arxiv.org/pdf/2506.14198)] [[project](https://amplify-robotics.github.io/)]
 - [2025] GAF: Gaussian Action Field as a Dynamic World Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.14135)]
 - [2025] Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation [[paper](https://arxiv.org/pdf/2506.14754)]
+- [2025] Latent Action Diffusion for Cross-Embodiment Manipulation [[paper](https://arxiv.org/pdf/2506.14608)] [[project](https://mimicrobotics.github.io/lad/)]
+
 
 ### 2024
 
 - [2024] Learning Robotic Manipulation Policies from Point Clouds with Conditional Flow Matching [[paper](https://arxiv.org/pdf/2409.07343)]
 - [2024] Point Cloud Matters: Rethinking the Impact of Different Observation Spaces on Robot Learning [[paper](https://arxiv.org/abs/2402.02500)]
-- [2024] 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)]
+- [2024] [**RSS 25**] 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)]
 - [2024] Sparse diffusion policy: A sparse, reusable, and flexible policy for robot learning [[paper](https://arxiv.org/pdf/2407.01531)]
 - [2024] ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2406.01586)]
 - [2024] 3d diffuser actor: Policy diffusion with 3d scene representations [[paper](https://arxiv.org/pdf/2402.10885)]
-- [2024] Diffusion Policy Policy Optimization [[paper](https://arxiv.org/pdf/2409.00588)]
+- [2024] [**ICLR 25**] Diffusion Policy Policy Optimization [[paper](https://arxiv.org/pdf/2409.00588)]
 - [2024] Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation [[paper](https://arxiv.org/pdf/2407.00451)]
 - [2024] EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning [[paper](https://arxiv.org/pdf/2407.01479)]
 - [2024] Equivariant Diffusion Policy [[paper](https://arxiv.org/pdf/2407.01812)]
-- [2024] Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models [[paper](https://arxiv.org/pdf/2409.07163)]
+- [2024] [**IROS 25**] Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models [[paper](https://arxiv.org/pdf/2409.07163)]
 - [2024] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[paper](https://arxiv.org/pdf/2410.10803)]
 - [2024] Motion Before Action: Diffusing Object Motion as Manipulation Condition [[paper](https://arxiv.org/pdf/2411.09658)]
 - [2024] One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation [[paper](https://arxiv.org/pdf/2410.21257)]
