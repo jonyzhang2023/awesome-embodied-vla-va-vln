@@ -533,8 +533,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition [[paper](https://arxiv.org/pdf/2505.11175)]
 - [2025] RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics [[paper](https://arxiv.org/pdf/2506.04308)] [[project](https://zhoues.github.io/RoboRefer/)]
 - [2025] Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces [[paper](https://arxiv.org/pdf/2506.00123)] [[project](https://github.com/OpenGVLab/VeBrain)] 
-
-
+- [2025] RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills [[paper](https://arxiv.org/pdf/2506.14763)] [[project](https://umass-embodied-agi.github.io/RobotSmith/)] 
+- [2025] CASPER: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models [[paper](https://arxiv.org/pdf/2506.14727)] [[project](https://ut-austin-rpl.github.io/casper/)] 
 
 ### 2024
 
