@@ -402,6 +402,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies [[paper](https://arxiv.org/pdf/2506.11948)] [[project](https://nadunranawaka1.github.io/sail-policy/)]
 - [2025] Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.11261)] [[project](https://cshizhe.github.io/projects/robot_gondola.html)]
 - [2025] Touch begins where vision ends: Generalizable policies for contact-rich manipulation [[paper](https://arxiv.org/pdf/2506.13762)] [[project](https://vitalprecise.github.io/)]
+- [2025] AMPLIFY: Actionless Motion Priors for Robot Learning from Videos [[paper](https://arxiv.org/pdf/2506.14198)] [[project](https://amplify-robotics.github.io/)]
+- [2025] GAF: Gaussian Action Field as a Dynamic World Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.14135)]
+- [2025] Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation [[paper](https://arxiv.org/pdf/2506.14754)]
 
 ### 2024
 
