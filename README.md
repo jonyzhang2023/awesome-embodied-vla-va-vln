@@ -408,6 +408,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] GAF: Gaussian Action Field as a Dynamic World Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.14135)]
 - [2025] Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation [[paper](https://arxiv.org/pdf/2506.14754)]
 - [2025] Latent Action Diffusion for Cross-Embodiment Manipulation [[paper](https://arxiv.org/pdf/2506.14608)] [[project](https://mimicrobotics.github.io/lad/)]
+- [2025] Vision in Action: Learning Active Perception from Human Demonstrations [[paper](https://arxiv.org/pdf/2506.15666)] [[project](https://vision-in-action.github.io/)]
+- [2025] [**IROS 25**] Robust Instant Policy: Leveraging Student’s t-Regression Model for Robust In-context Imitation Learning of Robot Manipulation [[paper](https://arxiv.org/pdf/2506.15157)] [[project](https://sites.google.com/view/robustinstantpolicy)]
 
 
 ### 2024
