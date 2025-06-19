@@ -249,7 +249,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] OctoNav: Towards Generalist Embodied Navigation [[paper](https://arxiv.org/pdf/2506.09839)] [[project](https://buaa-colalab.github.io/OctoNav/)] 
 - [2025] Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding [[paper](https://arxiv.org/pdf/2506.09839)] [[project](https://zzzzzyh111.github.io/VLFly/)] 
 - [2025] DyNaVLM: Zero-Shot Vision-Language Navigation System with Dynamic Viewpoints and Self-Refining Graph Memory [[paper](https://arxiv.org/pdf/2506.15096)]
-
+- [2025] TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation  [[paper](https://arxiv.org/pdf/2411.16425)]
 
 ### 2024
 
@@ -261,6 +261,7 @@ However, particularly influential or representative works may be highlighted at 
 ### 2023
 
 - [2023] Bridging Zero-shot Object Navigation and Foundation Models through Pixel-Guided Navigation Skill [[paper](https://arxiv.org/pdf/2309.10309)]
+- [2023] [**CVPR 23**] Adaptive Zone-Aware Hierarchical Planner for Vision-Language Navigation [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Adaptive_Zone-Aware_Hierarchical_Planner_for_Vision-Language_Navigation_CVPR_2023_paper.pdf)]
 
 
 ## 🎬 Vision Action (VA) Models
@@ -580,7 +581,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware [[paper](https://arxiv.org/pdf/2505.09601)] [[project](https://real2render2real.com/)]
 
 ## Benchmark
-- [2024] DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects [[paper](https://arxiv.org/abs/2410.02730)] [[project](https://zhaowei-wang-nlp.github.io/divscene-project-page/)]
+- [2025] RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation [[paper](https://arxiv.org/pdf/2506.06677)] [[project](https://robocerebra.github.io/)]
+- [2025] DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects [[paper](https://arxiv.org/abs/2410.02730)] [[project](https://zhaowei-wang-nlp.github.io/divscene-project-page/)]
 - [2025] EWMBENCH: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models [[paper](https://arxiv.org/pdf/2505.09694)] [[project](https://github.com/AgibotTech/EWMBench)]
 - [2025] ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation [[paper](https://arxiv.org/pdf/2505.09698)] [[project](https://manipbench.github.io/)]
 - [2025] [**CVPR 25**] RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins [[paper](https://arxiv.org/pdf/2409.02920)] [[project](https://github.com/TianxingChen/RoboTwin)]
