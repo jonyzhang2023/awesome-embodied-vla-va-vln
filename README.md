@@ -150,6 +150,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] LLaVA-VLA: A Simple Yet Powerful Vision-Language-Action Model [[project](https://github.com/OpenHelix-Team/LLaVA-VLA)]
 - [2025] LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction [[paper](https://arxiv.org/pdf/2506.13751)]
 - [2025] CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding [[paper](https://arxiv.org/pdf/2506.13725)] [[project](https://irpn-eai.github.io/CEED-VLA/)]
+- [2025] DreamGen: Unlocking Genearlization in Robot Learning through Video World Models [[paper](https://arxiv.org/abs/2505.12705)] [[project](https://research.nvidia.com/labs/gear/dreamgen/)]
+
 
 ### 2024
 
