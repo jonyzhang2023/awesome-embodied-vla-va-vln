@@ -270,6 +270,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025
 
+- [2025] Steering Your Diffusion Policy with Latent Space Reinforcement Learning [[paper](https://arxiv.org/pdf/2506.15799)] [[project](https://diffusion-steering.github.io/)]
 - [2025] [**ByteDance Seed**] Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.09990)] [[project](https://chain-of-action.github.io/)]
 - [2025] [**RSS 25**] Unified Video Action Model [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)] 
 - [2025] Streaming Flow Policy: Simplifying diffusion/flow-matching policies by treating action trajectories as flow trajectories [[paper](https://arxiv.org/pdf/2505.21851)] [[project](https://siddancha.github.io/streaming-flow-policy/)] 
@@ -413,7 +414,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Latent Action Diffusion for Cross-Embodiment Manipulation [[paper](https://arxiv.org/pdf/2506.14608)] [[project](https://mimicrobotics.github.io/lad/)]
 - [2025] Vision in Action: Learning Active Perception from Human Demonstrations [[paper](https://arxiv.org/pdf/2506.15666)] [[project](https://vision-in-action.github.io/)]
 - [2025] [**IROS 25**] Robust Instant Policy: Leveraging Student’s t-Regression Model for Robust In-context Imitation Learning of Robot Manipulation [[paper](https://arxiv.org/pdf/2506.15157)] [[project](https://sites.google.com/view/robustinstantpolicy)]
-
+- [2025] [**RSS 25**] Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation [[paper](https://arxiv.org/pdf/2506.17198)] [[project](https://jianglongye.com/dex1b/)]
 
 ### 2024
 
