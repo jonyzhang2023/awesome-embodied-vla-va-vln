@@ -586,6 +586,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware [[paper](https://arxiv.org/pdf/2505.09601)] [[project](https://real2render2real.com/)]
 
 ## Benchmark
+- [2025] RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies [[paper](https://arxiv.org/pdf/2506.18123)] [[project](https://robo-arena.github.io/)]
 - [2025] RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation [[paper](https://arxiv.org/pdf/2506.06677)] [[project](https://robocerebra.github.io/)]
 - [2025] DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects [[paper](https://arxiv.org/abs/2410.02730)] [[project](https://zhaowei-wang-nlp.github.io/divscene-project-page/)]
 - [2025] EWMBENCH: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models [[paper](https://arxiv.org/pdf/2505.09694)] [[project](https://github.com/AgibotTech/EWMBench)]
