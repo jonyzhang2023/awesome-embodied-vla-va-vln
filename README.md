@@ -42,6 +42,7 @@ However, particularly influential or representative works may be highlighted at 
 ## 💥 Vision Language Action (VLA) Models
 
 ### 2025 
+- [2025] [**Gemini Robotics**] Gemini Robotics On-Device brings AI to local robotic devices [[report](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/)]
 - [2025] [**Meta**] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning [[paper](https://arxiv.org/pdf/2506.09985)] [[project](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)] [[code](https://github.com/facebookresearch/vjepa2)]
 - [2025] [**Physical Intelligence**] Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better [[paper](https://arxiv.org/pdf/2505.23705)] [[project](https://pi.website/research/knowledge_insulation)]
 - [2025] [**Physical Intelligence**] π0.5: A Vision-Language-Action Model with Open-World Generalization [[paper](https://arxiv.org/pdf/2504.16054)] [[project](https://www.pi.website/blog/pi05)] 
@@ -153,7 +154,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] DreamGen: Unlocking Genearlization in Robot Learning through Video World Models [[paper](https://arxiv.org/abs/2505.12705)] [[project](https://research.nvidia.com/labs/gear/dreamgen/)]
 - [2025] RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.17639)] [[project](https://rlrc-vla.github.io/)]
 - [2025] MinD: Unified Visual Imagination and Control via Hierarchical World Model [[paper](https://arxiv.org/pdf/2506.18897)] [[project](https://manipulate-in-dream.github.io/)]
-
+- [2025] CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation [[paper](https://arxiv.org/pdf/2506.19816)] [[project](https://lihaohn.github.io/CronusVLA.github.io/)]
 
 ### 2024
 
