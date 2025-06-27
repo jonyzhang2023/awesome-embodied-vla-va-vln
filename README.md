@@ -155,6 +155,10 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.17639)] [[project](https://rlrc-vla.github.io/)]
 - [2025] MinD: Unified Visual Imagination and Control via Hierarchical World Model [[paper](https://arxiv.org/pdf/2506.18897)] [[project](https://manipulate-in-dream.github.io/)]
 - [2025] CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation [[paper](https://arxiv.org/pdf/2506.19816)] [[project](https://lihaohn.github.io/CronusVLA.github.io/)]
+- [2025] WorldVLA: Towards Autoregressive Action World Model [[paper](https://arxiv.org/pdf/2506.21539)] [[project](https://github.com/alibaba-damo-academy/WorldVLA)]
+- [2025] ACTLLM: Action Consistency Tuned Large Language Model [[paper](https://arxiv.org/pdf/2506.21250)]
+
+
 
 ### 2024
 
@@ -418,6 +422,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Vision in Action: Learning Active Perception from Human Demonstrations [[paper](https://arxiv.org/pdf/2506.15666)] [[project](https://vision-in-action.github.io/)]
 - [2025] [**IROS 25**] Robust Instant Policy: Leveraging Student’s t-Regression Model for Robust In-context Imitation Learning of Robot Manipulation [[paper](https://arxiv.org/pdf/2506.15157)] [[project](https://sites.google.com/view/robustinstantpolicy)]
 - [2025] [**RSS 25**] Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation [[paper](https://arxiv.org/pdf/2506.17198)] [[project](https://jianglongye.com/dex1b/)]
+- [2025] DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy [[paper](https://arxiv.org/pdf/2506.20668)] [[project](https://demodiffusion.github.io/)]
+
 
 ### 2024
 
