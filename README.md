@@ -18,8 +18,10 @@ However, particularly influential or representative works may be highlighted at 
 
 ## 📚 Survey
 
+
 - [2025] Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends [[paper](https://arxiv.org/pdf/2506.20966)] [[project](https://github.com/AoqunJin/Awesome-VLA-Post-Training)]  
-- [2025] [**IJRR 25**] Foundation Models in Robotics: Applications, Challenges, and the Future [[paper](https://arxiv.org/pdf/2312.07843)] [[project](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]  
+- [2025] [**IJRR 25**] Foundation Models in Robotics: Applications, Challenges, and the Future [[paper](https://arxiv.org/pdf/2312.07843)] [[project](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
+- [2025] Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes [[paper](https://www.arxiv.org/abs/2408.03539)]
 - [2025] A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions [[paper](https://doi.org/10.36227/techrxiv.174378343.39356214/v1)] [[project](https://github.com/HITSZ-Robotics/DiffusionPolicy-Robotics)]  
 - [2025] Embodied Intelligent Industrial Robotics: Concepts and Techniques [[paper](https://arxiv.org/pdf/2505.09305)] [[project](https://github.com/jackeyzengl/Embodied_Intelligent_Industrial_Robotics_Paper_List)] 
 - [2025] Neural Brain: A Neuroscience-inspired Framework for Embodied Agents [[paper](https://arxiv.org/pdf/2505.07634)] [[project](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)] 
@@ -55,6 +57,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] [**Physical Intelligence**] Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2502.19417)] [[project](https://www.pi.website/research/hirobot)] 
 - [2025] [**Figure**] Helix: A Vision-Language-Action Model for Generalist Humanoid Control [[report](https://www.figure.ai/news/helix)]
 - [2025] [**AgiBot**] EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation [[paper](https://arxiv.org/pdf/2501.01895)]
+- [2025] FLaRe: Achieving Masterful and Adaptive Robot Policies with Large-Scale Reinforcement Learning Fine-Tuning [[paper](https://arxiv.org/abs/2409.16578)][[project](https://robot-flare.github.io/)] 
 - [2025] Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing [[paper](https://arxiv.org/pdf/2501.06919)]
 - [2025] Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding [[paper](https://arxiv.org/pdf/2501.04693)]
 - [2025] [**Physical Intelligence**] FAST: Efficient Action Tokenization for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2501.09747)]
