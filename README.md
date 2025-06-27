@@ -18,6 +18,8 @@ However, particularly influential or representative works may be highlighted at 
 
 ## 📚 Survey
 
+
+- [2025] Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends [[paper](https://arxiv.org/pdf/2506.20966)] [[project](https://github.com/AoqunJin/Awesome-VLA-Post-Training)]  
 - [2025] [**IJRR 25**] Foundation Models in Robotics: Applications, Challenges, and the Future [[paper](https://arxiv.org/pdf/2312.07843)] [[project](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
 - [2025] Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes [[paper](https://www.arxiv.org/abs/2408.03539)]
 - [2025] A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions [[paper](https://doi.org/10.36227/techrxiv.174378343.39356214/v1)] [[project](https://github.com/HITSZ-Robotics/DiffusionPolicy-Robotics)]  
@@ -43,6 +45,7 @@ However, particularly influential or representative works may be highlighted at 
 ## 💥 Vision Language Action (VLA) Models
 
 ### 2025 
+- [2025] [**Gemini Robotics**] Gemini Robotics On-Device brings AI to local robotic devices [[report](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/)]
 - [2025] [**Meta**] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning [[paper](https://arxiv.org/pdf/2506.09985)] [[project](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)] [[code](https://github.com/facebookresearch/vjepa2)]
 - [2025] [**Physical Intelligence**] Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better [[paper](https://arxiv.org/pdf/2505.23705)] [[project](https://pi.website/research/knowledge_insulation)]
 - [2025] [**Physical Intelligence**] π0.5: A Vision-Language-Action Model with Open-World Generalization [[paper](https://arxiv.org/pdf/2504.16054)] [[project](https://www.pi.website/blog/pi05)] 
@@ -155,6 +158,10 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] DreamGen: Unlocking Genearlization in Robot Learning through Video World Models [[paper](https://arxiv.org/abs/2505.12705)] [[project](https://research.nvidia.com/labs/gear/dreamgen/)]
 - [2025] RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.17639)] [[project](https://rlrc-vla.github.io/)]
 - [2025] MinD: Unified Visual Imagination and Control via Hierarchical World Model [[paper](https://arxiv.org/pdf/2506.18897)] [[project](https://manipulate-in-dream.github.io/)]
+- [2025] CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation [[paper](https://arxiv.org/pdf/2506.19816)] [[project](https://lihaohn.github.io/CronusVLA.github.io/)]
+- [2025] WorldVLA: Towards Autoregressive Action World Model [[paper](https://arxiv.org/pdf/2506.21539)] [[project](https://github.com/alibaba-damo-academy/WorldVLA)]
+- [2025] ACTLLM: Action Consistency Tuned Large Language Model [[paper](https://arxiv.org/pdf/2506.21250)]
+
 
 
 ### 2024
@@ -419,6 +426,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Vision in Action: Learning Active Perception from Human Demonstrations [[paper](https://arxiv.org/pdf/2506.15666)] [[project](https://vision-in-action.github.io/)]
 - [2025] [**IROS 25**] Robust Instant Policy: Leveraging Student’s t-Regression Model for Robust In-context Imitation Learning of Robot Manipulation [[paper](https://arxiv.org/pdf/2506.15157)] [[project](https://sites.google.com/view/robustinstantpolicy)]
 - [2025] [**RSS 25**] Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation [[paper](https://arxiv.org/pdf/2506.17198)] [[project](https://jianglongye.com/dex1b/)]
+- [2025] DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy [[paper](https://arxiv.org/pdf/2506.20668)] [[project](https://demodiffusion.github.io/)]
+
 
 ### 2024
 
@@ -623,7 +632,7 @@ However, particularly influential or representative works may be highlighted at 
 - Awesome-Generalist-Agents [[repo](https://github.com/cheryyunl/awesome-generalist-agents)]
 - Awesome-LLM-Robotics [[repo](https://github.com/GT-RIPL/Awesome-LLM-Robotics)]
 - Awesome World Models for Robotics [[repo](https://github.com/leofan90/Awesome-World-Models)]
-
+- Awesome-VLA-Post-Training [[repo](https://github.com/AoqunJin/Awesome-VLA-Post-Training)]
 
 ## Star History
 
