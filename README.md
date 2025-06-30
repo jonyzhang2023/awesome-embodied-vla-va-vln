@@ -556,6 +556,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces [[paper](https://arxiv.org/pdf/2506.00123)] [[project](https://github.com/OpenGVLab/VeBrain)] 
 - [2025] RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills [[paper](https://arxiv.org/pdf/2506.14763)] [[project](https://umass-embodied-agi.github.io/RobotSmith/)] 
 - [2025] CASPER: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models [[paper](https://arxiv.org/pdf/2506.14727)] [[project](https://ut-austin-rpl.github.io/casper/)] 
+- [2025] FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models [[paper](https://arxiv.org/pdf/2506.21627)]
+
 
 ### 2024
 
