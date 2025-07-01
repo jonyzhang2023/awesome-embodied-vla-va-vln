@@ -18,7 +18,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ## 📚 Survey
 
-
+- [2025] A Survey on Vision-Language-Action Models for Autonomous Driving [[paper](https://arxiv.org/pdf/2506.24044)] [[project](https://github.com/JohnsonJiang1996/Awesome-VLA4AD)]  
 - [2025] Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends [[paper](https://arxiv.org/pdf/2506.20966)] [[project](https://github.com/AoqunJin/Awesome-VLA-Post-Training)]  
 - [2025] [**IJRR 25**] Foundation Models in Robotics: Applications, Challenges, and the Future [[paper](https://arxiv.org/pdf/2312.07843)] [[project](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
 - [2025] Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes [[paper](https://www.arxiv.org/abs/2408.03539)]
@@ -635,6 +635,7 @@ However, particularly influential or representative works may be highlighted at 
 - Awesome-LLM-Robotics [[repo](https://github.com/GT-RIPL/Awesome-LLM-Robotics)]
 - Awesome World Models for Robotics [[repo](https://github.com/leofan90/Awesome-World-Models)]
 - Awesome-VLA-Post-Training [[repo](https://github.com/AoqunJin/Awesome-VLA-Post-Training)]
+- Awesome-BFM-Papers [[repo](https://github.com/yuanmingqi/awesome-bfm-papers)]
 
 ## Star History
 
