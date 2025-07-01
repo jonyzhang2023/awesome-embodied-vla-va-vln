@@ -427,7 +427,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] [**IROS 25**] Robust Instant Policy: Leveraging Student’s t-Regression Model for Robust In-context Imitation Learning of Robot Manipulation [[paper](https://arxiv.org/pdf/2506.15157)] [[project](https://sites.google.com/view/robustinstantpolicy)]
 - [2025] [**RSS 25**] Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation [[paper](https://arxiv.org/pdf/2506.17198)] [[project](https://jianglongye.com/dex1b/)]
 - [2025] DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy [[paper](https://arxiv.org/pdf/2506.20668)] [[project](https://demodiffusion.github.io/)]
-
+- [2025] World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.23919)] [[project](https://world4omni.github.io/)]
 
 ### 2024
 
@@ -557,7 +557,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills [[paper](https://arxiv.org/pdf/2506.14763)] [[project](https://umass-embodied-agi.github.io/RobotSmith/)] 
 - [2025] CASPER: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models [[paper](https://arxiv.org/pdf/2506.14727)] [[project](https://ut-austin-rpl.github.io/casper/)] 
 - [2025] FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models [[paper](https://arxiv.org/pdf/2506.21627)]
-
+- [2025] RoboPearls: Editable Video Simulation for Robot Manipulation [[paper](https://arxiv.org/pdf/2506.22756)] [[project](https://tangtaogo.github.io/RoboPearls/)] 
 
 ### 2024
 
