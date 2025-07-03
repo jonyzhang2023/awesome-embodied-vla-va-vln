@@ -162,7 +162,10 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation [[paper](https://arxiv.org/pdf/2506.19816)] [[project](https://lihaohn.github.io/CronusVLA.github.io/)]
 - [2025] WorldVLA: Towards Autoregressive Action World Model [[paper](https://arxiv.org/pdf/2506.21539)] [[project](https://github.com/alibaba-damo-academy/WorldVLA)]
 - [2025] ACTLLM: Action Consistency Tuned Large Language Model [[paper](https://arxiv.org/pdf/2506.21250)]
-
+- [2025] TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control [[paper](https://arxiv.org/pdf/2507.01424v1)] [[project](https://zhenyangliu.github.io/TriVLA/)]
+- [2025] [**ICCV 25**] VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers [[paper](https://arxiv.org/pdf/2507.01016)] [[project](https://xiaoxiao0406.github.io/vqvla.github.io)]
+- [2025] Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding [[paper](https://arxiv.org/pdf/2507.00416)] [[project](https://github.com/MINT-SJTU/Evo-VLA)]
+- [2025] AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation [[paper](https://arxiv.org/pdf/2507.01961)] [[project](https://ac-dit.github.io/)]
 
 
 ### 2024
