@@ -234,6 +234,7 @@ However, particularly influential or representative works may be highlighted at 
 ### 2025
 
 - [2025] [**IJRR 25**] Multimodal Spatial Language Maps for Robot Navigation and Manipulation [[paper](https://arxiv.org/pdf/2506.06862)] [[project](https://mslmaps.github.io/)]
+- [2025] [**RSS 25**] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[paper](https://arxiv.org/pdf/2412.04453)] [[project](https://navila-bot.github.io/)]
 - [2025] Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation [[paper](https://arxiv.org/pdf/2504.19322)] [[project](https://github.com/leggedrobotics/fdm)]
 - [2025] Semantic Mapping in Indoor Embodied AI - A Comprehensive Survey and Future Directions [[paper](https://arxiv.org/pdf/2501.05750)]
 - [2025] VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning [[paper](https://arxiv.org/pdf/2502.00931)]
@@ -271,7 +272,6 @@ However, particularly influential or representative works may be highlighted at 
 ### 2024
 
 - [2024] [**RSS 24**] Navid: Video-based vlm plans the next step for vision-and-language navigation [[paper](https://arxiv.org/pdf/2402.15852)]
-- [2024] [**RSS 24**] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[paper](https://arxiv.org/pdf/2412.04453)]
 - [2024] The One RING: a Robotic Indoor Navigation Generalist [[paper](https://arxiv.org/pdf/2412.14401)]
 - [2024] Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs [[paper](https://arxiv.org/pdf/2407.07775)]
 
