@@ -166,7 +166,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] [**ICCV 25**] VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers [[paper](https://arxiv.org/pdf/2507.01016)] [[project](https://xiaoxiao0406.github.io/vqvla.github.io)]
 - [2025] Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding [[paper](https://arxiv.org/pdf/2507.00416)] [[project](https://github.com/MINT-SJTU/Evo-VLA)]
 - [2025] AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation [[paper](https://arxiv.org/pdf/2507.01961)] [[project](https://ac-dit.github.io/)]
-
+- [2025] MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real [[paper](https://arxiv.org/pdf/2507.02864)] 
 
 ### 2024
 
@@ -562,6 +562,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] CASPER: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models [[paper](https://arxiv.org/pdf/2506.14727)] [[project](https://ut-austin-rpl.github.io/casper/)] 
 - [2025] FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models [[paper](https://arxiv.org/pdf/2506.21627)]
 - [2025] RoboPearls: Editable Video Simulation for Robot Manipulation [[paper](https://arxiv.org/pdf/2506.22756)] [[project](https://tangtaogo.github.io/RoboPearls/)] 
+- [2025] RoboBrain 2.0 Technical Report [[paper](https://arxiv.org/pdf/2507.02029)] [[project](https://superrobobrain.github.io/)]
+
 
 ### 2024
 
