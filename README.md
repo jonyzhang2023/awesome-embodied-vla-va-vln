@@ -167,6 +167,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding [[paper](https://arxiv.org/pdf/2507.00416)] [[project](https://github.com/MINT-SJTU/Evo-VLA)]
 - [2025] AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation [[paper](https://arxiv.org/pdf/2507.01961)] [[project](https://ac-dit.github.io/)]
 - [2025] MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real [[paper](https://arxiv.org/pdf/2507.02864)] 
+- [2025] [**ICCV 25**] DexVLG: Dexterous Vision-Language-Grasp Model at Scale [[paper](https://arxiv.org/pdf/2507.02747)] [[project](https://jiaweihe.com/dexvlg)]
+- [2025] cVLA: Towards Efficient Camera-Space VLAs [[paper](https://arxiv.org/pdf/2507.02190)] 
+
 
 ### 2024
 
