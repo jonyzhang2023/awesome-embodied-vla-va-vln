@@ -46,6 +46,7 @@ However, particularly influential or representative works may be highlighted at 
 ## 💥 Vision Language Action (VLA) Models
 
 ### 2025 
+- [2025] [**Toyota Research Institute**] A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation [[paper](https://arxiv.org/pdf/2507.05331)] [[project](https://toyotaresearchinstitute.github.io/lbm1/)]
 - [2025] UniVLA: Unified Vision-Language-Action Model [[paper](https://arxiv.org/abs/2506.19850)] [[code](https://github.com/baaivision/UniVLA)]
 - [2025] [**Gemini Robotics**] Gemini Robotics On-Device brings AI to local robotic devices [[report](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/)]
 - [2025] [**Meta**] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning [[paper](https://arxiv.org/pdf/2506.09985)] [[project](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)] [[code](https://github.com/facebookresearch/vjepa2)]
