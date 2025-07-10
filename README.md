@@ -439,7 +439,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy [[paper](https://arxiv.org/pdf/2506.20668)] [[project](https://demodiffusion.github.io/)]
 - [2025] World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.23919)] [[project](https://world4omni.github.io/)]
 - [2025] ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation [[paper](https://arxiv.org/pdf/2506.15953)] [[project](https://github.com/RoboVerseOrg/ViTacFormer)]
-- [2025] Spatial-Temporal Aware Visuomotor Diffusion Policy Learning [[paper](https://arxiv.org/pdf/2507.06710)] [[project](https://zhenyangliu.github.io/DP4/)]
+- [2025] [**ICCV 25**] Spatial-Temporal Aware Visuomotor Diffusion Policy Learning [[paper](https://arxiv.org/pdf/2507.06710)] [[project](https://zhenyangliu.github.io/DP4/)]
 
 
 ### 2024
