@@ -238,6 +238,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025
 
+- [2025] LOVON: Legged Open-Vocabulary Object Navigator [[paper](https://arxiv.org/pdf/2507.06747)] [[project](https://daojiepeng.github.io/LOVON/)]
 - [2025] [**IJRR 25**] Multimodal Spatial Language Maps for Robot Navigation and Manipulation [[paper](https://arxiv.org/pdf/2506.06862)] [[project](https://mslmaps.github.io/)]
 - [2025] [**RSS 25**] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[paper](https://arxiv.org/pdf/2412.04453)] [[project](https://navila-bot.github.io/)]
 - [2025] Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation [[paper](https://arxiv.org/pdf/2504.19322)] [[project](https://github.com/leggedrobotics/fdm)]
@@ -438,6 +439,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy [[paper](https://arxiv.org/pdf/2506.20668)] [[project](https://demodiffusion.github.io/)]
 - [2025] World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.23919)] [[project](https://world4omni.github.io/)]
 - [2025] ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation [[paper](https://arxiv.org/pdf/2506.15953)] [[project](https://github.com/RoboVerseOrg/ViTacFormer)]
+- [2025] Spatial-Temporal Aware Visuomotor Diffusion Policy Learning [[paper](https://arxiv.org/pdf/2507.06710)] [[project](https://zhenyangliu.github.io/DP4/)]
+
 
 ### 2024
 
