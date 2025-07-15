@@ -18,6 +18,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ## 📚 Survey
 
+- [2025] Foundation Model Driven Robotics: A Comprehensive Review [[paper](https://arxiv.org/pdf/2507.10087)]
 - [2025] [**PKU-PsiBot**] A Survey on Vision-Language-Action Models: An Action Tokenization Perspective [[paper](https://arxiv.org/pdf/2507.01925)]
 - [2025] A Survey on Vision-Language-Action Models for Autonomous Driving [[paper](https://arxiv.org/pdf/2506.24044)] [[project](https://github.com/JohnsonJiang1996/Awesome-VLA4AD)]  
 - [2025] Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends [[paper](https://arxiv.org/pdf/2506.20966)] [[project](https://github.com/AoqunJin/Awesome-VLA-Post-Training)]  
@@ -172,6 +173,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] [**ICCV 25**] DexVLG: Dexterous Vision-Language-Grasp Model at Scale [[paper](https://arxiv.org/pdf/2507.02747)] [[project](https://jiaweihe.com/dexvlg)]
 - [2025] cVLA: Towards Efficient Camera-Space VLAs [[paper](https://arxiv.org/pdf/2507.02190)] 
 - [2025] VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting [[paper](https://arxiv.org/pdf/2507.05116v1)] [[project](https://github.com/LukeLIN-web/VOTE)]
+- [2025] Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization [[paper](https://arxiv.org/pdf/2507.09160)]
+
 
 ### 2024
 
@@ -441,6 +444,10 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation [[paper](https://arxiv.org/pdf/2506.15953)] [[project](https://github.com/RoboVerseOrg/ViTacFormer)]
 - [2025] [**ICCV 25**] Spatial-Temporal Aware Visuomotor Diffusion Policy Learning [[paper](https://arxiv.org/pdf/2507.06710)] [[project](https://zhenyangliu.github.io/DP4/)]
 - [2025] Reinforcement Learning with Action Chunking [[paper](https://arxiv.org/pdf/2507.07969)] [[project](https://github.com/ColinQiyangLi/qc)]
+- [2025] Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation [[paper](https://arxiv.org/pdf/2507.10543)] [[project](https://mp1-2254.github.io/)]
+
+
+
 
 ### 2024
 
