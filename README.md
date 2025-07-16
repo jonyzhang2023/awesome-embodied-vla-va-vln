@@ -445,7 +445,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] [**ICCV 25**] Spatial-Temporal Aware Visuomotor Diffusion Policy Learning [[paper](https://arxiv.org/pdf/2507.06710)] [[project](https://zhenyangliu.github.io/DP4/)]
 - [2025] Reinforcement Learning with Action Chunking [[paper](https://arxiv.org/pdf/2507.07969)] [[project](https://github.com/ColinQiyangLi/qc)]
 - [2025] Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation [[paper](https://arxiv.org/pdf/2507.10543)] [[project](https://mp1-2254.github.io/)]
-
+- [2025] Diffusion-Based Imaginative Coordination for Bimanual Manipulation [[paper](https://arxiv.org/pdf/2507.11296)] [[project](https://github.com/return-sleep/Diffusion_based_imaginative_Coordination)]
 
 
 
