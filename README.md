@@ -174,7 +174,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] cVLA: Towards Efficient Camera-Space VLAs [[paper](https://arxiv.org/pdf/2507.02190)] 
 - [2025] VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting [[paper](https://arxiv.org/pdf/2507.05116v1)] [[project](https://github.com/LukeLIN-web/VOTE)]
 - [2025] Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization [[paper](https://arxiv.org/pdf/2507.09160)]
-
+- [2025] EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos [[paper](https://arxiv.org/pdf/2507.12440)] [[project](https://rchalyang.github.io/EgoVLA/)]
 
 ### 2024
 
