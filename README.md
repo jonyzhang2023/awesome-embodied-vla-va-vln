@@ -13,6 +13,7 @@ Let's build a comprehensive resource for the robotics and AI community!
 
 Within each year section, papers are generally listed in reverse chronological order (newer papers appear lower in the list).  
 However, particularly influential or representative works may be highlighted at the top of each year's section, regardless of their exact publication date.  
+ 🔥 means hot projects **with open-source codes**.
 
 
 
@@ -53,7 +54,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] [**Meta**] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning [[paper](https://arxiv.org/pdf/2506.09985)] [[project](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)] [[code](https://github.com/facebookresearch/vjepa2)]
 - [2025] [**Physical Intelligence**] Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better [[paper](https://arxiv.org/pdf/2505.23705)] [[project](https://pi.website/research/knowledge_insulation)]
 - [2025] [**Physical Intelligence**] π0.5: A Vision-Language-Action Model with Open-World Generalization [[paper](https://arxiv.org/pdf/2504.16054)] [[project](https://www.pi.website/blog/pi05)] 
-- [2025] [**Nvidia**] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://github.com/NVIDIA/Isaac-GR00T)] 
+- [2025] [**Nvidia**] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[code](https://github.com/NVIDIA/Isaac-GR00T)] 
 - [2025] [**Gemini Robotics**] Gemini Robotics: Bringing AI into the Physical World [[report](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf)]
 - [2025] [**AgiBot**] AgiBot World Colosseo: Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[paper](https://agibot-world.com/blog/agibot_go1.pdf)] [[project](https://agibot-world.com/blog/go1)] 
 - [2025] [**PsiBot**] DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping [[paper](https://arxiv.org/pdf/2502.20900)] [[project](https://dexgraspvla.github.io/)] 
@@ -144,7 +145,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.03574)] [[project](https://switchvla.github.io/)]
 - [2025] OG-VLA: 3D-Aware Vision Language Action Model via Orthographic Image Generation [[paper](https://arxiv.org/pdf/2506.01196)] [[project](https://og-vla.github.io/)]
 - [2025] LoHoVLA: A  Vision-Language-Action Model for Long-Horizon Embodied Tasks [[paper](https://arxiv.org/pdf/2506.00411)]
-- [2025] SmolVLA: A vision-language-action model for affordable and efficient robotics [[paper](https://arxiv.org/pdf/2506.01844)] [[project](https://github.com/huggingface/lerobot)]
+- [2025]  🔥SmolVLA: A vision-language-action model for affordable and efficient robotics [[paper](https://arxiv.org/pdf/2506.01844)] [[code](https://github.com/huggingface/lerobot)]
 - [2025] VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.18719)] [[project](https://github.com/GuanxingLu/vlarl)]
 - [2025] Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[project](https://github.com/PRIME-RL/SimpleVLA-RL)]
 - [2025] BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation [[paper](https://arxiv.org/pdf/2506.07530)] [[project](https://github.com/ustcwhy/BitVLA)]
@@ -177,10 +178,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos [[paper](https://arxiv.org/pdf/2507.12440)] [[project](https://rchalyang.github.io/EgoVLA/)]
 
 ### 2024
-
 - [2024] [**Physical Intelligence**] π0: A Vision-Language-Action Flow Model for General Robot Control [[paper](https://www.physicalintelligence.company/download/pi0.pdf)]
-- [2024] [**ICLR 25**] RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[paper](https://arxiv.org/pdf/2410.07864)] [[project](https://rdt-robotics.github.io/rdt-robotics/)]
-- [2024] [**CoRL 24**] OpenVLA: An Open-Source Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2406.09246)] [[project](https://openvla.github.io/)]
+- [2024] 🔥[**ICLR 25**] RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[paper](https://arxiv.org/pdf/2410.07864)] [[project](https://rdt-robotics.github.io/rdt-robotics/)]
+- [2024] 🔥[**CoRL 24**] OpenVLA: An Open-Source Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2406.09246)] [[project](https://openvla.github.io/)][[code](https://github.com/openvla/openvla)]
 - [2024] MiniVLA: A Better VLA with a Smaller Footprint [[paper](https://ai.stanford.edu/blog/minivla/)] [[project](https://github.com/Stanford-ILIAD/openvla-mini)]
 - [2024] [**RSS 24**] Octo: An Open-Source Generalist Robot Policy [[paper](https://arxiv.org/pdf/2405.12213)] [[project](https://octo-models.github.io/)]
 - [2024] [**ICRA 24 Best Paper**] Open X-Embodiment: Robotic Learning Datasets and RT-X Models [[paper](https://arxiv.org/pdf/2310.08864)] [[project](https://robotics-transformer-x.github.io/)]
@@ -188,7 +188,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2024] Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models [[paper](https://arxiv.org/abs/2412.14058)]
 - [2024] Baku: An Efficient Transformer for Multi-Task Policy Learning [[paper](https://arxiv.org/pdf/2406.07539v1)]
 - [2024] Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals [[paper](https://arxiv.org/pdf/2407.05996)]
-- [2024] TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation [[paper](https://arxiv.org/pdf/2409.12514)]
+- [2024] 🔥TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation [[paper](https://arxiv.org/pdf/2409.12514)][[code](https://github.com/liyaxuanliyaxuan/TinyVLA)]
 - [2024] Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression [[paper](https://arxiv.org/pdf/2412.03293)]
 - [2024] CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation [[paper](https://www.arxiv.org/pdf/2411.19650)]
 - [2024] 3D-VLA: A 3D Vision-Language-Action Generative World Model [[paper](https://arxiv.org/pdf/2403.09631)]
@@ -244,6 +244,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] LOVON: Legged Open-Vocabulary Object Navigator [[paper](https://arxiv.org/pdf/2507.06747)] [[project](https://daojiepeng.github.io/LOVON/)]
 - [2025] [**IJRR 25**] Multimodal Spatial Language Maps for Robot Navigation and Manipulation [[paper](https://arxiv.org/pdf/2506.06862)] [[project](https://mslmaps.github.io/)]
 - [2025] [**RSS 25**] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[paper](https://arxiv.org/pdf/2412.04453)] [[project](https://navila-bot.github.io/)]
+- [2025] 🔥[**RSS 25**]SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Models [[paper](https://arxiv.org/pdf/2501.15830)] [[code](https://github.com/SpatialVLA/SpatialVLA)]
 - [2025] Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation [[paper](https://arxiv.org/pdf/2504.19322)] [[project](https://github.com/leggedrobotics/fdm)]
 - [2025] Semantic Mapping in Indoor Embodied AI - A Comprehensive Survey and Future Directions [[paper](https://arxiv.org/pdf/2501.05750)]
 - [2025] VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning [[paper](https://arxiv.org/pdf/2502.00931)]
@@ -301,7 +302,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Modality-Composable Diffusion Policy via Inference-Time Distribution-level Composition [[paper](https://arxiv.org/pdf/2503.12466)] [[project](https://github.com/AndyCao1125/MCDP)] 
 - [2025] Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning [[paper](https://arxiv.org/pdf/2503.04877)] [[project](https://www.pair.toronto.edu/Adapt3R/)] 
 - [2025] BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [[paper](https://arxiv.org/pdf/2503.05652)] [[project](https://behavior-robot-suite.github.io/)] 
-- [2025] [**RSS 25**] Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)] 
+- [2025] 🔥[**RSS 25**] Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)] [[code](https://github.com/xiaoxiaoxh/reactive_diffusion_policy)]
 - [2025] Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics [[paper](https://arxiv.org/pdf/2501.10100)]
 - [2025] You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations [[paper](https://arxiv.org/pdf/2501.14208)]
 - [2025] ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills [[paper](https://arxiv.org/pdf/2502.01143)]
