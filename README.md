@@ -47,6 +47,9 @@ However, particularly influential or representative works may be highlighted at 
 ## 💥 Vision Language Action (VLA) Models
 
 ### 2025 
+
+
+- [2025] [**ByteDance Seed**] GR-3 Technical Report [[paper](https://arxiv.org/pdf/2507.15493)] [[project](https://seed.bytedance.com/GR3)]
 - [2025] [**Toyota Research Institute**] A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation [[paper](https://arxiv.org/pdf/2507.05331)] [[project](https://toyotaresearchinstitute.github.io/lbm1/)]
 - [2025] UniVLA: Unified Vision-Language-Action Model [[paper](https://arxiv.org/abs/2506.19850)] [[code](https://github.com/baaivision/UniVLA)]
 - [2025] [**Gemini Robotics**] Gemini Robotics On-Device brings AI to local robotic devices [[report](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/)]
@@ -176,7 +179,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization [[paper](https://arxiv.org/pdf/2507.09160)]
 - [2025] EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos [[paper](https://arxiv.org/pdf/2507.12440)] [[project](https://rchalyang.github.io/EgoVLA/)]
 - [2025] [**ICCV 25**] CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games [[paper](https://arxiv.org/pdf/2503.09527)] [[project](https://combatvla.github.io/)]
-
+- [2025] Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos [[paper](https://arxiv.org/pdf/2507.15597)] [[project](https://beingbeyond.github.io/Being-H0/)] [[code](https://github.com/BeingBeyond/Being-H0)]
 
 ### 2024
 
@@ -448,7 +451,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Reinforcement Learning with Action Chunking [[paper](https://arxiv.org/pdf/2507.07969)] [[project](https://github.com/ColinQiyangLi/qc)]
 - [2025] Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation [[paper](https://arxiv.org/pdf/2507.10543)] [[project](https://mp1-2254.github.io/)]
 - [2025] Diffusion-Based Imaginative Coordination for Bimanual Manipulation [[paper](https://arxiv.org/pdf/2507.11296)] [[project](https://github.com/return-sleep/Diffusion_based_imaginative_Coordination)]
-
+- [2025] Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers [[paper](https://arxiv.org/pdf/2507.15833)] [[project](https://ian-chuang.github.io/gaze-av-aloha/)]
 
 
 ### 2024
