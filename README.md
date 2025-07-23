@@ -299,6 +299,8 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025
 
+
+- [2025] VITA: Vision-To-Action Flow Matching Policy [[paper](https://arxiv.org/pdf/2507.13231)] [[project](https://ucd-dare.github.io/VITA/)]
 - [2025] Steering Your Diffusion Policy with Latent Space Reinforcement Learning [[paper](https://arxiv.org/pdf/2506.15799)] [[project](https://diffusion-steering.github.io/)]
 - [2025] [**ByteDance Seed**] Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.09990)] [[project](https://chain-of-action.github.io/)]
 - [2025] [**RSS 25**] Unified Video Action Model [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)] 
