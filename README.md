@@ -586,6 +586,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models [[paper](https://arxiv.org/pdf/2506.21627)]
 - [2025] RoboPearls: Editable Video Simulation for Robot Manipulation [[paper](https://arxiv.org/pdf/2506.22756)] [[project](https://tangtaogo.github.io/RoboPearls/)] 
 - [2025] RoboBrain 2.0 Technical Report [[paper](https://arxiv.org/pdf/2507.02029)] [[project](https://superrobobrain.github.io/)]
+- [2025] Experience is the Best Teacher: Grounding VLMs for Robotics through Self-Generated Memory [[paper](https://arxiv.org/pdf/2507.16713)]
 
 
 ### 2024
