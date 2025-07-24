@@ -180,6 +180,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos [[paper](https://arxiv.org/pdf/2507.12440)] [[project](https://rchalyang.github.io/EgoVLA/)]
 - [2025] [**ICCV 25**] CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games [[paper](https://arxiv.org/pdf/2503.09527)] [[project](https://combatvla.github.io/)]
 - [2025] Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos [[paper](https://arxiv.org/pdf/2507.15597)] [[project](https://beingbeyond.github.io/Being-H0/)] [[code](https://github.com/BeingBeyond/Being-H0)]
+- [2025] Vision-Language-Action Instruction Tuning: From Understanding to Manipulation [[paper](https://arxiv.org/pdf/2507.17520)] [[project](https://yangs03.github.io/InstructVLA_Home/)]
+- [2025] VLA-Touch: Enhancing Vision-Language-Action Models with Dual-Level Tactile Feedback [[paper](https://arxiv.org/pdf/2507.17294)] [[code](https://github.com/jxbi1010/VLA-Touch)]
+
 
 ### 2024
 
