@@ -457,7 +457,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation [[paper](https://arxiv.org/pdf/2507.10543)] [[project](https://mp1-2254.github.io/)]
 - [2025] Diffusion-Based Imaginative Coordination for Bimanual Manipulation [[paper](https://arxiv.org/pdf/2507.11296)] [[project](https://github.com/return-sleep/Diffusion_based_imaginative_Coordination)]
 - [2025] Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers [[paper](https://arxiv.org/pdf/2507.15833)] [[project](https://ian-chuang.github.io/gaze-av-aloha/)]
-
+- [2025] PinchBot: Long-Horizon Deformable Manipulation with Guided Diffusion Policy [[paper](https://arxiv.org/pdf/2507.17846)] [[project](https://sites.google.com/andrew.cmu.edu/pinchbot/home)]
 
 ### 2024
 
@@ -590,7 +590,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] RoboPearls: Editable Video Simulation for Robot Manipulation [[paper](https://arxiv.org/pdf/2506.22756)] [[project](https://tangtaogo.github.io/RoboPearls/)] 
 - [2025] RoboBrain 2.0 Technical Report [[paper](https://arxiv.org/pdf/2507.02029)] [[project](https://superrobobrain.github.io/)]
 - [2025] Experience is the Best Teacher: Grounding VLMs for Robotics through Self-Generated Memory [[paper](https://arxiv.org/pdf/2507.16713)]
-
+- [2025] OpenNav: Open-World Navigation with Multimodal Large Language Models [[paper](https://arxiv.org/pdf/2507.18033)] [[project](https://trailab.github.io/OpenNav-website/)]
 
 ### 2024
 
