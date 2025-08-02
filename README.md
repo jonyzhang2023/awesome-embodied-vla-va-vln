@@ -183,6 +183,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Vision-Language-Action Instruction Tuning: From Understanding to Manipulation [[paper](https://arxiv.org/pdf/2507.17520)] [[project](https://yangs03.github.io/InstructVLA_Home/)]
 - [2025] VLA-Touch: Enhancing Vision-Language-Action Models with Dual-Level Tactile Feedback [[paper](https://arxiv.org/pdf/2507.17294)] [[code](https://github.com/jxbi1010/VLA-Touch)]
 - [2025] H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation [[paper](https://arxiv.org/pdf/2507.23523v1)] [[project](https://embodiedfoundation.github.io/hrdt)] [[code](https://github.com/HongzheBi/H_RDT)]
+- [2025] Pixel Motion as Universal Representation for Robot Control [[paper](https://arxiv.org/pdf/2505.07817)] [[project](https://kahnchana.github.io/LangToMo/)] [[code](https://github.com/kahnchana/LangToMo)]
+
 
 ### 2024
 
