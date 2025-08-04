@@ -460,6 +460,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Diffusion-Based Imaginative Coordination for Bimanual Manipulation [[paper](https://arxiv.org/pdf/2507.11296)] [[project](https://github.com/return-sleep/Diffusion_based_imaginative_Coordination)]
 - [2025] Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers [[paper](https://arxiv.org/pdf/2507.15833)] [[project](https://ian-chuang.github.io/gaze-av-aloha/)]
 - [2025] PinchBot: Long-Horizon Deformable Manipulation with Guided Diffusion Policy [[paper](https://arxiv.org/pdf/2507.17846)] [[project](https://sites.google.com/andrew.cmu.edu/pinchbot/home)]
+- [2025] Video Generators Are Robot Policies [[paper](https://arxiv.org/pdf/2406.16862)] [[project](https://videopolicy.cs.columbia.edu/)] [[code](https://github.com/cvlab-columbia/videopolicy)]
+
 
 ### 2024
 
