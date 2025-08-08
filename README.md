@@ -48,7 +48,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025 
 
-
+- [2025] [**AgiBot**] Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation [[paper](https://arxiv.org/pdf/2508.05635)] [[project](https://genie-envisioner.github.io/)] [[code](https://github.com/AgibotTech/Genie-Envisioner)]
 - [2025] [**ByteDance Seed**] GR-3 Technical Report [[paper](https://arxiv.org/pdf/2507.15493)] [[project](https://seed.bytedance.com/GR3)]
 - [2025] [**Toyota Research Institute**] A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation [[paper](https://arxiv.org/pdf/2507.05331)] [[project](https://toyotaresearchinstitute.github.io/lbm1/)]
 - [2025] UniVLA: Unified Vision-Language-Action Model [[paper](https://arxiv.org/abs/2506.19850)] [[code](https://github.com/baaivision/UniVLA)]
@@ -461,7 +461,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers [[paper](https://arxiv.org/pdf/2507.15833)] [[project](https://ian-chuang.github.io/gaze-av-aloha/)]
 - [2025] PinchBot: Long-Horizon Deformable Manipulation with Guided Diffusion Policy [[paper](https://arxiv.org/pdf/2507.17846)] [[project](https://sites.google.com/andrew.cmu.edu/pinchbot/home)]
 - [2025] Video Generators Are Robot Policies [[paper](https://arxiv.org/pdf/2406.16862)] [[project](https://videopolicy.cs.columbia.edu/)] [[code](https://github.com/cvlab-columbia/videopolicy)]
-
+- [2025] [**IROS 25**] Real-time Iteration Scheme for Diffusion Policy [[paper](https://arxiv.org/pdf/2508.05396)] [[project](https://rti-dp.github.io/)] [[code](https://github.com/RTI-DP/rti-dp/)]
 
 ### 2024
 
