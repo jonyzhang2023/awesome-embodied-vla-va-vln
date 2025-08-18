@@ -18,6 +18,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ## 📚 Survey
 
+- [2025] Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning [[paper](https://arxiv.org/pdf/2508.10399)]
 - [2025] Foundation Model Driven Robotics: A Comprehensive Review [[paper](https://arxiv.org/pdf/2507.10087)]
 - [2025] [**PKU-PsiBot**] A Survey on Vision-Language-Action Models: An Action Tokenization Perspective [[paper](https://arxiv.org/pdf/2507.01925)]
 - [2025] A Survey on Vision-Language-Action Models for Autonomous Driving [[paper](https://arxiv.org/pdf/2506.24044)] [[project](https://github.com/JohnsonJiang1996/Awesome-VLA4AD)]  
@@ -185,6 +186,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation [[paper](https://arxiv.org/pdf/2507.23523v1)] [[project](https://embodiedfoundation.github.io/hrdt)] [[code](https://github.com/HongzheBi/H_RDT)]
 - [2025] Pixel Motion as Universal Representation for Robot Control [[paper](https://arxiv.org/pdf/2505.07817)] [[project](https://kahnchana.github.io/LangToMo/)] [[code](https://github.com/kahnchana/LangToMo)]
 - [2025] villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2507.23682)] [[project](https://aka.ms/villa-x)] [[code](https://github.com/microsoft/villa-x)]
+- [2025] ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver [[paper](https://arxiv.org/pdf/2508.10333)] [[project](https://zionchow.github.io/ReconVLA/)] [[code](https://github.com/Chowzy069/Reconvla)]
+- [2025] GeoVLA: Empowering 3D Representations in Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.09071)] [[project](https://linsun449.github.io/GeoVLA/)] 
 
 ### 2024
 
