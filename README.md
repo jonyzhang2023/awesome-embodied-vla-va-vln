@@ -464,6 +464,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] [**IROS 25**] Real-time Iteration Scheme for Diffusion Policy [[paper](https://arxiv.org/pdf/2508.05396)] [[project](https://rti-dp.github.io/)] [[code](https://github.com/RTI-DP/rti-dp/)]
 - [2025] [**CoRL 25**] DiWA: Diffusion Policy Adaptation with World Models [[paper](https://arxiv.org/pdf/2508.03645)] [[project](https://diwa.cs.uni-freiburg.de/)] [[code](https://github.com/acl21/diwa)]
 - [2025] FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency [[paper](https://arxiv.org/pdf/2506.08822)]
+- [2025] 3D FlowMatch Actor: Unified 3D Policy for Singleand Dual-Arm Manipulation [[paper](https://arxiv.org/pdf/2508.11002)] [[project](https://3d-flowmatch-actor.github.io/)] [[code](https://github.com/nickgkan/3d_flowmatch_actor)]
+
+
 
 ### 2024
 
