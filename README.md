@@ -287,6 +287,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding [[paper](https://arxiv.org/pdf/2506.09839)] [[project](https://zzzzzyh111.github.io/VLFly/)] 
 - [2025] DyNaVLM: Zero-Shot Vision-Language Navigation System with Dynamic Viewpoints and Self-Refining Graph Memory [[paper](https://arxiv.org/pdf/2506.15096)]
 - [2025] TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation  [[paper](https://arxiv.org/pdf/2411.16425)]
+- [2025] CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model [[paper](https://arxiv.org/pdf/2508.10416)] [[project](https://correctnav.github.io/)] 
+
 
 ### 2024
 
