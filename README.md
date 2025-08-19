@@ -188,6 +188,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2507.23682)] [[project](https://aka.ms/villa-x)] [[code](https://github.com/microsoft/villa-x)]
 - [2025] ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver [[paper](https://arxiv.org/pdf/2508.10333)] [[project](https://zionchow.github.io/ReconVLA/)] [[code](https://github.com/Chowzy069/Reconvla)]
 - [2025] GeoVLA: Empowering 3D Representations in Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.09071)] [[project](https://linsun449.github.io/GeoVLA/)] 
+- [2025] Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy [[paper](https://arxiv.org/pdf/2508.13103)] 
+
 
 ### 2024
 
@@ -470,7 +472,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] [**CoRL 25**] DiWA: Diffusion Policy Adaptation with World Models [[paper](https://arxiv.org/pdf/2508.03645)] [[project](https://diwa.cs.uni-freiburg.de/)] [[code](https://github.com/acl21/diwa)]
 - [2025] FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency [[paper](https://arxiv.org/pdf/2506.08822)]
 - [2025] 3D FlowMatch Actor: Unified 3D Policy for Singleand Dual-Arm Manipulation [[paper](https://arxiv.org/pdf/2508.11002)] [[project](https://3d-flowmatch-actor.github.io/)] [[code](https://github.com/nickgkan/3d_flowmatch_actor)]
-
+- [2025] Self-Guided Action Diffusion [[paper](https://arxiv.org/pdf/2508.12189)] [[project](https://rhea-mal.github.io/selfgad.github.io/)] [[code](https://github.com/rhea-mal/guided_bid)]
 
 
 ### 2024
@@ -605,6 +607,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] RoboBrain 2.0 Technical Report [[paper](https://arxiv.org/pdf/2507.02029)] [[project](https://superrobobrain.github.io/)]
 - [2025] Experience is the Best Teacher: Grounding VLMs for Robotics through Self-Generated Memory [[paper](https://arxiv.org/pdf/2507.16713)]
 - [2025] OpenNav: Open-World Navigation with Multimodal Large Language Models [[paper](https://arxiv.org/pdf/2507.18033)] [[project](https://trailab.github.io/OpenNav-website/)]
+- [2025] Has GPT-5 Achieved Spatial Intelligence? An Empirical Study [[paper](https://arxiv.org/pdf/2508.13142)]
+
 
 ### 2024
 
