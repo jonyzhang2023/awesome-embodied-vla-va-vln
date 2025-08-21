@@ -190,7 +190,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver [[paper](https://arxiv.org/pdf/2508.10333)] [[project](https://zionchow.github.io/ReconVLA/)] [[code](https://github.com/Chowzy069/Reconvla)]
 - [2025] GeoVLA: Empowering 3D Representations in Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.09071)] [[project](https://linsun449.github.io/GeoVLA/)] 
 - [2025] Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy [[paper](https://arxiv.org/pdf/2508.13103)] 
-
+- [2025] Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation [[paper](https://arxiv.org/pdf/2508.13998)] [[project](https://embodied-r1.github.io/)] [[code](https://github.com/pickxiguapi/Embodied-R1)]
 
 ### 2024
 
@@ -474,7 +474,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency [[paper](https://arxiv.org/pdf/2506.08822)]
 - [2025] 3D FlowMatch Actor: Unified 3D Policy for Singleand Dual-Arm Manipulation [[paper](https://arxiv.org/pdf/2508.11002)] [[project](https://3d-flowmatch-actor.github.io/)] [[code](https://github.com/nickgkan/3d_flowmatch_actor)]
 - [2025] Self-Guided Action Diffusion [[paper](https://arxiv.org/pdf/2508.12189)] [[project](https://rhea-mal.github.io/selfgad.github.io/)] [[code](https://github.com/rhea-mal/guided_bid)]
-
+- [2025] FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy [[paper](https://arxiv.org/pdf/2508.14441)] [[project](https://sites.google.com/view/dex-fbi)]
 
 ### 2024
 
