@@ -256,7 +256,7 @@ However, particularly influential or representative works may be highlighted at 
 ## 🚶 Vision Language Navigation (VLN) Models
 
 ### 2025
-
+- [2025] [**RA-L 25**] ApexNav: An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion [[paper](https://arxiv.org/abs/2504.14478)] [[project](https://robotics-star.com/ApexNav)]
 - [2025] LOVON: Legged Open-Vocabulary Object Navigator [[paper](https://arxiv.org/pdf/2507.06747)] [[project](https://daojiepeng.github.io/LOVON/)]
 - [2025] [**IJRR 25**] Multimodal Spatial Language Maps for Robot Navigation and Manipulation [[paper](https://arxiv.org/pdf/2506.06862)] [[project](https://mslmaps.github.io/)]
 - [2025] [**RSS 25**] NaVILA: Legged Robot Vision-Language-Action Model for Navigation [[paper](https://arxiv.org/pdf/2412.04453)] [[project](https://navila-bot.github.io/)]
