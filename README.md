@@ -475,6 +475,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] 3D FlowMatch Actor: Unified 3D Policy for Singleand Dual-Arm Manipulation [[paper](https://arxiv.org/pdf/2508.11002)] [[project](https://3d-flowmatch-actor.github.io/)] [[code](https://github.com/nickgkan/3d_flowmatch_actor)]
 - [2025] Self-Guided Action Diffusion [[paper](https://arxiv.org/pdf/2508.12189)] [[project](https://rhea-mal.github.io/selfgad.github.io/)] [[code](https://github.com/rhea-mal/guided_bid)]
 - [2025] FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy [[paper](https://arxiv.org/pdf/2508.14441)] [[project](https://sites.google.com/view/dex-fbi)]
+- [2025] Spatial Policy: Guiding Visuomotor Robotic Manipulation with Spatial-Aware Modeling and Reasoning [[paper](https://arxiv.org/pdf/2508.15874)] [[project](https://plantpotatoonmoon.github.io/SpatialPolicy/)] [[code](https://github.com/PlantPotatoOnMoon/SpatialPolicy)]
 
 ### 2024
 
