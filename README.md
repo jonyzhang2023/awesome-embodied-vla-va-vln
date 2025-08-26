@@ -191,7 +191,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] GeoVLA: Empowering 3D Representations in Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.09071)] [[project](https://linsun449.github.io/GeoVLA/)] 
 - [2025] Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy [[paper](https://arxiv.org/pdf/2508.13103)] 
 - [2025] Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation [[paper](https://arxiv.org/pdf/2508.13998)] [[project](https://embodied-r1.github.io/)] [[code](https://github.com/pickxiguapi/Embodied-R1)]
+- [2025] FlowVLA: Thinking in Motion with a Visual Chain of Thought [[paper](https://arxiv.org/pdf/2508.18269)] [[project](https://irpn-lab.github.io/FlowVLA/)]
 
+  
 ### 2024
 
 - [2024] [**Physical Intelligence**] π0: A Vision-Language-Action Flow Model for General Robot Control [[paper](https://www.physicalintelligence.company/download/pi0.pdf)]
