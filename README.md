@@ -223,7 +223,6 @@ However, particularly influential or representative works may be highlighted at 
 - [2024] Latent Action Pretraining from Videos [[paper](https://arxiv.org/pdf/2410.11758)]
 - [2024] DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution [[paper](https://arxiv.org/pdf/2411.02359)]
 - [2024] RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation [[paper](https://arxiv.org/pdf/2411.02704)]
-- [2024] Moto: Latent Motion Token as the Bridging Language for Robot Manipulation [[paper](https://arxiv.org/pdf/2412.04445)]
 - [2024] TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [[paper](https://arxiv.org/pdf/2412.10345)]
 - [2024] Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments [[paper](https://arxiv.org/pdf/2409.05865)]
 - [2024] Moto: Latent Motion Token as the Bridging Language for Robot Manipulation [[paper](https://arxiv.org/pdf/2412.04445)]
