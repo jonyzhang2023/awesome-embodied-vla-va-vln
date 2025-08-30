@@ -192,6 +192,10 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy [[paper](https://arxiv.org/pdf/2508.13103)] 
 - [2025] Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation [[paper](https://arxiv.org/pdf/2508.13998)] [[project](https://embodied-r1.github.io/)] [[code](https://github.com/pickxiguapi/Embodied-R1)]
 - [2025] FlowVLA: Thinking in Motion with a Visual Chain of Thought [[paper](https://arxiv.org/pdf/2508.18269)] [[project](https://irpn-lab.github.io/FlowVLA/)]
+- [2025] CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification [[paper](https://arxiv.org/pdf/2508.21046)] [[project](https://jiutian-vl.github.io/CogVLA-page/)] [[code](https://github.com/JiuTian-VL/CogVLA)]
+- [2025] [**CoRL 25**] Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation [[paper](https://arxiv.org/pdf/2508.19958)] [[project](https://long-vla.github.io/)]
+- [2025] Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies [[paper](https://arxiv.org/pdf/2508.20072)]
+- [2025] TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.19257)]
 
   
 ### 2024
