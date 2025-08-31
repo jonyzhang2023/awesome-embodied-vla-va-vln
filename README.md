@@ -50,6 +50,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025 
 
+- [2025] [**CoRL**] GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data [[project](https://pku-epic.github.io/GraspVLA-web/)] [[paper](https://arxiv.org/pdf/2505.03233)] [[code](https://github.com/PKU-EPIC/GraspVLA)]
 - [2025] [**AgiBot**] Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation [[paper](https://arxiv.org/pdf/2508.05635)] [[project](https://genie-envisioner.github.io/)] [[code](https://github.com/AgibotTech/Genie-Envisioner)]
 - [2025] [**ByteDance Seed**] GR-3 Technical Report [[paper](https://arxiv.org/pdf/2507.15493)] [[project](https://seed.bytedance.com/GR3)]
 - [2025] [**Toyota Research Institute**] A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation [[paper](https://arxiv.org/pdf/2507.05331)] [[project](https://toyotaresearchinstitute.github.io/lbm1/)]
