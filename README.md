@@ -197,6 +197,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] [**CoRL 25**] Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation [[paper](https://arxiv.org/pdf/2508.19958)] [[project](https://long-vla.github.io/)]
 - [2025] Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies [[paper](https://arxiv.org/pdf/2508.20072)]
 - [2025] TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.19257)]
+- [2025] EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control [[paper](https://arxiv.org/pdf/2508.21112)] [[project](https://eo-robotics.ai/eo-1)] [[code](https://github.com/eo-robotics/EO-1)]
+- [2025] Galaxea Open-World Dataset and G0 Dual-System VLA Model [[paper](https://arxiv.org/pdf/2509.00576)] [[project](https://opengalaxea.github.io/G0/)] [[code](https://github.com/OpenGalaxea/G0)]
+
 
   
 ### 2024
