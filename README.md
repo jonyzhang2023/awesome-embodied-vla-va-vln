@@ -690,6 +690,7 @@ However, particularly influential or representative works may be highlighted at 
 
 
 ## Related Works
+- Awesome-VLA-Robotics [[repo](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics)]
 - Awesome-VLA-RL [[repo](https://github.com/XiaoWei-i/Awesome-VLA-RL)]
 - Awesome-Robotics-Foundation-Models [[repo](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
 - Awesome VLA for Robotics [[repo](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics)]
