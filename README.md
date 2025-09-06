@@ -199,7 +199,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.19257)]
 - [2025] EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control [[paper](https://arxiv.org/pdf/2508.21112)] [[project](https://eo-robotics.ai/eo-1)] [[code](https://github.com/eo-robotics/EO-1)]
 - [2025] Galaxea Open-World Dataset and G0 Dual-System VLA Model [[paper](https://arxiv.org/pdf/2509.00576)] [[project](https://opengalaxea.github.io/G0/)] [[code](https://github.com/OpenGalaxea/G0)]
-
+- [2025] FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction [[paper](https://arxiv.org/pdf/2509.04018)] [[project](https://fpcvla.github.io/)]
 
   
 ### 2024
