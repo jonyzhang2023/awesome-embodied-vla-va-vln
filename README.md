@@ -200,6 +200,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control [[paper](https://arxiv.org/pdf/2508.21112)] [[project](https://eo-robotics.ai/eo-1)] [[code](https://github.com/eo-robotics/EO-1)]
 - [2025] Galaxea Open-World Dataset and G0 Dual-System VLA Model [[paper](https://arxiv.org/pdf/2509.00576)] [[project](https://opengalaxea.github.io/G0/)] [[code](https://github.com/OpenGalaxea/G0)]
 - [2025] FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction [[paper](https://arxiv.org/pdf/2509.04018)] [[project](https://fpcvla.github.io/)]
+- [2025] F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions [[paper](https://arxiv.org/pdf/2509.06951)] [[project](https://aopolin-lv.github.io/F1-VLA.github.io)] [[code](https://github.com/InternRobotics/F1-VLA)]
+- [2025] LLaDA-VLA: Vision Language Diffusion Action Models [[paper](https://arxiv.org/pdf/2509.06932)] [[project](https://wenyuqing.github.io/llada-vla/)]
 
   
 ### 2024
@@ -486,6 +488,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Self-Guided Action Diffusion [[paper](https://arxiv.org/pdf/2508.12189)] [[project](https://rhea-mal.github.io/selfgad.github.io/)] [[code](https://github.com/rhea-mal/guided_bid)]
 - [2025] FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy [[paper](https://arxiv.org/pdf/2508.14441)] [[project](https://sites.google.com/view/dex-fbi)]
 - [2025] Spatial Policy: Guiding Visuomotor Robotic Manipulation with Spatial-Aware Modeling and Reasoning [[paper](https://arxiv.org/pdf/2508.15874)] [[project](https://plantpotatoonmoon.github.io/SpatialPolicy/)] [[code](https://github.com/PlantPotatoOnMoon/SpatialPolicy)]
+- [2025] ManipDreamer3D : Synthesizing Plausible Robotic Manipulation Video with Occupancy-aware 3D Trajectory [[paper](https://arxiv.org/pdf/2509.05314)]
+
 
 ### 2024
 
