@@ -202,7 +202,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction [[paper](https://arxiv.org/pdf/2509.04018)] [[project](https://fpcvla.github.io/)]
 - [2025] F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions [[paper](https://arxiv.org/pdf/2509.06951)] [[project](https://aopolin-lv.github.io/F1-VLA.github.io)] [[code](https://github.com/InternRobotics/F1-VLA)]
 - [2025] LLaDA-VLA: Vision Language Diffusion Action Models [[paper](https://arxiv.org/pdf/2509.06932)] [[project](https://wenyuqing.github.io/llada-vla/)]
-
+- [2025] SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning [[paper](https://arxiv.org/pdf/2509.05614)]
+- [2025] OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision [[paper](https://arxiv.org/pdf/2509.05578)]
   
 ### 2024
 
