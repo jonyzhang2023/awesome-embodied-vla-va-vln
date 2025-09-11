@@ -50,6 +50,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025 
 
+- [2025] [**X Square Robot**] Wall-OSS: Igniting VLMs toward the Embodied Space [[project](https://x2robot.com/en/research/68bc2cde8497d7f238dde690)] [[paper](https://x2robot.cn-wlcb.ufileos.com/wall_oss.pdf)] [[code](https://github.com/X-Square-Robot/wall-x)]
 - [2025] [**CoRL**] GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data [[project](https://pku-epic.github.io/GraspVLA-web/)] [[paper](https://arxiv.org/pdf/2505.03233)] [[code](https://github.com/PKU-EPIC/GraspVLA)]
 - [2025] [**AgiBot**] Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation [[paper](https://arxiv.org/pdf/2508.05635)] [[project](https://genie-envisioner.github.io/)] [[code](https://github.com/AgibotTech/Genie-Envisioner)]
 - [2025] [**ByteDance Seed**] GR-3 Technical Report [[paper](https://arxiv.org/pdf/2507.15493)] [[project](https://seed.bytedance.com/GR3)]
@@ -58,7 +59,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] [**Gemini Robotics**] Gemini Robotics On-Device brings AI to local robotic devices [[report](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/)]
 - [2025] [**Meta**] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning [[paper](https://arxiv.org/pdf/2506.09985)] [[project](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)] [[code](https://github.com/facebookresearch/vjepa2)]
 - [2025] [**Physical Intelligence**] Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better [[paper](https://arxiv.org/pdf/2505.23705)] [[project](https://pi.website/research/knowledge_insulation)]
-- [2025] [**Physical Intelligence**] π0.5: A Vision-Language-Action Model with Open-World Generalization [[paper](https://arxiv.org/pdf/2504.16054)] [[project](https://www.pi.website/blog/pi05)] 
+- [2025] [**Physical Intelligence**] π0.5: A Vision-Language-Action Model with Open-World Generalization [[paper](https://arxiv.org/pdf/2504.16054)] [[project](https://www.pi.website/blog/pi05)] [[code](https://github.com/Physical-Intelligence/openpi)]
 - [2025] [**Nvidia**] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://github.com/NVIDIA/Isaac-GR00T)] 
 - [2025] [**Gemini Robotics**] Gemini Robotics: Bringing AI into the Physical World [[report](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf)]
 - [2025] [**AgiBot**] AgiBot World Colosseo: Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[paper](https://agibot-world.com/blog/agibot_go1.pdf)] [[project](https://agibot-world.com/blog/go1)] 
