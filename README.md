@@ -205,6 +205,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] LLaDA-VLA: Vision Language Diffusion Action Models [[paper](https://arxiv.org/pdf/2509.06932)] [[project](https://wenyuqing.github.io/llada-vla/)]
 - [2025] SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning [[paper](https://arxiv.org/pdf/2509.05614)]
 - [2025] OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision [[paper](https://arxiv.org/pdf/2509.05578)]
+- [2025] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning [[paper](https://arxiv.org/pdf/2509.09674)] [[code](https://github.com/PRIME-RL/SimpleVLA-RL)]
+
   
 ### 2024
 
