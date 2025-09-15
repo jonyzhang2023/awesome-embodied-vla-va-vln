@@ -494,7 +494,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] FBI: Learning Dexterous In-hand Manipulation with Dynamic Visuotactile Shortcut Policy [[paper](https://arxiv.org/pdf/2508.14441)] [[project](https://sites.google.com/view/dex-fbi)]
 - [2025] Spatial Policy: Guiding Visuomotor Robotic Manipulation with Spatial-Aware Modeling and Reasoning [[paper](https://arxiv.org/pdf/2508.15874)] [[project](https://plantpotatoonmoon.github.io/SpatialPolicy/)] [[code](https://github.com/PlantPotatoOnMoon/SpatialPolicy)]
 - [2025] ManipDreamer3D : Synthesizing Plausible Robotic Manipulation Video with Occupancy-aware 3D Trajectory [[paper](https://arxiv.org/pdf/2509.05314)]
-
+- [2025]  [**CoRL 25**] CLASS: Contrastive Learning via Action Sequence Supervision for Robot Manipulation [[paper](https://arxiv.org/pdf/2508.01600)] [[project](https://class-robot.github.io/)] [[code](https://github.com/sean1295/CLASS/tree/main)]
 
 ### 2024
 
