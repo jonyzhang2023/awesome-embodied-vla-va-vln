@@ -206,7 +206,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning [[paper](https://arxiv.org/pdf/2509.05614)]
 - [2025] OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision [[paper](https://arxiv.org/pdf/2509.05578)]
 - [2025] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning [[paper](https://arxiv.org/pdf/2509.09674)] [[code](https://github.com/PRIME-RL/SimpleVLA-RL)]
-
+- [2025] VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2509.09372)] [[project](https://vla-adapter.github.io/)]
+- [2025] [**CoRL 25**] TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2509.07962)] [[project](https://zzongzheng0918.github.io/Torque-Aware-VLA.github.io/)]
   
 ### 2024
 
