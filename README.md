@@ -312,7 +312,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model [[paper](https://arxiv.org/pdf/2508.10416)] [[project](https://correctnav.github.io/)] 
 - [2025] [**CoRL 25**] GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2509.10454)] [[project](https://bagh2178.github.io/GC-VLN/)] [[code](https://github.com/bagh2178/GC-VLN)] 
 - [2025] Embodied Navigation Foundation Model [[paper](https://arxiv.org/pdf/2509.12129)] [[project](https://pku-epic.github.io/NavFoM-Web/)]
-
+- [2025] [**CoRL 25**] Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild [[paper](https://arxiv.org/pdf/2505.11350)] [[project](https://search-tta.github.io/)] [[code](https://github.com/marmotlab/Search-TTA-VLN)] 
 
 ### 2024
 
