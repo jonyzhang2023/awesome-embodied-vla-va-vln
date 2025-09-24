@@ -208,6 +208,10 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning [[paper](https://arxiv.org/pdf/2509.09674)] [[code](https://github.com/PRIME-RL/SimpleVLA-RL)]
 - [2025] VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2509.09372)] [[project](https://vla-adapter.github.io/)]
 - [2025] [**CoRL 25**] TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2509.07962)] [[project](https://zzongzheng0918.github.io/Torque-Aware-VLA.github.io/)]
+- [2025] Eva-VLA: Evaluating Vision-Language-Action Models’ Robustness Under Real-World Physical Variations [[paper](https://arxiv.org/pdf/2509.18953)]
+- [2025] Bi-VLA: Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation [[paper](https://arxiv.org/pdf/2509.18865)] [[project](https://mertcookimg.github.io/bi-vla/)]
+
+
   
 ### 2024
 
@@ -497,6 +501,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Spatial Policy: Guiding Visuomotor Robotic Manipulation with Spatial-Aware Modeling and Reasoning [[paper](https://arxiv.org/pdf/2508.15874)] [[project](https://plantpotatoonmoon.github.io/SpatialPolicy/)] [[code](https://github.com/PlantPotatoOnMoon/SpatialPolicy)]
 - [2025] ManipDreamer3D : Synthesizing Plausible Robotic Manipulation Video with Occupancy-aware 3D Trajectory [[paper](https://arxiv.org/pdf/2509.05314)]
 - [2025]  [**CoRL 25**] CLASS: Contrastive Learning via Action Sequence Supervision for Robot Manipulation [[paper](https://arxiv.org/pdf/2508.01600)] [[project](https://class-robot.github.io/)] [[code](https://github.com/sean1295/CLASS/tree/main)]
+- [2025] 3D Flow Diffusion Policy: Visuomotor Policy Learning via Generating Flow in 3D Space [[paper](https://arxiv.org/pdf/2509.18676)] [[project](https://sites.google.com/view/3dfdp/home)]
+
+
 
 ### 2024
 
