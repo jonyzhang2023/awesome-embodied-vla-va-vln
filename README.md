@@ -336,7 +336,8 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025
 
-- [2025] ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training [[paper](https://arxiv.org/pdf/2509.01819)] [[project](https://maniflow-policy.github.io/)] [[code](https://github.com/geyan21/ManiFlow_Policy)] 
+- [2025] [**TRO**] Hierarchical Diffusion Policy: Manipulation Trajectory Generation Via Contact Guidance [[paper](https://arxiv.org/pdf/2411.12982)] [[code](https://github.com/dexin-wang/Hierarchical-Diffusion-Policy)] 
+- [2025] [**CoRL**] ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training [[paper](https://arxiv.org/pdf/2509.01819)] [[project](https://maniflow-policy.github.io/)] [[code](https://github.com/geyan21/ManiFlow_Policy)] 
 - [2025] Flow Matching Policy Gradients [[paper](https://arxiv.org/pdf/2507.21053)] [[project](https://flowreinforce.github.io/)]
 - [2025] VITA: Vision-To-Action Flow Matching Policy [[paper](https://arxiv.org/pdf/2507.13231)] [[project](https://ucd-dare.github.io/VITA/)]
 - [2025] Steering Your Diffusion Policy with Latent Space Reinforcement Learning [[paper](https://arxiv.org/pdf/2506.15799)] [[project](https://diffusion-steering.github.io/)]
