@@ -336,6 +336,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025
 
+- [2025] Compose Your Policies! Improving Diffusion-based or Flow-based Robot Policies via Test-time Distribution-level Composition [[paper](https://arxiv.org/pdf/2510.01068)] [[project](https://sagecao1125.github.io/GPC-Site/)] [[code](https://github.com/SageCao1125/GPC)] 
 - [2025] [**TRO**] Hierarchical Diffusion Policy: Manipulation Trajectory Generation Via Contact Guidance [[paper](https://arxiv.org/pdf/2411.12982)] [[code](https://github.com/dexin-wang/Hierarchical-Diffusion-Policy)] 
 - [2025] [**CoRL**] ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training [[paper](https://arxiv.org/pdf/2509.01819)] [[project](https://maniflow-policy.github.io/)] [[code](https://github.com/geyan21/ManiFlow_Policy)] 
 - [2025] Flow Matching Policy Gradients [[paper](https://arxiv.org/pdf/2507.21053)] [[project](https://flowreinforce.github.io/)]
@@ -343,7 +344,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Steering Your Diffusion Policy with Latent Space Reinforcement Learning [[paper](https://arxiv.org/pdf/2506.15799)] [[project](https://diffusion-steering.github.io/)]
 - [2025] [**ByteDance Seed**] Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.09990)] [[project](https://chain-of-action.github.io/)]
 - [2025] [**RSS 25**] Unified Video Action Model [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)] 
-- [2025] Streaming Flow Policy: Simplifying diffusion/flow-matching policies by treating action trajectories as flow trajectories [[paper](https://arxiv.org/pdf/2505.21851)] [[project](https://siddancha.github.io/streaming-flow-policy/)] 
+- [2025]  [**CoRL 25 Oral**] Streaming Flow Policy: Simplifying diffusion/flow-matching policies by treating action trajectories as flow trajectories [[paper](https://arxiv.org/pdf/2505.21851)] [[project](https://siddancha.github.io/streaming-flow-policy/)] 
 - [2025] Modality-Composable Diffusion Policy via Inference-Time Distribution-level Composition [[paper](https://arxiv.org/pdf/2503.12466)] [[project](https://github.com/AndyCao1125/MCDP)] 
 - [2025] Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning [[paper](https://arxiv.org/pdf/2503.04877)] [[project](https://www.pair.toronto.edu/Adapt3R/)] 
 - [2025] BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [[paper](https://arxiv.org/pdf/2503.05652)] [[project](https://behavior-robot-suite.github.io/)] 
