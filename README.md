@@ -213,7 +213,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Eva-VLA: Evaluating Vision-Language-Action Models’ Robustness Under Real-World Physical Variations [[paper](https://arxiv.org/pdf/2509.18953)]
 - [2025] Bi-VLA: Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation [[paper](https://arxiv.org/pdf/2509.18865)] [[project](https://mertcookimg.github.io/bi-vla/)]
 - [2025] VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators [[paper](https://arxiv.org/pdf/2510.00406)] [[project](https://vla-rft.github.io/)] [[code](https://github.com/OpenHelix-Team/VLA-RFT)]
-
+- [2025] Cross-Platform Scaling of Vision-Language-Action Models from Edge to Cloud GPUs [[paper](https://arxiv.org/pdf/2509.11480)]
   
 ### 2024
 
