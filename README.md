@@ -214,7 +214,12 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Bi-VLA: Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation [[paper](https://arxiv.org/pdf/2509.18865)] [[project](https://mertcookimg.github.io/bi-vla/)]
 - [2025] VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators [[paper](https://arxiv.org/pdf/2510.00406)] [[project](https://vla-rft.github.io/)] [[code](https://github.com/OpenHelix-Team/VLA-RFT)]
 - [2025] Cross-Platform Scaling of Vision-Language-Action Models from Edge to Cloud GPUs [[paper](https://arxiv.org/pdf/2509.11480)]
-  
+- [2025] VLA-Reasoner: Empowering Vision-Language-Action Models with Reasoning via Online Monte Carlo Tree Search [[paper](https://arxiv.org/pdf/2509.22643)]
+
+
+
+
+
 ### 2024
 
 - [2024] [**Physical Intelligence**] π0: A Vision-Language-Action Flow Model for General Robot Control [[paper](https://www.physicalintelligence.company/download/pi0.pdf)]
