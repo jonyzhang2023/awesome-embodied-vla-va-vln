@@ -19,6 +19,7 @@ However, particularly influential or representative works may be highlighted at 
 ## 📚 Survey
 
 - [2025] [**Science Robotics**] A Review of Learning-based Dynamics Models for Robotic Manipulation [[paper](https://albertboai.com/assets/pdf/2025_scirobotics.adt1497.pdf)]
+- [2025] Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications [[paper](https://arxiv.org/pdf/2510.07077)]
 - [2025] Pure Vision Language Action (VLA) Models: A Comprehensive Survey [[paper](https://arxiv.org/pdf/2509.19012)]
 - [2025] Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey [[paper](https://arxiv.org/pdf/2508.13073)] [[project](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)]  
 - [2025] Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning [[paper](https://arxiv.org/pdf/2508.10399)]
@@ -325,7 +326,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Embodied Navigation Foundation Model [[paper](https://arxiv.org/pdf/2509.12129)] [[project](https://pku-epic.github.io/NavFoM-Web/)]
 - [2025] [**CoRL 25**] Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild [[paper](https://arxiv.org/pdf/2505.11350)] [[project](https://search-tta.github.io/)] [[code](https://github.com/marmotlab/Search-TTA-VLN)] 
 - [2025] JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation [[paper](https://arxiv.org/pdf/2509.22548)] [[project](https://miv-xjtu.github.io/JanusVLN.github.io/)] [[code](https://github.com/MIV-XJTU/JanusVLN)] 
-
+- [2025] TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking [[paper](https://arxiv.org/pdf/2510.07134)] [[project](https://pku-epic.github.io/TrackVLA-plus-plus-Web/)]
 
 ### 2024
 
