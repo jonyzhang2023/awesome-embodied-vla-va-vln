@@ -218,8 +218,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] VLA-Reasoner: Empowering Vision-Language-Action Models with Reasoning via Online Monte Carlo Tree Search [[paper](https://arxiv.org/pdf/2509.22643)]
 - [2025] RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training [[paper](https://arxiv.org/pdf/2510.06710)] [[huggingface](https://huggingface.co/RLinf)] [[code](https://github.com/RLinf/RLinf)]
 - [2025] MetaVLA: Unified Meta Co-training For Efficient Embodied Adaption [[paper](https://arxiv.org/pdf/2510.05580)]
-- [2025] [**NeurIPS 25**] What Can RL Bring to VLA Generalization? An Empirical Study. [[paper](https://arxiv.org/pdf/2505.19789?)] [[project](https://rlvla.github.io/)] [[code](https://github.com/gen-robot/RL4VLA)]
-
+- [2025] [**NeurIPS 25**] What Can RL Bring to VLA Generalization? An Empirical Study [[paper](https://arxiv.org/pdf/2505.19789?)] [[project](https://rlvla.github.io/)] [[code](https://github.com/gen-robot/RL4VLA)]
+- [2025] Verifier-free Test-Time Sampling for Vision Language Action Models [[paper](https://arxiv.org/pdf/2510.05681)]
 
 ### 2024
 
