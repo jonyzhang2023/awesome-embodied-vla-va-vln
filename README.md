@@ -54,6 +54,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025 
 
+- [2025] [**Nvidia**] VLA-0: Building State-of-the-Art VLAs with Zero Modification [[paper](https://arxiv.org/pdf/2510.13054)] [[project](https://vla0.github.io/)] [[code](https://github.com/NVlabs/vla0)]
 - [2025] [**X Square Robot**] Wall-OSS: Igniting VLMs toward the Embodied Space [[project](https://x2robot.com/en/research/68bc2cde8497d7f238dde690)] [[paper](https://x2robot.cn-wlcb.ufileos.com/wall_oss.pdf)] [[code](https://github.com/X-Square-Robot/wall-x)]
 - [2025] [**CoRL**] GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data [[project](https://pku-epic.github.io/GraspVLA-web/)] [[paper](https://arxiv.org/pdf/2505.03233)] [[code](https://github.com/PKU-EPIC/GraspVLA)]
 - [2025] [**AgiBot**] Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation [[paper](https://arxiv.org/pdf/2508.05635)] [[project](https://genie-envisioner.github.io/)] [[code](https://github.com/AgibotTech/Genie-Envisioner)]
