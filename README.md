@@ -223,7 +223,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Verifier-free Test-Time Sampling for Vision Language Action Models [[paper](https://arxiv.org/pdf/2510.05681)]
 - [2025] [**CoRL 25**] RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.17811)] [[project](https://robomonkey-vla.github.io/)] [[code](https://github.com/robomonkey-vla/RoboMonkey)]
 - [2025] X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2510.10274)] [[project](https://thu-air-dream.github.io/X-VLA/)] [[code](https://github.com/2toinf/X-VLA)]
-
+- [2025] InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy [[paper](https://arxiv.org/pdf/2510.13778)] [[project](https://internrobotics.github.io/internvla-m1.github.io/)] [[code](https://github.com/InternRobotics/InternVLA-M1)]
 
 
 ### 2024
