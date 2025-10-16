@@ -161,7 +161,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[project](https://github.com/PRIME-RL/SimpleVLA-RL)]
 - [2025] BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation [[paper](https://arxiv.org/pdf/2506.07530)] [[project](https://github.com/ustcwhy/BitVLA)]
 - [2025] Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse [[paper](https://arxiv.org/pdf/2506.07639)]
-- [2025] BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models [[paper](https://arxiv.org/pdf/2506.07961)] [[project](https://bridgevla.github.io/)]
+- [2025] [**NeurIPS 25**] BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models [[paper](https://arxiv.org/pdf/2506.07961)] [[project](https://bridgevla.github.io/)]
 - [2025] SAFE: Multitask Failure Detection for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.09937)] [[project](https://vla-safe.github.io/)]
 - [2025] From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.09930)] [[project](https://ai4ce.github.io/INT-ACT/)]
 - [2025] Time- Diffusion Policy with Action Discrimination for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.09422)]
@@ -226,7 +226,6 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2510.10274)] [[project](https://thu-air-dream.github.io/X-VLA/)] [[code](https://github.com/2toinf/X-VLA)]
 - [2025] InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy [[paper](https://arxiv.org/pdf/2510.13778)] [[project](https://internrobotics.github.io/internvla-m1.github.io/)] [[code](https://github.com/InternRobotics/InternVLA-M1)]
 - [2025] Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model [[paper](https://arxiv.org/pdf/2510.12276)] [[project](https://spatial-forcing.github.io/)] [[code](https://github.com/OpenHelix-Team/Spatial-Forcing)] 
-- [2025] RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.17811)] [[project](https://robomonkey-vla.github.io/)] [[code](https://github.com/robomonkey-vla/RoboMonkey)] 
 
 
 
