@@ -226,6 +226,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2510.10274)] [[project](https://thu-air-dream.github.io/X-VLA/)] [[code](https://github.com/2toinf/X-VLA)]
 - [2025] InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy [[paper](https://arxiv.org/pdf/2510.13778)] [[project](https://internrobotics.github.io/internvla-m1.github.io/)] [[code](https://github.com/InternRobotics/InternVLA-M1)]
 - [2025] Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model [[paper](https://arxiv.org/pdf/2510.12276)] [[project](https://spatial-forcing.github.io/)] [[code](https://github.com/OpenHelix-Team/Spatial-Forcing)] 
+- [2025] RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.17811)] [[project](https://robomonkey-vla.github.io/)] [[code](https://github.com/robomonkey-vla/RoboMonkey)] 
+
+
 
 ### 2024
 
