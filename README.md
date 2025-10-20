@@ -54,6 +54,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025 
 
+- [2025] D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI [[paper](https://arxiv.org/abs/2510.05684)] [[project](https://worv-ai.github.io/d2e/)] [[code](https://github.com/worv-ai/D2E)]
 - [2025] [**Nvidia**] VLA-0: Building State-of-the-Art VLAs with Zero Modification [[paper](https://arxiv.org/pdf/2510.13054)] [[project](https://vla0.github.io/)] [[code](https://github.com/NVlabs/vla0)]
 - [2025] [**X Square Robot**] Wall-OSS: Igniting VLMs toward the Embodied Space [[project](https://x2robot.com/en/research/68bc2cde8497d7f238dde690)] [[paper](https://x2robot.cn-wlcb.ufileos.com/wall_oss.pdf)] [[code](https://github.com/X-Square-Robot/wall-x)]
 - [2025] [**CoRL**] GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data [[project](https://pku-epic.github.io/GraspVLA-web/)] [[paper](https://arxiv.org/pdf/2505.03233)] [[code](https://github.com/PKU-EPIC/GraspVLA)]
@@ -338,6 +339,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2024
 
+- [2024] CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction [[paper](https://arxiv.org/abs/2410.01273)] [[project](https://worv-ai.github.io/canvas/)] [[code](https://github.com/worv-ai/canvas)] 
 - [2024] [**RSS 24**] Navid: Video-based vlm plans the next step for vision-and-language navigation [[paper](https://arxiv.org/pdf/2402.15852)]
 - [2024] The One RING: a Robotic Indoor Navigation Generalist [[paper](https://arxiv.org/pdf/2412.14401)]
 - [2024] Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs [[paper](https://arxiv.org/pdf/2407.07775)]
