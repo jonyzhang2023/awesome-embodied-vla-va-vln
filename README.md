@@ -228,7 +228,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy [[paper](https://arxiv.org/pdf/2510.13778)] [[project](https://internrobotics.github.io/internvla-m1.github.io/)] [[code](https://github.com/InternRobotics/InternVLA-M1)]
 - [2025] Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model [[paper](https://arxiv.org/pdf/2510.12276)] [[project](https://spatial-forcing.github.io/)] [[code](https://github.com/OpenHelix-Team/Spatial-Forcing)] 
 - [2025] D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI [[paper](https://arxiv.org/abs/2510.05684)] [[project](https://worv-ai.github.io/d2e/)] [[code](https://github.com/worv-ai/D2E)]
-
+- [2025] BiTLA: A Bimanual Tactile-Language-Action Model for Contact-Rich Robotic Manipulation [[paper](https://dl.acm.org/doi/10.1145/3728485.3759237)]
 
 ### 2024
 
