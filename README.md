@@ -230,6 +230,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model [[paper](https://arxiv.org/pdf/2510.12276)] [[project](https://spatial-forcing.github.io/)] [[code](https://github.com/OpenHelix-Team/Spatial-Forcing)] 
 - [2025] D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI [[paper](https://arxiv.org/abs/2510.05684)] [[project](https://worv-ai.github.io/d2e/)] [[code](https://github.com/worv-ai/D2E)]
 - [2025] BiTLA: A Bimanual Tactile-Language-Action Model for Contact-Rich Robotic Manipulation [[paper](https://dl.acm.org/doi/10.1145/3728485.3759237)]
+- [2025] Running VLAs at Real-time Speed [[paper](https://arxiv.org/pdf/2510.26742)] 
+
 
 ### 2024
 
