@@ -1,4 +1,4 @@
-# awesome-embodied-vla/va/vln [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<img width="6" height="4" alt="image" src="https://github.com/user-attachments/assets/5aaa9273-a48a-4519-b559-19a598d01c2d" /># awesome-embodied-vla/va/vln [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 As more and more outstanding vision-language-based policies emerge, this repository aims to organize and showcase the state-of-the-art technologies in robot learning, including vision-language-action (VLA) models, vision-language-navigation (VLN) models, vision-action (VA) models and other MLLM-based embodied learning. We hope that in the near future, robotics will experience its own 'LLM moment.'
 
@@ -230,7 +230,9 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model [[paper](https://arxiv.org/pdf/2510.12276)] [[project](https://spatial-forcing.github.io/)] [[code](https://github.com/OpenHelix-Team/Spatial-Forcing)] 
 - [2025] D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI [[paper](https://arxiv.org/abs/2510.05684)] [[project](https://worv-ai.github.io/d2e/)] [[code](https://github.com/worv-ai/D2E)]
 - [2025] BiTLA: A Bimanual Tactile-Language-Action Model for Contact-Rich Robotic Manipulation [[paper](https://dl.acm.org/doi/10.1145/3728485.3759237)]
-- [2025] Running VLAs at Real-time Speed [[paper](https://arxiv.org/pdf/2510.26742)] 
+- [2025] Running VLAs at Real-time Speed [[paper](https://arxiv.org/pdf/2510.26742)]
+- [2025] Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2510.27607)]
+- 
 
 
 ### 2024
@@ -527,7 +529,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] ManipDreamer3D : Synthesizing Plausible Robotic Manipulation Video with Occupancy-aware 3D Trajectory [[paper](https://arxiv.org/pdf/2509.05314)]
 - [2025]  [**CoRL 25**] CLASS: Contrastive Learning via Action Sequence Supervision for Robot Manipulation [[paper](https://arxiv.org/pdf/2508.01600)] [[project](https://class-robot.github.io/)] [[code](https://github.com/sean1295/CLASS/tree/main)]
 - [2025] 3D Flow Diffusion Policy: Visuomotor Policy Learning via Generating Flow in 3D Space [[paper](https://arxiv.org/pdf/2509.18676)] [[project](https://sites.google.com/view/3dfdp/home)]
-
+- [2025] [**NeurIPS 25**] GauDP: Reinventing Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies [[paper](https://arxiv.org/pdf/2511.00998)] [[project](https://ziyeeee.github.io/gaudp.io/)]
 
 
 ### 2024
