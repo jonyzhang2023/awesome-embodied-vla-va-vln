@@ -55,6 +55,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025 
 
+- [2025] [**Microsoft Research**] OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation [[paper](https://arxiv.org/abs/2511.01210)]
 - [2025] [**Physical Intelligence**] π0.6: a VLA that Learns from Experience [[paper](https://www.physicalintelligence.company/blog/pistar06)]
 - [2025] [**Generalist**] Embodied Foundation Models That Scale with Physical Interaction [[blog](https://generalistai.com/blog/nov-04-2025-GEN-0)]
 - [2025] [**Nvidia**] VLA-0: Building State-of-the-Art VLAs with Zero Modification [[paper](https://arxiv.org/pdf/2510.13054)] [[project](https://vla0.github.io/)] [[code](https://github.com/NVlabs/vla0)]
