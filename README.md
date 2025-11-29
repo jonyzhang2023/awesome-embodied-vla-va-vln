@@ -235,7 +235,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Running VLAs at Real-time Speed [[paper](https://arxiv.org/pdf/2510.26742)]
 - [2025] Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2510.27607)]
 - [2025] NORA-1.5: A Vision-Language-Action Model Trained using World Model and Action-based Preference Rewards [[paper](https://arxiv.org/pdf/2511.14659)] [[project](https://declare-lab.github.io/nora-1.5)] [[code](https://github.com/declare-lab/nora-1.5)]
-
+- [2025] RynnVLA-002: A Unified Vision-Language-Action and World Model [[paper](https://arxiv.org/pdf/2511.14659)] [[code](https://github.com/alibaba-damo-academy/RynnVLA-002)]
 
 ### 2024
 
