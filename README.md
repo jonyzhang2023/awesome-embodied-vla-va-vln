@@ -55,6 +55,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025 
 
+- [2025] [**ByteDance Seed**] GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation [[paper](https://arxiv.org/pdf/2512.01801)] [[project](https://seed.bytedance.com/gr_rl)]
 - [2025] [**Microsoft Research**] OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation [[paper](https://arxiv.org/abs/2511.01210)]
 - [2025] [**Physical Intelligence**] π0.6: a VLA that Learns from Experience [[paper](https://www.physicalintelligence.company/blog/pistar06)]
 - [2025] [**Generalist**] Embodied Foundation Models That Scale with Physical Interaction [[blog](https://generalistai.com/blog/nov-04-2025-GEN-0)]
@@ -236,6 +237,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2510.27607)]
 - [2025] NORA-1.5: A Vision-Language-Action Model Trained using World Model and Action-based Preference Rewards [[paper](https://arxiv.org/pdf/2511.14659)] [[project](https://declare-lab.github.io/nora-1.5)] [[code](https://github.com/declare-lab/nora-1.5)]
 - [2025] RynnVLA-002: A Unified Vision-Language-Action and World Model [[paper](https://arxiv.org/pdf/2511.14659)] [[code](https://github.com/alibaba-damo-academy/RynnVLA-002)]
+
+
 
 ### 2024
 
