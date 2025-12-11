@@ -241,7 +241,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation [[paper](https://arxiv.org/pdf/2509.26642)] [[project](https://sites.google.com/view/open-mla)] [[code](https://github.com/ZhuoyangLiu2005/MLA)]
 - [2025] DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action [[paper](https://arxiv.org/pdf/2511.22134)] [[project](https://costaliya.github.io/DualVLA/)] 
 - [2025] VideoVLA: Video Generators Can Be Generalizable Robot Manipulators [[paper](https://arxiv.org/pdf/2512.06963)] [[project](https://videovla-nips2025.github.io/)]
-
+- [2025] HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies [[paper](https://arxiv.org/abs/2512.05693)] [[code](https://github.com/ZhiyingDu/HiMoE-VLA)] 
 
 ### 2024
 
@@ -350,7 +350,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation [[paper](https://arxiv.org/pdf/2509.22548)] [[project](https://miv-xjtu.github.io/JanusVLN.github.io/)] [[code](https://github.com/MIV-XJTU/JanusVLN)] 
 - [2025] TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking [[paper](https://arxiv.org/pdf/2510.07134)] [[project](https://pku-epic.github.io/TrackVLA-plus-plus-Web/)]
 - [2025] Ground Slow, Move Fast: A Dual-System Foundation Model for Generalizable Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2512.08186)] [[project](https://internrobotics.github.io/internvla-n1-dualvln.github.io/)] [[code](https://github.com/InternRobotics/InternNav)] 
-- [2025] HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies [[paper](https://arxiv.org/abs/2512.05693)] [[code](https://github.com/ZhiyingDu/HiMoE-VLA)] 
+
 
 
 ### 2024
