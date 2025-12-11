@@ -55,6 +55,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025 
 
+
 - [2025] [**ByteDance Seed**] GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation [[paper](https://arxiv.org/pdf/2512.01801)] [[project](https://seed.bytedance.com/gr_rl)]
 - [2025] [**Microsoft Research**] OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation [[paper](https://arxiv.org/abs/2511.01210)]
 - [2025] [**Physical Intelligence**] π0.6: a VLA that Learns from Experience [[paper](https://www.physicalintelligence.company/blog/pistar06)]
@@ -172,7 +173,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] Time- Diffusion Policy with Action Discrimination for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.09422)]
 - [2025] RationalVLA: A Rational Vision-Language-Action Model with Dual System [[paper](https://arxiv.org/pdf/2506.10826)] [[project](https://irpn-eai.github.io/rational_vla/)]
 - [2025] Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning [[paper](https://arxiv.org/pdf/2506.01953)] [[project](https://fast-in-slow.github.io/)]
-- [2025] [**Physical Intelligence**] Real-Time Execution of Action Chunking Flow Policies [[paper](https://arxiv.org/pdf/2506.07339)] [[project](https://www.pi.website/research/real_time_chunking)]
+- [2025] [**Physical Intelligence**] [**NeurIPS 25**] Real-Time Execution of Action Chunking Flow Policies [[paper](https://arxiv.org/pdf/2506.07339)] [[project](https://www.pi.website/research/real_time_chunking)]
 - [2025] LLaVA-VLA: A Simple Yet Powerful Vision-Language-Action Model [[project](https://github.com/OpenHelix-Team/LLaVA-VLA)]
 - [2025] LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction [[paper](https://arxiv.org/pdf/2506.13751)]
 - [2025] CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding [[paper](https://arxiv.org/pdf/2506.13725)] [[project](https://irpn-eai.github.io/CEED-VLA/)]
@@ -242,6 +243,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action [[paper](https://arxiv.org/pdf/2511.22134)] [[project](https://costaliya.github.io/DualVLA/)] 
 - [2025] VideoVLA: Video Generators Can Be Generalizable Robot Manipulators [[paper](https://arxiv.org/pdf/2512.06963)] [[project](https://videovla-nips2025.github.io/)]
 - [2025] HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies [[paper](https://arxiv.org/abs/2512.05693)] [[code](https://github.com/ZhiyingDu/HiMoE-VLA)] 
+- [2025] [**Physical Intelligence**] Training-Time Action Conditioning for Efficient Real-Time Chunking [[paper](https://arxiv.org/pdf/2512.05964)] 
+
 
 ### 2024
 
