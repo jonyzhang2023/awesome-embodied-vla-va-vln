@@ -18,7 +18,8 @@ However, particularly influential or representative works may be highlighted at 
 
 ## 📚 Survey
 
-- [2025] [**Science Robotics**] A Review of Learning-based Dynamics Models for Robotic Manipulation [[paper](https://albertboai.com/assets/pdf/2025_scirobotics.adt1497.pdf)]
+- [2025] [**Science Robotics**] A Review of Learning-based Dynamics Models for Robotic Manipulation [[paper](https://albertboai.com/assets/pdf/2025_scirobotics.adt1497.pdf)] 
+- [2025] An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges [[paper](https://arxiv.org/pdf/2512.11362)] [[project](https://suyuz1.github.io/Survery/)]
 - [2025] A Comprehensive Survey on World Models for Embodied AI [[paper](https://www.arxiv.org/pdf/2510.16732)] [[project](https://github.com/Li-Zn-H/AwesomeWorldModels)]  
 - [2025] State of VLA Research at ICLR 2026 [[blog](https://mbreuss.github.io/blog_post_iclr_26_vla.html)]
 - [2025] Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications [[paper](https://arxiv.org/pdf/2510.07077)]
@@ -55,7 +56,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025 
 
-
+- [2025] Motus: A Unified Latent Action World Model [[paper](https://arxiv.org/pdf/2512.13030)] [[project](https://motus-robotics.github.io/motus)] [[code](https://github.com/thu-ml/Motus)] 
 - [2025] [**ByteDance Seed**] GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation [[paper](https://arxiv.org/pdf/2512.01801)] [[project](https://seed.bytedance.com/gr_rl)]
 - [2025] [**Microsoft Research**] OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation [[paper](https://arxiv.org/abs/2511.01210)]
 - [2025] [**Physical Intelligence**] π0.6: a VLA that Learns from Experience [[paper](https://www.physicalintelligence.company/blog/pistar06)]
