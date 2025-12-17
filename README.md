@@ -245,8 +245,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] VideoVLA: Video Generators Can Be Generalizable Robot Manipulators [[paper](https://arxiv.org/pdf/2512.06963)] [[project](https://videovla-nips2025.github.io/)]
 - [2025] HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies [[paper](https://arxiv.org/abs/2512.05693)] [[code](https://github.com/ZhiyingDu/HiMoE-VLA)] 
 - [2025] [**Physical Intelligence**] Training-Time Action Conditioning for Efficient Real-Time Chunking [[paper](https://arxiv.org/pdf/2512.05964)] 
-
-
+- [2025] X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2510.10274)] [[project](https://thu-air-dream.github.io/X-VLA/)] [[code](https://github.com/2toinf/X-VLA)]
+- [2025] Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos [[paper](https://arxiv.org/pdf/2510.21571)] [[project](https://microsoft.github.io/VITRA/)] [[code](https://github.com/microsoft/VITRA/)]
 ### 2024
 
 - [2024] [**Physical Intelligence**] π0: A Vision-Language-Action Flow Model for General Robot Control [[paper](https://www.physicalintelligence.company/download/pi0.pdf)]
