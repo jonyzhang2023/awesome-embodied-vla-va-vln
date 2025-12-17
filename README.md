@@ -1,4 +1,6 @@
-<img width="6" height="4" alt="image" src="https://github.com/user-attachments/assets/5aaa9273-a48a-4519-b559-19a598d01c2d" /># awesome-embodied-vla/va/vln [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Embodied VLA/VA/VLN
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 As more and more outstanding vision-language-based policies emerge, this repository aims to organize and showcase the state-of-the-art technologies in robot learning, including vision-language-action (VLA) models, vision-language-navigation (VLN) models, vision-action (VA) models and other MLLM-based embodied learning. We hope that in the near future, robotics will experience its own 'LLM moment.'
 
