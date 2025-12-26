@@ -59,6 +59,7 @@ However, particularly influential or representative works may be highlighted at 
 ### 2025 
 
 - [2025] Motus: A Unified Latent Action World Model [[paper](https://arxiv.org/pdf/2512.13030)] [[project](https://motus-robotics.github.io/motus)] [[code](https://github.com/thu-ml/Motus)] 
+- [2025] starVLA: A Lego-like Codebase for Vision-Language-Action Model Developing [[report](https://www.overleaf.com/read/qqtwrnprctkf#d5bdce)] [[code](https://github.com/starVLA/starVLA)]
 - [2025] [**ByteDance Seed**] GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation [[paper](https://arxiv.org/pdf/2512.01801)] [[project](https://seed.bytedance.com/gr_rl)]
 - [2025] [**Microsoft Research**] OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation [[paper](https://arxiv.org/abs/2511.01210)]
 - [2025] [**Physical Intelligence**] π0.6: a VLA that Learns from Experience [[paper](https://www.physicalintelligence.company/blog/pistar06)]
