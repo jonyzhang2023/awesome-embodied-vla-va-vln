@@ -58,6 +58,8 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025 
 
+- [2025] StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing [[report](https://www.overleaf.com/read/qqtwrnprctkf#d5bdce)] [[code](https://github.com/starVLA/starVLA)]
+- [2025] RLinf: Reinforcement Learning Infrastructure for Post-training [[doc](https://rlinf.readthedocs.io/en/latest/)] [[code](https://github.com/RLinf/RLinf)]
 - [2025] Motus: A Unified Latent Action World Model [[paper](https://arxiv.org/pdf/2512.13030)] [[project](https://motus-robotics.github.io/motus)] [[code](https://github.com/thu-ml/Motus)] 
 - [2025] [**ByteDance Seed**] GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation [[paper](https://arxiv.org/pdf/2512.01801)] [[project](https://seed.bytedance.com/gr_rl)]
 - [2025] [**Microsoft Research**] OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation [[paper](https://arxiv.org/abs/2511.01210)]
@@ -249,6 +251,10 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] [**Physical Intelligence**] Training-Time Action Conditioning for Efficient Real-Time Chunking [[paper](https://arxiv.org/pdf/2512.05964)] 
 - [2025] X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2510.10274)] [[project](https://thu-air-dream.github.io/X-VLA/)] [[code](https://github.com/2toinf/X-VLA)]
 - [2025] Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos [[paper](https://arxiv.org/pdf/2510.21571)] [[project](https://microsoft.github.io/VITRA/)] [[code](https://github.com/microsoft/VITRA/)]
+
+
+
+
 ### 2024
 
 - [2024] [**Physical Intelligence**] π0: A Vision-Language-Action Flow Model for General Robot Control [[paper](https://www.physicalintelligence.company/download/pi0.pdf)]
