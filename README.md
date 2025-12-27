@@ -362,7 +362,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation [[paper](https://arxiv.org/pdf/2509.22548)] [[project](https://miv-xjtu.github.io/JanusVLN.github.io/)] [[code](https://github.com/MIV-XJTU/JanusVLN)] 
 - [2025] TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking [[paper](https://arxiv.org/pdf/2510.07134)] [[project](https://pku-epic.github.io/TrackVLA-plus-plus-Web/)]
 - [2025] Ground Slow, Move Fast: A Dual-System Foundation Model for Generalizable Vision-and-Language Navigation [[paper](https://arxiv.org/pdf/2512.08186)] [[project](https://internrobotics.github.io/internvla-n1-dualvln.github.io/)] [[code](https://github.com/InternRobotics/InternNav)] 
-
+- [2025] OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation [[paper](https://arxiv.org/pdf/2509.19480)] [[project](https://omnivla-nav.github.io/)] [[code](https://github.com/NHirose/OmniVLA)] 
 
 
 ### 2024
