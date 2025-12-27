@@ -251,7 +251,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] [**Physical Intelligence**] Training-Time Action Conditioning for Efficient Real-Time Chunking [[paper](https://arxiv.org/pdf/2512.05964)] 
 - [2025] X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2510.10274)] [[project](https://thu-air-dream.github.io/X-VLA/)] [[code](https://github.com/2toinf/X-VLA)]
 - [2025] Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos [[paper](https://arxiv.org/pdf/2510.21571)] [[project](https://microsoft.github.io/VITRA/)] [[code](https://github.com/microsoft/VITRA/)]
-
+- [2025] Mixture of Horizons in Action Chunking [[paper](https://arxiv.org/pdf/2511.19433)] [[project](https://timsty1.github.io/moh/)] [[code](https://github.com/Timsty1/MixtureOfHorizons)]
 
 
 
