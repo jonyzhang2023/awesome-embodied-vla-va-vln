@@ -58,6 +58,7 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2025 
 
+- [2025] Spirit-v1.5 [[report](https://www.spirit-ai.com/en/blog/spirit-v1-5)] [[code](https://github.com/Spirit-AI-Team/spirit-v1.5?tab=readme-ov-file)]
 - [2025] StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing [[report](https://www.overleaf.com/read/qqtwrnprctkf#d5bdce)] [[code](https://github.com/starVLA/starVLA)]
 - [2025] RLinf: Reinforcement Learning Infrastructure for Post-training [[doc](https://rlinf.readthedocs.io/en/latest/)] [[code](https://github.com/RLinf/RLinf)]
 - [2025] Motus: A Unified Latent Action World Model [[paper](https://arxiv.org/pdf/2512.13030)] [[project](https://motus-robotics.github.io/motus)] [[code](https://github.com/thu-ml/Motus)] 
@@ -252,7 +253,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2510.10274)] [[project](https://thu-air-dream.github.io/X-VLA/)] [[code](https://github.com/2toinf/X-VLA)]
 - [2025] Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos [[paper](https://arxiv.org/pdf/2510.21571)] [[project](https://microsoft.github.io/VITRA/)] [[code](https://github.com/microsoft/VITRA/)]
 - [2025] Mixture of Horizons in Action Chunking [[paper](https://arxiv.org/pdf/2511.19433)] [[project](https://timsty1.github.io/moh/)] [[code](https://github.com/Timsty1/MixtureOfHorizons)]
-
+- [2025] InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation [[paper](https://arxiv.org/pdf/2601.02456)] [[project](https://huggingface.co/InternRobotics/InternVLA-A1-3B)] [[code](https://github.com/InternRobotics/InternVLA-A1)]
 
 
 ### 2024
