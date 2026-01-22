@@ -56,6 +56,11 @@ However, particularly influential or representative works may be highlighted at 
 
 ## 💥 Vision Language Action (VLA) Models
 
+### 2026
+
+- [2026] VLM4VLA: Revisiting Vision-Language Models in Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2601.03309)] [[project](https://cladernyjorn.github.io/VLM4VLA.github.io/)] [[code](https://github.com/CladernyJorn/VLM4VLA)]
+
+
 ### 2025 
 
 
