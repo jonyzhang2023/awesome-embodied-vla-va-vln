@@ -59,7 +59,7 @@ However, particularly influential or representative works may be highlighted at 
 ### 2026
 
 - [2026] VLM4VLA: Revisiting Vision-Language Models in Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2601.03309)] [[project](https://cladernyjorn.github.io/VLM4VLA.github.io/)] [[code](https://github.com/CladernyJorn/VLM4VLA)]
-
+- [2026] Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization [[paper](https://arxiv.org/pdf/2601.12993)] [[project](https://research.beingbeyond.com/being-h05)] [[code](https://github.com/BeingBeyond/Being-H)]
 
 ### 2025 
 
@@ -387,6 +387,9 @@ However, particularly influential or representative works may be highlighted at 
 
 
 ## 🎬 Vision Action (VA) Models
+
+### 2026
+- [2026] PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation [[paper](https://arxiv.org/pdf/2601.03782)] [[project](https://point-world.github.io/)] [[code](https://github.com/huangwl18/PointWorld)]
 
 ### 2025
 
