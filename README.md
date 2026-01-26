@@ -392,6 +392,8 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2026
 - [2026] PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation [[paper](https://arxiv.org/pdf/2601.03782)] [[project](https://point-world.github.io/)] [[code](https://github.com/huangwl18/PointWorld)]
+- [2026] X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning [[paper](https://arxiv.org/pdf/2601.11269)] [[project](https://x-distill.github.io/)]
+- [2026] Contact-Aware Neural Dynamics [[paper](https://www.arxiv.org/pdf/2601.12796)]
 
 ### 2025
 
