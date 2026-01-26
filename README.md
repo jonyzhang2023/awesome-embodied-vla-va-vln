@@ -782,6 +782,7 @@ However, particularly influential or representative works may be highlighted at 
 - Awesome World Models for Robotics [[repo](https://github.com/leofan90/Awesome-World-Models)]
 - Awesome-VLA-Post-Training [[repo](https://github.com/AoqunJin/Awesome-VLA-Post-Training)]
 - Awesome-BFM-Papers [[repo](https://github.com/yuanmingqi/awesome-bfm-papers)]
+- Awesome-Physical-AI [[repo](https://github.com/keon/awesome-physical-ai)]
 
 ## Star History
 
