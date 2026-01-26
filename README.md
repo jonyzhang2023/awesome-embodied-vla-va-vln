@@ -621,6 +621,9 @@ However, particularly influential or representative works may be highlighted at 
 
 ## 🧠 Other Multimodal Large Language Model (MLLM)-based/related Embodied Learning
 
+### 2026
+- [2026] RoboReward: General-purpose Vision-Language Reward Models for Robotics [[paper](https://arxiv.org/pdf/2601.00675)] [[project](https://crfm.stanford.edu/helm/robo-reward-bench/latest/)] 
+
 ### 2025
 - [2025] [**ICRA 25 Best Paper Finalist**] UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation [[paper](https://unsup-affordance.github.io/uad.pdf)] [[project](https://unsup-affordance.github.io/)] 
 - [2025] [**NVIDIA**] Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning [[paper](https://arxiv.org/pdf/2503.15558)] [[project](https://github.com/nvidia-cosmos/cosmos-reason1)] 
