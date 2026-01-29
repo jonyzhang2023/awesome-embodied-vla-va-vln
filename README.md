@@ -393,13 +393,13 @@ However, particularly influential or representative works may be highlighted at 
 ## 🎬 Vision Action (VA) Models
 
 ### 2026
+- [2025] [**ICLR**] Compose Your Policies! Improving Diffusion-based or Flow-based Robot Policies via Test-time Distribution-level Composition [[paper](https://arxiv.org/pdf/2510.01068)] [[project](https://sagecao1125.github.io/GPC-Site/)] [[code](https://github.com/SageCao1125/GPC)] 
 - [2026] PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation [[paper](https://arxiv.org/pdf/2601.03782)] [[project](https://point-world.github.io/)] [[code](https://github.com/huangwl18/PointWorld)]
 - [2026] X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning [[paper](https://arxiv.org/pdf/2601.11269)] [[project](https://x-distill.github.io/)]
 - [2026] Contact-Aware Neural Dynamics [[paper](https://www.arxiv.org/pdf/2601.12796)]
 
 ### 2025
 
-- [2025] Compose Your Policies! Improving Diffusion-based or Flow-based Robot Policies via Test-time Distribution-level Composition [[paper](https://arxiv.org/pdf/2510.01068)] [[project](https://sagecao1125.github.io/GPC-Site/)] [[code](https://github.com/SageCao1125/GPC)] 
 - [2025] [**TRO**] Hierarchical Diffusion Policy: Manipulation Trajectory Generation Via Contact Guidance [[paper](https://arxiv.org/pdf/2411.12982)] [[code](https://github.com/dexin-wang/Hierarchical-Diffusion-Policy)] 
 - [2025] [**CoRL**] ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training [[paper](https://arxiv.org/pdf/2509.01819)] [[project](https://maniflow-policy.github.io/)] [[code](https://github.com/geyan21/ManiFlow_Policy)] 
 - [2025] Flow Matching Policy Gradients [[paper](https://arxiv.org/pdf/2507.21053)] [[project](https://flowreinforce.github.io/)]
