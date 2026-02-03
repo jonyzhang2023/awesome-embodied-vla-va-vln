@@ -58,12 +58,13 @@ However, particularly influential or representative works may be highlighted at 
 
 ### 2026
 
+
 - [2026] [**Qwen**] VLM4VLA: Revisiting Vision-Language Models in Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2601.03309)] [[project](https://cladernyjorn.github.io/VLM4VLA.github.io/)] [[code](https://github.com/CladernyJorn/VLM4VLA)]
 - [2026] Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization [[paper](https://arxiv.org/pdf/2601.12993)] [[project](https://research.beingbeyond.com/being-h05)] [[code](https://github.com/BeingBeyond/Being-H)]
 - [2026] [**Nvidia**] Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning [[paper](https://arxiv.org/pdf/2601.16163#page=14.12)] [[project](https://research.nvidia.com/labs/dir/cosmos-policy/)]]
 - [2026] TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers [[paper](https://arxiv.org/pdf/2601.14133)] [[code](https://github.com/ZGC-EmbodyAI/TwinBrainVLA)]
 - [2026] LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries [[paper](https://arxiv.org/pdf/2601.15197)] [[code](https://github.com/ZGC-EmbodyAI/LangForce)]
-
+- [2026] [**Ant Group**] A Pragmatic VLA Foundation Model [[paper](https://arxiv.org/pdf/2601.18692)] [[project](https://technology.robbyant.com/lingbot-vla/)] [[code](https://github.com/robbyant/lingbot-vla)]
 
 ### 2025 
 
