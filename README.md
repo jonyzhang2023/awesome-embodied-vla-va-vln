@@ -57,7 +57,7 @@ However, particularly influential or representative works may be highlighted at 
 ## 💥 Vision Language Action (VLA) Models
 
 ### 2026
-
+- [2026] [**NVIDIA**] DreamZero: World Action Models Are Zero-Shot Policies [[paper](https://dreamzero0.github.io/DreamZero.pdf)] [[project](https://dreamzero0.github.io/)] [[code](https://github.com/dreamzero0/dreamzero)]
 - [2026] [**Ant Group**] Causal World Modeling for Robot Control [[paper](https://arxiv.org/pdf/2601.21998)] [[project](https://technology.robbyant.com/lingbot-va)] [[code](https://github.com/Robbyant/lingbot-va)]
 - [2026] [**Ant Group**] A Pragmatic VLA Foundation Model [[paper](https://arxiv.org/pdf/2601.18692)] [[project](https://technology.robbyant.com/lingbot-vla/)] [[code](https://github.com/robbyant/lingbot-vla)]
 - [2026] [**Qwen**] VLM4VLA: Revisiting Vision-Language Models in Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2601.03309)] [[project](https://cladernyjorn.github.io/VLM4VLA.github.io/)] [[code](https://github.com/CladernyJorn/VLM4VLA)]
@@ -65,7 +65,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2026] [**Nvidia**] Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning [[paper](https://arxiv.org/pdf/2601.16163#page=14.12)] [[project](https://research.nvidia.com/labs/dir/cosmos-policy/)]]
 - [2026] TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers [[paper](https://arxiv.org/pdf/2601.14133)] [[code](https://github.com/ZGC-EmbodyAI/TwinBrainVLA)]
 - [2026] LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries [[paper](https://arxiv.org/pdf/2601.15197)] [[code](https://github.com/ZGC-EmbodyAI/LangForce)]
-
+- [2026] RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization [[paper](https://arxiv.org/pdf/2602.03310)] [[project](https://rdt-robotics.github.io/rdt2/)] [[code](https://github.com/thu-ml/RDT2)]
 
 ### 2025 
 
