@@ -67,6 +67,8 @@ However, particularly influential or representative works may be highlighted at 
 - [2026] LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries [[paper](https://arxiv.org/pdf/2601.15197)] [[code](https://github.com/ZGC-EmbodyAI/LangForce)]
 - [2026] RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization [[paper](https://arxiv.org/pdf/2602.03310)] [[project](https://rdt-robotics.github.io/rdt2/)] [[code](https://github.com/thu-ml/RDT2)]
 - [2026] [**Dexmal**] DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI [[paper](https://dexmal.com/DM0_Tech_Report.pdf)] [[code](https://github.com/Dexmal/dexbotic)]
+- [2026] CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding [[paper](https://arxiv.org/pdf/2601.02295)] [[project](https://dannymcy.github.io/cyclevla/)]
+
 
 ### 2025 
 
