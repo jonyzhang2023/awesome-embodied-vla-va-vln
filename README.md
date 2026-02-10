@@ -74,6 +74,7 @@ However, particularly influential or representative works may be highlighted at 
 
 
 - [2025] Spirit-v1.5 [[report](https://www.spirit-ai.com/en/blog/spirit-v1-5)] [[code](https://github.com/Spirit-AI-Team/spirit-v1.5?tab=readme-ov-file)]
+- [2025] GigaBrain-0: A World Model-Powered Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2510.19430)] [[[project])(https://gigabrain0.github.io/)] [[code](https://github.com/open-gigaai/giga-brain-0)]
 - [2025] [**Nvidia**] [**NeurIPS 25**] ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning [[paper](https://arxiv.org/pdf/2507.16815)] [[project](https://jasper0314-huang.github.io/thinkact-vla/)]
 - [2025] StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing [[report](https://www.overleaf.com/read/qqtwrnprctkf#d5bdce)] [[code](https://github.com/starVLA/starVLA)]
 - [2025] RLinf: Reinforcement Learning Infrastructure for Post-training [[doc](https://rlinf.readthedocs.io/en/latest/)] [[code](https://github.com/RLinf/RLinf)]
