@@ -66,6 +66,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2026] TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers [[paper](https://arxiv.org/pdf/2601.14133)] [[code](https://github.com/ZGC-EmbodyAI/TwinBrainVLA)]
 - [2026] LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries [[paper](https://arxiv.org/pdf/2601.15197)] [[code](https://github.com/ZGC-EmbodyAI/LangForce)]
 - [2026] RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization [[paper](https://arxiv.org/pdf/2602.03310)] [[project](https://rdt-robotics.github.io/rdt2/)] [[code](https://github.com/thu-ml/RDT2)]
+- [2026] [**Dexmal**] DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI [[paper](https://dexmal.com/DM0_Tech_Report.pdf)] [[code](https://github.com/Dexmal/dexbotic)]
 
 ### 2025 
 
