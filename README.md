@@ -798,6 +798,7 @@ However, particularly influential or representative works may be highlighted at 
 - Awesome-VLA-Post-Training [[repo](https://github.com/AoqunJin/Awesome-VLA-Post-Training)]
 - Awesome-BFM-Papers [[repo](https://github.com/yuanmingqi/awesome-bfm-papers)]
 - Awesome-Physical-AI [[repo](https://github.com/keon/awesome-physical-ai)]
+- Awesome VLA Study [[repo](https://github.com/MilkClouds/awesome-vla-study)]
 
 ## Star History
 
