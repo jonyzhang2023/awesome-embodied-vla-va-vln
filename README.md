@@ -60,7 +60,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/pdf/2407.06886)]
 - [2024] Vision-language navigation: a survey and taxonomy [[paper](https://arxiv.org/pdf/2108.11544)]
 
-## 💥 Vision Language Action (VLA) Models
+## 💥 Vision Language Action (VLA) Models & World Action Models (WAM)
 
 ### 2026
 - [2026] [**Physical Intelligence**] MEM: Multi-Scale Embodied Memory for Vision Language Action Models [[paper](https://www.pi.website/download/Mem.pdf)] [[blog](https://www.pi.website/research/memory)]
@@ -79,6 +79,7 @@ However, particularly influential or representative works may be highlighted at 
 - [2026] CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding [[paper](https://arxiv.org/pdf/2601.02295)] [[project](https://dannymcy.github.io/cyclevla/)]
 - [2026] [**GigaAI**] GigaBrain-0.5M*: a VLA That Learns From WorldModel-Based Reinforcement Learning [[paper](https://arxiv.org/pdf/2602.12099)] [[project](https://gigabrain05m.github.io/)]
 - [2026] ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning [[paper](https://arxiv.org/pdf/2602.11236)] [[project](https://amap-cvlab.github.io/ABot-Manipulation/)] [[code](https://github.com/amap-cvlab/ABot-Manipulation)]
+- [2026] [**Mondo Robotics**] DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control [[paper](https://arxiv.org/pdf/2603.10448)] [[project](https://dit4dit.github.io/)]
 
 
 ### 2025 
