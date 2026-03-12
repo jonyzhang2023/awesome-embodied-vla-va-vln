@@ -2,6 +2,8 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
+
+
 As more and more outstanding vision-language-based policies emerge, this repository aims to organize and showcase the state-of-the-art technologies in robot learning, including vision-language-action (VLA) models, vision-language-navigation (VLN) models, vision-action (VA) models and other MLLM-based embodied learning. We hope that in the near future, robotics will experience its own 'LLM moment.'
 
 This repository will be continuously updated, and we warmly invite contributions from the community. **If you have any papers, projects, or resources that are not yet included, please feel free to submit them via a pull request or open an issue for discussion.**
@@ -9,6 +11,10 @@ This repository will be continuously updated, and we warmly invite contributions
 Let's build a comprehensive resource for the robotics and AI community!
 
 *Jony and Sage*
+
+## 🌟 Recent Updates
+
+- [x] **Expanded VLA Section**: The Vision-Language-Action (VLA) section has been updated to include the latest research on **Video-Action Models** (also known as World Action Models or WAMs). This reflects the growing trend of models that explore video-based action generation for robotics.
 
 
 ## 📌 Note on Paper Ordering
