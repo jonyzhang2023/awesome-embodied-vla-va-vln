@@ -1,30 +1,61 @@
-# Awesome Embodied VLA/VA/VLN
+<div align="center">
+
+# 🤖 Awesome Embodied VLA / VA / VLN
+
+**A Curated Collection of Cutting-Edge Research in Embodied AI**
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Papers](https://img.shields.io/badge/Papers-700%2B-0984e3?style=for-the-badge&logo=google-scholar&logoColor=white)](README.md)
+[![Last Commit](https://img.shields.io/github/last-commit/jonyzhang2023/awesome-embodied-vla-va-vln?style=for-the-badge&color=00b894)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln/commits)
+[![Stars](https://img.shields.io/github/stars/jonyzhang2023/awesome-embodied-vla-va-vln?style=for-the-badge&color=fdcb6e&logo=github)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln/stargazers)
+[![Forks](https://img.shields.io/github/forks/jonyzhang2023/awesome-embodied-vla-va-vln?style=for-the-badge&color=e17055&logo=github)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln/network/members)
 
+<br>
 
+*Organizing and showcasing state-of-the-art technologies in robot learning —*
+*Vision-Language-Action (VLA), Vision-Language-Navigation (VLN), Vision-Action (VA),*
+*and MLLM-based Embodied Learning.*
 
+**We believe robotics will experience its own "LLM moment."**
 
-As more and more outstanding vision-language-based policies emerge, this repository aims to organize and showcase the state-of-the-art technologies in robot learning, including vision-language-action (VLA) models, vision-language-navigation (VLN) models, vision-action (VA) models and other MLLM-based embodied learning. We hope that in the near future, robotics will experience its own 'LLM moment.'
+<br>
 
-This repository will be continuously updated, and we warmly invite contributions from the community. **If you have any papers, projects, or resources that are not yet included, please feel free to submit them via a pull request or open an issue for discussion.**
+Curated with ❤️ by **Jony** & **Sage**
 
-Let's build a comprehensive resource for the robotics and AI community!
+---
 
-*Jony and Sage*
+</div>
 
-## 🌟 Recent Updates
+## 📋 Table of Contents
 
-- [x] **Expanded VLA Section**: The Vision-Language-Action (VLA) section has been updated to include the latest research on **Video-Action Models** (also known as World Action Models or WAMs). This reflects the growing trend of models that explore video-based action generation for robotics.
+| | Section | Description |
+|:---:|:---|:---|
+| 📚 | [Survey](#-survey) | Comprehensive surveys and reviews |
+| 💥 | [VLA & WAM Models](#-vision-language-action-vla-models--world-action-models-wam) | Vision-Language-Action & World Action Models |
+| 🚶 | [VLN Models](#-vision-language-navigation-vln-models) | Vision-Language Navigation Models |
+| 🎬 | [VA Models](#-vision-action-va-models) | Vision-Action Models & Diffusion Policies |
+| 🧠 | [MLLM-based Embodied Learning](#-other-multimodal-large-language-model-mllm-basedrelated-embodied-learning) | LLM/VLM-driven robotic reasoning & planning |
+| ⚡ | [Physics-aware Policy](#physics-aware-policy) | Physics-informed policy learning |
+| 🔄 | [Sim-to-Real Transfer](#sim-to-real-transfer) | Bridging simulation and reality |
+| 📊 | [Benchmark](#benchmark) | Evaluation benchmarks & datasets |
+| 🎮 | [Simulator](#simulator) | Simulation platforms & engines |
+| 🔗 | [Related Works](#related-works) | Other awesome lists & resources |
 
+<br>
 
-## 📌 Note on Paper Ordering
+> [!NOTE]
+> **Paper Ordering** — Within each year, papers are generally listed in reverse chronological order (newer papers appear lower). Particularly influential or representative works may be highlighted at the top regardless of date.
 
-Within each year section, papers are generally listed in reverse chronological order (newer papers appear lower in the list).  
-However, particularly influential or representative works may be highlighted at the top of each year's section, regardless of their exact publication date.  
+> [!TIP]
+> **Contributing** — This repository is continuously updated! If you have papers, projects, or resources not yet included, please submit a **Pull Request** or open an **Issue**. Let's build a comprehensive resource for the robotics and AI community!
 
+<br>
 
+---
 
 ## 📚 Survey
+
+> *Comprehensive surveys and review papers covering the landscape of embodied AI.*
 
 - [2025] [**Science Robotics**] A Review of Learning-based Dynamics Models for Robotic Manipulation [[paper](https://albertboai.com/assets/pdf/2025_scirobotics.adt1497.pdf)] 
 - [2025] An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges [[paper](https://arxiv.org/pdf/2512.11362)] [[project](https://suyuz1.github.io/Survery/)]
@@ -78,7 +109,6 @@ However, particularly influential or representative works may be highlighted at 
 - [2026] [**Dexmal**] DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI [[paper](https://dexmal.com/DM0_Tech_Report.pdf)] [[code](https://github.com/Dexmal/dexbotic)]
 - [2026] CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding [[paper](https://arxiv.org/pdf/2601.02295)] [[project](https://dannymcy.github.io/cyclevla/)]
 - [2026] [**GigaAI**] GigaBrain-0.5M*: a VLA That Learns From WorldModel-Based Reinforcement Learning [[paper](https://arxiv.org/pdf/2602.12099)] [[project](https://gigabrain05m.github.io/)]
-- [2026] ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning [[paper](https://arxiv.org/pdf/2602.11236)] [[project](https://amap-cvlab.github.io/ABot-Manipulation/)] [[code](https://github.com/amap-cvlab/ABot-Manipulation)]
 - [2026] [**Mondo Robotics**] DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control [[paper](https://arxiv.org/pdf/2603.10448)] [[project](https://dit4dit.github.io/)]
 
 
@@ -131,7 +161,6 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control [[paper](https://arxiv.org/pdf/2502.05855)]
 - [2025] HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation [[paper](https://arxiv.org/pdf/2502.05485)]
 - [2025] Temporal Representation Alignment: Successor Features Enable Emergent Compositionality in Robot Instruction Following Temporal Representation Alignment [[paper](https://arxiv.org/pdf/2502.05454)]
-- [2025] ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/pdf/2502.05450)]
 - [2025] RoboBERT: An End-to-end Multimodal Robotic Manipulation Model [[paper](https://arxiv.org/pdf/2502.07837)]
 - [2025] Diffusion Transformer Policy: Scaling Diffusion Transformer for Generalist Visual-Language-Action Learning [[paper](https://arxiv.org/pdf/2410.15959)]
 - [2025] GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation [[paper](https://arxiv.org/pdf/2502.09268)]
@@ -183,7 +212,6 @@ However, particularly influential or representative works may be highlighted at 
 - [2025] OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.03912)] [[project](https://openhelix-robot.github.io/)]
 - [2025] CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.02166)]
 - [2025] [**RSS 25**] Learning to Act Anywhere with Task-centric Latent Actions [[paper](https://arxiv.org/pdf/2505.06111)] [[project](https://github.com/OpenDriveLab/UniVLA)]
-- [2025] Pixel Motion as Universal Representation for Robot Control [[paper](https://arxiv.org/pdf/2505.07817)] [[project](https://kahnchana.github.io/LangToMo/)]
 - [2025] [**RSS 25**] CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision [[paper](https://arxiv.org/abs/2411.00508)] [[project](https://clip-rt.github.io/)]
 - [2025] Training Strategies for Efficient Embodied Reasoning [[paper](https://arxiv.org/pdf/2505.08243)]
 - [2025] A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation [[paper](https://arxiv.org/pdf/2504.12636)] [[project](https://a-embodied.github.io/A0/)]
