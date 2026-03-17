@@ -20,7 +20,6 @@
 
 <br>
 
-Curated with ❤️ by **Jony** & **Sage**
 
 ---
 
