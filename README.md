@@ -13,7 +13,7 @@
 <br>
 
 *Organizing and showcasing state-of-the-art technologies in robot learning —*
-*Vision-Language-Action (VLA), Vision-Language-Navigation (VLN), Vision-Action (VA),*
+*Vision-Language-Action (VLA), World-Action-Model (WAM), Vision-Language-Navigation (VLN), Vision-Action (VA),*
 *and MLLM-based Embodied Learning.*
 
 **We believe robotics will experience its own "LLM moment."**
