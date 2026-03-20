@@ -824,6 +824,7 @@
 
 
 ## Related Works
+- OpenWorldLib [[repo](https://github.com/OpenDCAI/OpenWorldLib)]
 - Awesome World Models [[repo](https://github.com/knightnemo/Awesome-World-Models)]
 - Awesome-VLA-Robotics [[repo](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics)]
 - Awesome-VLA-RL [[repo](https://github.com/XiaoWei-i/Awesome-VLA-RL)]
