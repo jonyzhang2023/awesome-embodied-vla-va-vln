@@ -109,7 +109,7 @@
 - [2026] CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding [[paper](https://arxiv.org/pdf/2601.02295)] [[project](https://dannymcy.github.io/cyclevla/)]
 - [2026] [**GigaAI**] GigaBrain-0.5M*: a VLA That Learns From WorldModel-Based Reinforcement Learning [[paper](https://arxiv.org/pdf/2602.12099)] [[project](https://gigabrain05m.github.io/)]
 - [2026] [**Mondo Robotics**] DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control [[paper](https://arxiv.org/pdf/2603.10448)] [[project](https://dit4dit.github.io/)]
-
+- [2026] Fast-WAM: Do World Action Models Need Test-time Future Imagination? [[paper](https://arxiv.org/pdf/2603.16666)] [[project](https://yuantianyuan01.github.io/FastWAM/)] [[code](https://github.com/yuantianyuan01/FastWAM)]
 
 ### 2025 
 
