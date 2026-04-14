@@ -110,6 +110,8 @@
 - [2026] [**GigaAI**] GigaBrain-0.5M*: a VLA That Learns From WorldModel-Based Reinforcement Learning [[paper](https://arxiv.org/pdf/2602.12099)] [[project](https://gigabrain05m.github.io/)]
 - [2026] [**Mondo Robotics**] DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control [[paper](https://arxiv.org/pdf/2603.10448)] [[project](https://dit4dit.github.io/)]
 - [2026] Fast-WAM: Do World Action Models Need Test-time Future Imagination? [[paper](https://arxiv.org/pdf/2603.16666)] [[project](https://yuantianyuan01.github.io/FastWAM/)] [[code](https://github.com/yuantianyuan01/FastWAM)]
+- [2026] Ψ₀: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation [[paper](https://arxiv.org/pdf/2603.12263)] [[project](https://psi-lab.ai/Psi0)] [[code](https://github.com/physical-superintelligence-lab/Psi0)]
+
 
 ### 2025 
 
