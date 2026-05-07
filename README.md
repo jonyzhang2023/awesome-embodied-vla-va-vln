@@ -93,6 +93,8 @@
 ## 💥 Vision Language Action (VLA) Models & World Action Models (WAM)
 
 ### 2026
+- [2026] [**Genesis**] GENE-26.5: Advancing Robotic Manipulation to Human Level [[blog](https://www.genesis.ai/blog/gene-26-5-advancing-robotic-manipulation-to-human-level)]
+- [2026] [**Generalist**] GEN-1: Scaling Embodied Foundation Models to Mastery [[blog](https://generalistai.com/blog/apr-02-2026-GEN-1)]
 - [2026] [**Physical Intelligence**] MEM: Multi-Scale Embodied Memory for Vision Language Action Models [[paper](https://www.pi.website/download/Mem.pdf)] [[blog](https://www.pi.website/research/memory)]
 - [2026] [**Physical Intelligence**] [**ICLR 26**] MemER: Scaling Up Memory for Robot Control via Experience Retrieval [[paper](https://arxiv.org/pdf/2510.20328)] [[project](https://jen-pan.github.io/memer/)]
 - [2026] [**AMap Group**] ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning [[paper](https://arxiv.org/pdf/2602.11236)] [[project](https://amap-cvlab.github.io/ABot-Manipulation/)] [[code](https://github.com/amap-cvlab/ABot-Manipulation)]
