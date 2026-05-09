@@ -56,6 +56,8 @@
 
 > *Comprehensive surveys and review papers covering the landscape of embodied AI.*
 
+
+- [2026] World Model for Robot Learning: A Comprehensive Survey [[paper](https://arxiv.org/pdf/2605.00080)] 
 - [2025] [**Science Robotics**] A Review of Learning-based Dynamics Models for Robotic Manipulation [[paper](https://albertboai.com/assets/pdf/2025_scirobotics.adt1497.pdf)] 
 - [2025] An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges [[paper](https://arxiv.org/pdf/2512.11362)] [[project](https://suyuz1.github.io/Survery/)]
 - [2025] A Comprehensive Survey on World Models for Embodied AI [[paper](https://www.arxiv.org/pdf/2510.16732)] [[project](https://github.com/Li-Zn-H/AwesomeWorldModels)]  
