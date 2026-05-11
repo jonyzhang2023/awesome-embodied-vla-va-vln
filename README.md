@@ -802,6 +802,7 @@
 - [2025] Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware [[paper](https://arxiv.org/pdf/2505.09601)] [[project](https://real2render2real.com/)]
 
 ## Benchmark
+- [2026] [**ICRA 26**] NavSpace: How Intelligent Agents Follow Spatial Intelligence Instructions [[paper](https://arxiv.org/abs/2510.08173)] [[code](https://github.com/TidalHarley/NavSpace)]
 - [2025] RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.18088)] [[project](https://robotwin-platform.github.io/)]
 - [2025] RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies [[paper](https://arxiv.org/pdf/2506.18123)] [[project](https://robo-arena.github.io/)]
 - [2025] RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation [[paper](https://arxiv.org/pdf/2506.06677)] [[project](https://robocerebra.github.io/)]
