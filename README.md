@@ -95,6 +95,7 @@
 ## 💥 Vision Language Action (VLA) Models & World Action Models (WAM)
 
 ### 2026
+- [2026] [**Science Robotics**] A careful examination of large behavior models formultitask dexterous manipulation [[paper](https://arxiv.org/pdf/2507.05331)] 
 - [2026] [**Genesis**] GENE-26.5: Advancing Robotic Manipulation to Human Level [[blog](https://www.genesis.ai/blog/gene-26-5-advancing-robotic-manipulation-to-human-level)]
 - [2026] [**Generalist**] GEN-1: Scaling Embodied Foundation Models to Mastery [[blog](https://generalistai.com/blog/apr-02-2026-GEN-1)]
 - [2026] [**Physical Intelligence**] MEM: Multi-Scale Embodied Memory for Vision Language Action Models [[paper](https://www.pi.website/download/Mem.pdf)] [[blog](https://www.pi.website/research/memory)]
