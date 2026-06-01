@@ -120,8 +120,8 @@
 - [2026] Ψ₀: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation [[paper](https://arxiv.org/pdf/2603.12263)] [[project](https://psi-lab.ai/Psi0)] [[code](https://github.com/physical-superintelligence-lab/Psi0)]
 - [2026] ROSClaw [[project](https://www.rosclaw.io/)] [[code](https://github.com/ros-claw/rosclaw)]
 - [2026] ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models [[paper](https://arxiv.org/abs/2605.24011)] [[project](https://actquant.github.io/)] [[code](https://github.com/arashakb/ActQuant)]
-- [2026]GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation [[paper](https://arxiv.org/pdf/2605.22882)]
-- 
+- [2026] GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation [[paper](https://arxiv.org/pdf/2605.22882)]
+- [2026] Turning Video Models into Generalist Robot Policies [[paper](https://arxiv.org/pdf/2605.27817)] [[project](https://vera.csail.mit.edu/#)]
 
 
 
