@@ -95,6 +95,7 @@
 ## 💥 Vision Language Action (VLA) Models & World Action Models (WAM)
 
 ### 2026
+
 - [2026] [**Science Robotics**] A careful examination of large behavior models formultitask dexterous manipulation [[paper](https://arxiv.org/pdf/2507.05331)] 
 - [2026] [**Genesis**] GENE-26.5: Advancing Robotic Manipulation to Human Level [[blog](https://www.genesis.ai/blog/gene-26-5-advancing-robotic-manipulation-to-human-level)]
 - [2026] [**Generalist**] GEN-1: Scaling Embodied Foundation Models to Mastery [[blog](https://generalistai.com/blog/apr-02-2026-GEN-1)]
@@ -117,6 +118,7 @@
 - [2026] Fast-WAM: Do World Action Models Need Test-time Future Imagination? [[paper](https://arxiv.org/pdf/2603.16666)] [[project](https://yuantianyuan01.github.io/FastWAM/)] [[code](https://github.com/yuantianyuan01/FastWAM)]
 - [2026] Ψ₀: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation [[paper](https://arxiv.org/pdf/2603.12263)] [[project](https://psi-lab.ai/Psi0)] [[code](https://github.com/physical-superintelligence-lab/Psi0)]
 - [2026] ROSClaw [[project](https://www.rosclaw.io/)] [[code](https://github.com/ros-claw/rosclaw)]
+- [2026] ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models [[paper](https://arxiv.org/abs/2605.24011)] [[project](https://actquant.github.io/)] [[code](https://github.com/arashakb/ActQuant)]
 
 
 ### 2025 
