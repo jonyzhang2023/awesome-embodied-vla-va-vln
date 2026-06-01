@@ -96,6 +96,7 @@
 
 ### 2026
 
+
 - [2026] [**Science Robotics**] A careful examination of large behavior models formultitask dexterous manipulation [[paper](https://arxiv.org/pdf/2507.05331)] 
 - [2026] [**Genesis**] GENE-26.5: Advancing Robotic Manipulation to Human Level [[blog](https://www.genesis.ai/blog/gene-26-5-advancing-robotic-manipulation-to-human-level)]
 - [2026] [**Generalist**] GEN-1: Scaling Embodied Foundation Models to Mastery [[blog](https://generalistai.com/blog/apr-02-2026-GEN-1)]
@@ -119,11 +120,14 @@
 - [2026] Ψ₀: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation [[paper](https://arxiv.org/pdf/2603.12263)] [[project](https://psi-lab.ai/Psi0)] [[code](https://github.com/physical-superintelligence-lab/Psi0)]
 - [2026] ROSClaw [[project](https://www.rosclaw.io/)] [[code](https://github.com/ros-claw/rosclaw)]
 - [2026] ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models [[paper](https://arxiv.org/abs/2605.24011)] [[project](https://actquant.github.io/)] [[code](https://github.com/arashakb/ActQuant)]
+- [2026]GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation [[paper](https://arxiv.org/pdf/2605.22882)]
+- 
+
 
 
 ### 2025 
 
-
+- [2025] Large Video Planner [[paper](https://arxiv.org/abs/2512.15840)] [[[project])(https://www.boyuan.space/large-video-planner/)] [[code](https://github.com/buoyancy99/large-video-planner/tree/main)] 
 - [2025] Spirit-v1.5 [[report](https://www.spirit-ai.com/en/blog/spirit-v1-5)] [[code](https://github.com/Spirit-AI-Team/spirit-v1.5?tab=readme-ov-file)]
 - [2025] GigaBrain-0: A World Model-Powered Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2510.19430)] [[[project])(https://gigabrain0.github.io/)] [[code](https://github.com/open-gigaai/giga-brain-0)]
 - [2025] [**Nvidia**] [**NeurIPS 25**] ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning [[paper](https://arxiv.org/pdf/2507.16815)] [[project](https://jasper0314-huang.github.io/thinkact-vla/)]
