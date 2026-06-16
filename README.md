@@ -99,7 +99,7 @@
 
 - [2026] [**Science Robotics**] A careful examination of large behavior models for multitask dexterous manipulation [[paper](https://arxiv.org/pdf/2507.05331)]
 - [2026] [**QWen**] Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments [[paper](https://arxiv.org/pdf/2605.30280)] [[code](https://github.com/QwenLM/Qwen-VLA)]
-- [2026] [**Nvidia**] GROOT 0.7 [[blog](https://huggingface.co/nvidia/GR00T-N1.7-3B)] [[code](https://github.com/NVIDIA/Isaac-GR00T)]
+- [2026] [**Nvidia**] GROOT 1.7 [[blog](https://huggingface.co/nvidia/GR00T-N1.7-3B)] [[code](https://github.com/NVIDIA/Isaac-GR00T)]
 - [2026] [**Genesis**] GENE-26.5: Advancing Robotic Manipulation to Human Level [[blog](https://www.genesis.ai/blog/gene-26-5-advancing-robotic-manipulation-to-human-level)]
 - [2026] [**Generalist**] GEN-1: Scaling Embodied Foundation Models to Mastery [[blog](https://generalistai.com/blog/apr-02-2026-GEN-1)]
 - [2026] [**Physical Intelligence**] MEM: Multi-Scale Embodied Memory for Vision Language Action Models [[paper](https://www.pi.website/download/Mem.pdf)] [[blog](https://www.pi.website/research/memory)]
@@ -120,6 +120,7 @@
 - [2026] [**Mondo Robotics**] DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control [[paper](https://arxiv.org/pdf/2603.10448)] [[project](https://dit4dit.github.io/)]
 - [2026] Fast-WAM: Do World Action Models Need Test-time Future Imagination? [[paper](https://arxiv.org/pdf/2603.16666)] [[project](https://yuantianyuan01.github.io/FastWAM/)] [[code](https://github.com/yuantianyuan01/FastWAM)]
 - [2026] Ψ₀: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation [[paper](https://arxiv.org/pdf/2603.12263)] [[project](https://psi-lab.ai/Psi0)] [[code](https://github.com/physical-superintelligence-lab/Psi0)]
+- [2026] ReMem-VLA: Empowering Vision-Language-Action Model with Memory via Dual-Level Recurrent Queries [[paper](https://arxiv.org/pdf/2603.12942)] 
 - [2026] ROSClaw [[project](https://www.rosclaw.io/)] [[code](https://github.com/ros-claw/rosclaw)]
 - [2026] ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models [[paper](https://arxiv.org/abs/2605.24011)] [[project](https://actquant.github.io/)] [[code](https://github.com/arashakb/ActQuant)]
 - [2026] GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation [[paper](https://arxiv.org/pdf/2605.22882)]
