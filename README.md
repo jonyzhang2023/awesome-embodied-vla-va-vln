@@ -831,6 +831,7 @@
 - [2024] Towards Diverse Behaviors: A Benchmark for Imitation Learning with Human Demonstrations [[paper](https://arxiv.org/pdf/2402.14606)]
 
 ## Simulator
+- [2025] UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI [[paper](https://arxiv.org/abs/2412.20977)] [[project](https://unrealzoo.site/)] [[repo](https://github.com/UnrealZoo/unrealzoo-gym)]
 - [2025] DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy [[paper](https://arxiv.org/pdf/2505.11032)] [[project](https://wayrise.github.io/DexGarmentLab/)]
 - [2025] MuBlE: MuJoCo and Blender simulation Environment and Benchmark for Task Planning in Robot Manipulation [[paper](https://arxiv.org/pdf/2503.02834)] [[project](https://github.com/michaal94/MuBlE)]
 - [2025] MuJoCo Playground [[paper](https://arxiv.org/pdf/2502.08844)]
