@@ -97,12 +97,14 @@
 ### 2026
 
 
+- [2026] GeneralVLA-2: Geometry-Aware Reconstruction and Governed Memory for Robot Planning [[paper](https://arxiv.org/pdf/2606.17480)] [[code](https://github.com/AIGeeksGroup/GeneralVLA-2)] [[blog](https://aigeeksgroup.github.io/GeneralVLA-2/)]
 - [2026] [**Tencent**] Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack [[paper](https://arxiv.org/pdf/2606.14409v1)] [[blog](https://tairos.tencent.com/openSourceModels/hy-embodied-0.5-vla)] [[code](https://github.com/Tencent-Hunyuan/Hy-Embodied-0.5-VLA)]
 - [2026] [**Science Robotics**] A careful examination of large behavior models for multitask dexterous manipulation [[paper](https://arxiv.org/pdf/2507.05331)]
 - [2026] [**QWen**] Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments [[paper](https://arxiv.org/pdf/2605.30280)] [[code](https://github.com/QwenLM/Qwen-VLA)]
 - [2026] [**Nvidia**] GROOT 1.7 [[blog](https://huggingface.co/nvidia/GR00T-N1.7-3B)] [[code](https://github.com/NVIDIA/Isaac-GR00T)]
 - [2026] [**Genesis**] GENE-26.5: Advancing Robotic Manipulation to Human Level [[blog](https://www.genesis.ai/blog/gene-26-5-advancing-robotic-manipulation-to-human-level)]
 - [2026] [**Generalist**] GEN-1: Scaling Embodied Foundation Models to Mastery [[blog](https://generalistai.com/blog/apr-02-2026-GEN-1)]
+- [2026] GeneralVLA: Generalizable Vision-Language-Action Models with Knowledge-Guided Trajectory Planning [[paper](https://arxiv.org/abs/2602.04315)] [[code](https://github.com/AIGeeksGroup/GeneralVLA)] [[blog](https://aigeeksgroup.github.io/GeneralVLA/)]
 - [2026] [**Physical Intelligence**] MEM: Multi-Scale Embodied Memory for Vision Language Action Models [[paper](https://www.pi.website/download/Mem.pdf)] [[blog](https://www.pi.website/research/memory)]
 - [2026] [**Physical Intelligence**] [**ICLR 26**] MemER: Scaling Up Memory for Robot Control via Experience Retrieval [[paper](https://arxiv.org/pdf/2510.20328)] [[project](https://jen-pan.github.io/memer/)]
 - [2026] [**AMap Group**] ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning [[paper](https://arxiv.org/pdf/2602.11236)] [[project](https://amap-cvlab.github.io/ABot-Manipulation/)] [[code](https://github.com/amap-cvlab/ABot-Manipulation)]
@@ -123,6 +125,7 @@
 - [2026] Ψ₀: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation [[paper](https://arxiv.org/pdf/2603.12263)] [[project](https://psi-lab.ai/Psi0)] [[code](https://github.com/physical-superintelligence-lab/Psi0)]
 - [2026] ReMem-VLA: Empowering Vision-Language-Action Model with Memory via Dual-Level Recurrent Queries [[paper](https://arxiv.org/pdf/2603.12942)] 
 - [2026] ROSClaw [[project](https://www.rosclaw.io/)] [[code](https://github.com/ros-claw/rosclaw)]
+- [2026] SimVLA: A Simple VLA Baseline for Robotic Manipulation [[paper](https://arxiv.org/pdf/2602.18224)]
 - [2026] ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models [[paper](https://arxiv.org/abs/2605.24011)] [[project](https://actquant.github.io/)] [[code](https://github.com/arashakb/ActQuant)]
 - [2026] GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation [[paper](https://arxiv.org/pdf/2605.22882)]
 - [2026] Turning Video Models into Generalist Robot Policies [[paper](https://arxiv.org/pdf/2605.27817)] [[project](https://vera.csail.mit.edu/#)]
