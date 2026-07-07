@@ -126,6 +126,7 @@
 - [2026] ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models [[paper](https://arxiv.org/abs/2605.24011)] [[project](https://actquant.github.io/)] [[code](https://github.com/arashakb/ActQuant)]
 - [2026] GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation [[paper](https://arxiv.org/pdf/2605.22882)]
 - [2026] Turning Video Models into Generalist Robot Policies [[paper](https://arxiv.org/pdf/2605.27817)] [[project](https://vera.csail.mit.edu/#)]
+- [2026] [**ZJU-OmniAI**] VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon [[paper](https://arxiv.org/abs/2607.01804)] [[project](https://zju-omniai.github.io/vla-corrector/)] [[code](https://github.com/ZJU-OmniAI/vla-corrector)]
 
 
 
