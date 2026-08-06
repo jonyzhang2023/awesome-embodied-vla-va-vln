@@ -861,6 +861,7 @@
 - Awesome-BFM-Papers [[repo](https://github.com/yuanmingqi/awesome-bfm-papers)]
 - Awesome-Physical-AI [[repo](https://github.com/keon/awesome-physical-ai)]
 - Awesome VLA Study [[repo](https://github.com/MilkClouds/awesome-vla-study)]
+- Physical AI Atlas — open dataset (CC BY 4.0) of the physical AI ecosystem: humanoid robots, industrial platforms, VLA models, embedded chips, simulators and labs, bilingual FR/EN and dated per entry [[repo](https://github.com/PlbKin190/physical-ai-atlas-data)] [[site](https://www.d-fairy.fr/atlas/)]
 
 ## Star History
 
