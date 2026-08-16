@@ -865,4 +865,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jonyzhang2023/awesome-embodied-vla-va-vln&type=Date)](https://star-history.com/#jonyzhang2023/awesome-embodied-vla-va-vln&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=jonyzhang2023/awesome-embodied-vla-va-vln&type=Date)](https://star-history.dera.page/#jonyzhang2023/awesome-embodied-vla-va-vln&type=date)
