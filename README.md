@@ -98,6 +98,7 @@
 
 
 
+- [2026] [**Tsinghua & AMap Group**] ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts [[paper](https://arxiv.org/pdf/2607.28993)] [[project](https://thu-wangmx.github.io/st-wam/)] [[code](https://github.com/Thu-WangMX/ST-WAM-Semantic-Temporal-World-Action-Model)]
 - [2026] [**Tencent**] Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack [[paper](https://arxiv.org/pdf/2606.14409v1)] [[blog](https://tairos.tencent.com/openSourceModels/hy-embodied-0.5-vla)] [[code](https://github.com/Tencent-Hunyuan/Hy-Embodied-0.5-VLA)]
 - [2026] [**Science Robotics**] A careful examination of large behavior models for multitask dexterous manipulation [[paper](https://arxiv.org/pdf/2507.05331)]
 - [2026] [**QWen**] Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments [[paper](https://arxiv.org/pdf/2605.30280)] [[code](https://github.com/QwenLM/Qwen-VLA)]
