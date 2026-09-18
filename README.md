@@ -97,7 +97,6 @@
 ### 2026
 
 
-
 - [2026] [**Tencent**] Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack [[paper](https://arxiv.org/pdf/2606.14409v1)] [[blog](https://tairos.tencent.com/openSourceModels/hy-embodied-0.5-vla)] [[code](https://github.com/Tencent-Hunyuan/Hy-Embodied-0.5-VLA)]
 - [2026] [**Science Robotics**] A careful examination of large behavior models for multitask dexterous manipulation [[paper](https://arxiv.org/pdf/2507.05331)]
 - [2026] [**QWen**] Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments [[paper](https://arxiv.org/pdf/2605.30280)] [[code](https://github.com/QwenLM/Qwen-VLA)]
@@ -132,6 +131,7 @@
 - [2026] GeneralVLA-2: Geometry-Aware Reconstruction and Governed Memory for Robot Planning [[paper](https://arxiv.org/pdf/2606.17480)] [[code](https://github.com/AIGeeksGroup/GeneralVLA-2)] [[blog](https://aigeeksgroup.github.io/GeneralVLA-2/)]
 - [2026] GeneralVLA: Generalizable Vision-Language-Action Models with Knowledge-Guided Trajectory Planning [[paper](https://arxiv.org/abs/2602.04315)] [[code](https://github.com/AIGeeksGroup/GeneralVLA)] [[blog](https://aigeeksgroup.github.io/GeneralVLA/)]
 - [2026] [**ICML 26**] FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation [[website](https://focavla.github.io/)] [[paper](https://arxiv.org/abs/2606.20867)] [[code](https://github.com/cair-vinuni/FOCA)]
+- [2026] RL²-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2607.26991)] [[project](https://rl2-vla.github.io/)] [[code](https://github.com/marmotlab/RL2-VLA)]
 
 ### 2025 
 
