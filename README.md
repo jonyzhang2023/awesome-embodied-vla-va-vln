@@ -460,6 +460,7 @@
 ## 🎬 Vision Action (VA) Models
 
 ### 2026
+- [2026] [**ECCV 26**] DriveVA: Video Action Models are Zero-Shot Drivers [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19)] [[code](https://github.com/xiaomi-mlab/DriveVA)]
 - [2025] [**ICLR 26**] Compose Your Policies! Improving Diffusion-based or Flow-based Robot Policies via Test-time Distribution-level Composition [[paper](https://arxiv.org/pdf/2510.01068)] [[project](https://sagecao1125.github.io/GPC-Site/)] [[code](https://github.com/SageCao1125/GPC)] 
 - [2026] PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation [[paper](https://arxiv.org/pdf/2601.03782)] [[project](https://point-world.github.io/)] [[code](https://github.com/huangwl18/PointWorld)]
 - [2026] X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning [[paper](https://arxiv.org/pdf/2601.11269)] [[project](https://x-distill.github.io/)]
