@@ -132,6 +132,7 @@
 - [2026] GeneralVLA-2: Geometry-Aware Reconstruction and Governed Memory for Robot Planning [[paper](https://arxiv.org/pdf/2606.17480)] [[code](https://github.com/AIGeeksGroup/GeneralVLA-2)] [[blog](https://aigeeksgroup.github.io/GeneralVLA-2/)]
 - [2026] GeneralVLA: Generalizable Vision-Language-Action Models with Knowledge-Guided Trajectory Planning [[paper](https://arxiv.org/abs/2602.04315)] [[code](https://github.com/AIGeeksGroup/GeneralVLA)] [[blog](https://aigeeksgroup.github.io/GeneralVLA/)]
 - [2026] [**ICML 26**] FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation [[website](https://focavla.github.io/)] [[paper](https://arxiv.org/abs/2606.20867)] [[code](https://github.com/cair-vinuni/FOCA)]
+- [2026] LeWAM: Latent evolving World Action Model [[paper](https://arxiv.org/abs/2609.27455)] [[code](https://github.com/XuejiFang/LeWAM)] [[model](https://huggingface.co/XuejiFang/LeWAM)]
 
 ### 2025 
 
