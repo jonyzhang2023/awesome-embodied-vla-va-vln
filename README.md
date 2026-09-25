@@ -691,6 +691,7 @@
 ## 🧠 Other Multimodal Large Language Model (MLLM)-based/related Embodied Learning
 
 ### 2026
+- [2026] Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World [[paper](https://arxiv.org/abs/2609.23038)] [[project](https://zju-omniai.github.io/Spatial-Interactor/)] [[code](https://github.com/ZJU-OmniAI/Spatial-Interactor)]
 - [2026] RoboReward: General-purpose Vision-Language Reward Models for Robotics [[paper](https://arxiv.org/pdf/2601.00675)] [[project](https://crfm.stanford.edu/helm/robo-reward-bench/latest/)] 
 
 ### 2025
