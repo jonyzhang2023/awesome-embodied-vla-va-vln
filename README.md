@@ -464,6 +464,8 @@
 - [2026] PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation [[paper](https://arxiv.org/pdf/2601.03782)] [[project](https://point-world.github.io/)] [[code](https://github.com/huangwl18/PointWorld)]
 - [2026] X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning [[paper](https://arxiv.org/pdf/2601.11269)] [[project](https://x-distill.github.io/)]
 - [2026] Contact-Aware Neural Dynamics [[paper](https://www.arxiv.org/pdf/2601.12796)]
+- [2026] [**RSS 26**] Emergent Neural Automaton Policies: Learning Symbolic Structure from Visuomotor Trajectories [[paper](https://arxiv.org/pdf/2603.25903)] [[project](https://intelligent-control-lab.github.io/ENAP-project-webpage/)] [[code](https://github.com/intelligent-control-lab/ENAP_controller)]
+- [2026] [**CoRL 26**] Inference-Time Robot Behavior Steering through Physically-Aware Reconfiguration of Task-Structure [[paper](https://arxiv.org/pdf/2606.26588)] [[project](https://pyywill.github.io/restruct-corl2026/)]
 
 ### 2025
 
