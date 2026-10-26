@@ -129,6 +129,7 @@
 - [2026] GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation [[paper](https://arxiv.org/pdf/2605.22882)]
 - [2026] Turning Video Models into Generalist Robot Policies [[paper](https://arxiv.org/pdf/2605.27817)] [[project](https://vera.csail.mit.edu/#)]
 - [2026] VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon [[paper](https://arxiv.org/abs/2607.01804)] [[project](https://zju-omniai.github.io/vla-corrector/)] [[code](https://github.com/ZJU-OmniAI/vla-corrector)]
+- [2026] Spotter: Let the Embodied Model Lead, and the VLM Reflect for It [[paper](https://arxiv.org/abs/2609.36808)] [[project](https://zqc3117.github.io/Spotter/)] [[code](https://github.com/zqc3117/Spotter)]
 - [2026] GeneralVLA-2: Geometry-Aware Reconstruction and Governed Memory for Robot Planning [[paper](https://arxiv.org/pdf/2606.17480)] [[code](https://github.com/AIGeeksGroup/GeneralVLA-2)] [[blog](https://aigeeksgroup.github.io/GeneralVLA-2/)]
 - [2026] GeneralVLA: Generalizable Vision-Language-Action Models with Knowledge-Guided Trajectory Planning [[paper](https://arxiv.org/abs/2602.04315)] [[code](https://github.com/AIGeeksGroup/GeneralVLA)] [[blog](https://aigeeksgroup.github.io/GeneralVLA/)]
 - [2026] [**ICML 26**] FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation [[website](https://focavla.github.io/)] [[paper](https://arxiv.org/abs/2606.20867)] [[code](https://github.com/cair-vinuni/FOCA)]
