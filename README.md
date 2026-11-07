@@ -691,6 +691,7 @@
 ## 🧠 Other Multimodal Large Language Model (MLLM)-based/related Embodied Learning
 
 ### 2026
+- [2026] MJev-Spatial: System One Spatial Intelligence via Native Attention Matching [[paper](https://arxiv.org/abs/2610.22276)] [[code](https://github.com/Fr0zenCrane/MJev-Spatial)]
 - [2026] RoboReward: General-purpose Vision-Language Reward Models for Robotics [[paper](https://arxiv.org/pdf/2601.00675)] [[project](https://crfm.stanford.edu/helm/robo-reward-bench/latest/)] 
 
 ### 2025
