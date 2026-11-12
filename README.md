@@ -692,6 +692,7 @@
 
 ### 2026
 - [2026] RoboReward: General-purpose Vision-Language Reward Models for Robotics [[paper](https://arxiv.org/pdf/2601.00675)] [[project](https://crfm.stanford.edu/helm/robo-reward-bench/latest/)] 
+- [2026] [**CVPR 2026 Findings**] Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents [[paper](https://arxiv.org/abs/2605.12620)] [[project](https://nishadsinghi.github.io/vegas)] [[code](https://github.com/nishadsinghi/vegas)]
 
 ### 2025
 - [2025] [**ICRA 25 Best Paper Finalist**] UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation [[paper](https://unsup-affordance.github.io/uad.pdf)] [[project](https://unsup-affordance.github.io/)] 
